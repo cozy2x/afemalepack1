@@ -1,3 +1,4 @@
+2024-12-20T00:18:48.6084831-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-19T23:52:23.3543517-05:00|Created new project.
 2024-12-19T23:52:24.3930780-05:00|Found a valid license. [1648]
 2024-12-19T23:52:24.4653356-05:00|License is not expired. (Expires: 12/21/2024 12:00:00 AM)
@@ -37,3 +38,94 @@
 2024-12-20T00:06:14.4491791-05:00|Project with 1 clothes/decorations saved (D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj).
 2024-12-20T00:06:44.7159476-05:00|Project with 1 clothes/decorations saved (D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj).
 2024-12-20T00:06:52.0830985-05:00|Project with 1 clothes/decorations saved (D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj).
+2024-12-20T00:07:42.6274229-05:00|Failed to load project D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj - does not exist
+2024-12-20T00:07:45.4507030-05:00|Project with 1 clothes/decorations saved (D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj).
+2024-12-20T00:07:46.6176548-05:00|Can't 3D preview texture 'a' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:07:47.6732845-05:00|Can't 3D preview texture 'b' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:08:44.3290799-05:00|Project with 1 clothes/decorations saved (D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj).
+2024-12-20T00:09:29.4594294-05:00|Can't 3D preview texture 'b' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:09:30.4005920-05:00|Can't 3D preview texture 'b' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:09:32.2037206-05:00|Haven't found any textures for texture 'b' of 'Female 0 Hair' (Hair) at pos 0
+2024-12-20T00:09:34.5703183-05:00|Can't 3D preview texture 'b' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:09:35.1885379-05:00|Can't 3D preview texture 'b' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:09:35.7666271-05:00|Can't 3D preview texture 'a' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:09:37.0243282-05:00|Can't 3D preview texture 'b' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:09:40.1573028-05:00|Haven't found any textures for texture 'b' of 'Female 0 Hair' (Hair) at pos 0
+2024-12-20T00:09:47.2723587-05:00|Can't 3D preview texture 'a' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:09:51.2016553-05:00|Removed texture 'b' from 'Female 0 Hair' (Hair) at pos 0
+2024-12-20T00:09:51.2923636-05:00|Removed texture 'a' from 'Female 0 Hair' (Hair) at pos 0
+2024-12-20T00:09:51.5150110-05:00|2 texture(s) deleted.
+2024-12-20T00:09:55.6996899-05:00|Successfully backed up project 2024-12-20 00:09:55.
+2024-12-20T00:09:56.2446024-05:00|Trying to add 2 texture files to selected drawable by drag & drop...
+2024-12-20T00:09:56.8882151-05:00|Added texture S4_3453CF95_80000000_92D0812C80D74143%%+RLE2.rle2.ytd to 'Female 0 Hair' (Hair) at pos 0
+2024-12-20T00:09:57.1826734-05:00|Added texture S4_3453CF95_80000000_92D0812C80D74143%%+RLE2.rle2.ytd to 'Female 0 Hair' (Hair) at pos 0
+2024-12-20T00:10:13.0963701-05:00|Can't 3D preview texture 'a' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:10:15.3546115-05:00|Can't 3D preview texture 'b' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:10:15.8798459-05:00|Can't 3D preview texture 'b' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:10:16.6500418-05:00|Can't 3D preview texture 'b' from model 'Female 0 Hair' (Hair) at pos 0 due to missing model and / or missing texture file.
+2024-12-20T00:10:25.5061418-05:00|Path '' is invalid or does not exist. Using default directory 'D:\3D Models\GTA\District LA\github'.
+2024-12-20T00:10:34.6165589-05:00|Drawable 'Female 0 Hair' (Hair) at pos 0 (ea7ddca5-be02-488f-858e-743e173970e9.ydd) file got successfully updated to fbf5b185-b524-4ca3-8188-37f98c78efc5.ydd.
+2024-12-20T00:10:34.7943967-05:00|Successfully replaced item 'Female 0 Hair' (Hair) at pos 0 file ea7ddca5-be02-488f-858e-743e173970e9.ydd with D:\3D Models\sims\female\Hair1\hair 1 blender\drawable dictionary.ydd.xml (imported as fbf5b185-b524-4ca3-8188-37f98c78efc5.ydd).
+2024-12-20T00:10:40.0201047-05:00|Trying to optimize texture 'b' of 'Female 0 Hair' (Hair) at pos 0 ...
+2024-12-20T00:10:41.2856489-05:00|Texture 'b' (012fbbd7-a687-4bfe-80eb-9963000788c1.ytd) file got successfully updated to c76d2309-7005-45f9-9638-abb2144bfe78.ytd.
+2024-12-20T00:10:41.5596530-05:00|Texture S4_3453CF95_80000000_92D0812C80D74143%%+RLE2.rle2 optimized from 2 MB to 1 MB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 2048px/4096px => 2048px/4096px, mip maps 13 => 13
+2024-12-20T00:10:41.5740315-05:00|Successfully optimized drawable texture 'b' of 'Female 0 Hair' (Hair) at pos 0
+2024-12-20T00:10:54.8024725-05:00|Project with 1 clothes/decorations saved (D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj).
+2024-12-20T00:12:46.0787669-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:12:46.2894976-05:00|Added Female 0 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\CORPOS FREE\[corpos_bagdad_petrovna]\[female]\[uppr_147]\mp_f_freemode_01_mp_f_bikerdlc_01^uppr_018_r.ydd.
+2024-12-20T00:12:55.7006329-05:00|Successfully backed up project 2024-12-20 00:12:55.
+2024-12-20T00:13:23.4581194-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:13:25.8598106-05:00|Enabled adding duplicates automatically for this session (restart app to reset)
+2024-12-20T00:13:25.8721212-05:00|Continue adding possible duplicate texture of 'a' from 'Female 0 Corpos Body' (Body) at pos 0
+2024-12-20T00:13:25.9733110-05:00|Added Female 1 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\CORPOS FREE\[corpos_bagdad_petrovna]\[female]\[uppr_147] opcao sem unha\mp_f_freemode_01_mp_f_bikerdlc_01^uppr_018_r.ydd.
+2024-12-20T00:13:41.1122278-05:00|Removed 'Corpos Body' (See logs for full details). Total items: 2
+2024-12-20T00:13:55.7007566-05:00|Successfully backed up project 2024-12-20 00:13:55.
+2024-12-20T00:14:15.8653491-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T00:14:15.9853729-05:00|Added texture textura_mao_f.ytd to 'Female 1 Body' (Body) at pos 1
+2024-12-20T00:14:22.9848547-05:00|Removed texture 'a' from 'Female 1 Body' (Body) at pos 1
+2024-12-20T00:14:23.0937896-05:00|1 texture(s) deleted.
+2024-12-20T00:14:25.8797962-05:00|Trying to optimize texture 'a' of 'Female 1 Body' (Body) at pos 1 ...
+2024-12-20T00:14:26.0633501-05:00|Texture 'a' (fde7aa5e-65f9-4711-910e-7f9332f9cf92.ytd) file got successfully updated to 45eb080a-9218-48c1-a556-d790ee173f63.ytd.
+2024-12-20T00:14:26.0782706-05:00|Texture textura_mao_f optimized from 405 KB to 91 KB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 512px/512px => 512px/512px, mip maps 10 => 10
+2024-12-20T00:14:26.1261611-05:00|Successfully optimized drawable texture 'a' of 'Female 1 Body' (Body) at pos 1
+2024-12-20T00:14:44.1863932-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:14:44.2377038-05:00|Failed to auto resolve options for uppr_000_r.ydd.
+2024-12-20T00:14:46.8611159-05:00|Added Female 1 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Arms\Dainty_Arms_V1\uppr_000_r.ydd.
+2024-12-20T00:14:55.7011412-05:00|Successfully backed up project 2024-12-20 00:14:55.
+2024-12-20T00:14:57.2183213-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:14:57.2376686-05:00|Failed to auto resolve options for uppr_000_r.ydd.
+2024-12-20T00:14:59.7884874-05:00|Added Female 2 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Arms\Dainty_Arms_V2\uppr_000_r.ydd.
+2024-12-20T00:15:12.9528712-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:15:12.9721983-05:00|Failed to auto resolve options for uppr_000_r.ydd.
+2024-12-20T00:15:15.3114294-05:00|Added Female 3 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Arms\Dainty_Arms_V3\uppr_000_r.ydd.
+2024-12-20T00:15:31.0071807-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:15:31.0295721-05:00|Failed to auto resolve options for lowr_000_r.ydd.
+2024-12-20T00:15:34.6423334-05:00|Added Female 0 Legs with 3 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Legs\Dainty_Legs_V1\lowr_000_r.ydd.
+2024-12-20T00:15:46.2378629-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:15:46.2570970-05:00|Failed to auto resolve options for lowr_000_r.ydd.
+2024-12-20T00:15:48.7535042-05:00|Added Female 1 Legs with 3 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Legs\Dainty_Legs_V2\lowr_000_r.ydd.
+2024-12-20T00:15:55.7161326-05:00|Successfully backed up project 2024-12-20 00:15:55.
+2024-12-20T00:15:58.3719844-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:15:58.3927481-05:00|Failed to auto resolve options for lowr_000_r.ydd.
+2024-12-20T00:16:01.9322531-05:00|Added Female 2 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Legs\Dainty_Legs_V3\lowr_000_r.ydd.
+2024-12-20T00:16:22.0171529-05:00|Trying to add 4 drawable files by drag & drop...
+2024-12-20T00:16:22.2759450-05:00|Added Female 3 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\dbody\mp_f_freemode_01^lowr_010_r.ydd.
+2024-12-20T00:16:22.3789621-05:00|Added Female 4 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\dbody\mp_f_freemode_01_female_heist^uppr_040_r.ydd.
+2024-12-20T00:16:22.4860026-05:00|Added Female 5 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\dbody\mp_f_freemode_01_female_heist^uppr_041_r.ydd.
+2024-12-20T00:16:22.6037167-05:00|Added Female 6 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\dbody\mp_f_freemode_01_female_heist^uppr_042_r.ydd.
+2024-12-20T00:16:55.7010980-05:00|Successfully backed up project 2024-12-20 00:16:55.
+2024-12-20T00:17:05.3971095-05:00|Removed 'Legs' (See logs for full details). Total items: 11
+2024-12-20T00:17:09.1080637-05:00|Removed 3 items (See logs for full details). Total items: 8
+2024-12-20T00:17:14.6425521-05:00|Trying to add 5 drawable files by drag & drop...
+2024-12-20T00:17:14.8508026-05:00|Added Female 3 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\dbody\mp_f_freemode_01^lowr_008_r.ydd.
+2024-12-20T00:17:15.0109243-05:00|Added Female 4 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\dbody\mp_f_freemode_01^lowr_010_r.ydd.
+2024-12-20T00:17:15.0931752-05:00|Added Female 4 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\dbody\mp_f_freemode_01_female_heist^uppr_040_r.ydd.
+2024-12-20T00:17:15.2117513-05:00|Added Female 5 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\dbody\mp_f_freemode_01_female_heist^uppr_041_r.ydd.
+2024-12-20T00:17:15.3040150-05:00|Added Female 6 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\dbody\mp_f_freemode_01_female_heist^uppr_042_r.ydd.
+2024-12-20T00:17:47.0426859-05:00|Project with 13 clothes/decorations saved (D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj).
+2024-12-20T00:17:50.2678514-05:00|Project with 13 clothes/decorations saved (D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj).
+2024-12-20T00:18:48.7338705-05:00|13 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (13 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T00:18:48.7677377-05:00|Loading all 31 items, this can take a moment...
+2024-12-20T00:18:48.8060401-05:00|Finished loading all 31 items.
+2024-12-20T00:18:48.8755875-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 31 items and ready to rock (in 0.3441361 seconds).
+2024-12-20T00:19:01.7584884-05:00|Project with 13 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
