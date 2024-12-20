@@ -1,0 +1,39 @@
+2024-12-19T23:52:23.3543517-05:00|Created new project.
+2024-12-19T23:52:24.3930780-05:00|Found a valid license. [1648]
+2024-12-19T23:52:24.4653356-05:00|License is not expired. (Expires: 12/21/2024 12:00:00 AM)
+2024-12-19T23:52:24.4658042-05:00|License supports this app version.
+2024-12-19T23:52:24.4660730-05:00|License matches with your hardware id.
+2024-12-19T23:52:25.1459385-05:00|You are running the latest version: 3.1.0.3
+2024-12-19T23:55:18.5719916-05:00|Project with 0 clothes/decorations saved (D:\3D Models\GTA\District LA\AFemalePack1\AFemalePack1.dctproj).
+2024-12-19T23:55:23.4117273-05:00|Successfully backed up project 2024-12-19 23:55:23.
+2024-12-19T23:56:23.3880381-05:00|Successfully backed up project 2024-12-19 23:56:23.
+2024-12-19T23:57:23.3916668-05:00|Successfully backed up project 2024-12-19 23:57:23.
+2024-12-19T23:58:23.3906652-05:00|Successfully backed up project 2024-12-19 23:58:23.
+2024-12-19T23:59:23.3898675-05:00|Successfully backed up project 2024-12-19 23:59:23.
+2024-12-20T00:00:23.3919047-05:00|Successfully backed up project 2024-12-20 00:00:23.
+2024-12-20T00:01:23.3894998-05:00|Successfully backed up project 2024-12-20 00:01:23.
+2024-12-20T00:02:23.3865641-05:00|Successfully backed up project 2024-12-20 00:02:23.
+2024-12-20T00:03:23.3862008-05:00|Successfully backed up project 2024-12-20 00:03:23.
+2024-12-20T00:03:27.6562065-05:00|Project with 0 clothes/decorations saved (D:\3D Models\GTA\District LA\AFemalePack1\AFemalePack1.dctproj).
+2024-12-20T00:05:10.3685510-05:00|0 items in total loading from Project D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj (0 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T00:05:10.4155655-05:00|Loading all 0 items, this can take a moment...
+2024-12-20T00:05:10.4200896-05:00|Finished loading all 0 items.
+2024-12-20T00:05:10.4285603-05:00|Project D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj completely loaded 0 items and ready to rock (in 0.2961975 seconds).
+2024-12-20T00:05:47.1935804-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:05:47.7567426-05:00|Failed to auto resolve options for drawable dictionary.ydd.
+2024-12-20T00:05:52.5958810-05:00|Added Female 0 Hair with 0 found textures from drawable dictionary.ydd.
+2024-12-20T00:05:55.8393462-05:00|Successfully backed up project 2024-12-20 00:05:55.
+2024-12-20T00:05:58.4950201-05:00|Trying to add 2 texture files to selected drawable by drag & drop...
+2024-12-20T00:05:59.7126062-05:00|Added texture S4_3453CF95_80000000_92D0812C80D74143%%+RLE2.rle2.ytd to 'Female 0 Hair' (Hair) at pos 0
+2024-12-20T00:06:00.0417682-05:00|Added texture S4_3453CF95_80000000_92D0812C80D74143%%+RLE2.rle2.ytd to 'Female 0 Hair' (Hair) at pos 0
+2024-12-20T00:06:08.7199640-05:00|Trying to optimize texture 'b' of 'Female 0 Hair' (Hair) at pos 0 ...
+2024-12-20T00:06:10.3269542-05:00|Texture 'b' (e8d99171-d477-4534-b71b-c3e6f66bc1fa.ytd) file got successfully updated to 6eb1c6ec-112f-4169-af41-9c93eab9e579.ytd.
+2024-12-20T00:06:10.3793831-05:00|Texture S4_3453CF95_80000000_92D0812C80D74143%%+RLE2.rle2 optimized from 2 MB to 1 MB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 2048px/4096px => 2048px/4096px, mip maps 13 => 13
+2024-12-20T00:06:10.3813900-05:00|Successfully optimized drawable texture 'b' of 'Female 0 Hair' (Hair) at pos 0
+2024-12-20T00:06:10.4279256-05:00|Trying to optimize texture 'a' of 'Female 0 Hair' (Hair) at pos 0 ...
+2024-12-20T00:06:11.3794885-05:00|Texture 'a' (b229f871-db4f-4fdb-8b21-b8ac4728e461.ytd) file got successfully updated to c282045d-cb5e-430c-8050-7da41e54727f.ytd.
+2024-12-20T00:06:11.4627320-05:00|Texture S4_3453CF95_80000000_92D0812C80D74143%%+RLE2.rle2 optimized from 1 MB to 1 MB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 2048px/4096px => 2048px/4096px, mip maps 13 => 13
+2024-12-20T00:06:11.5425837-05:00|Successfully optimized drawable texture 'a' of 'Female 0 Hair' (Hair) at pos 0
+2024-12-20T00:06:14.4491791-05:00|Project with 1 clothes/decorations saved (D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj).
+2024-12-20T00:06:44.7159476-05:00|Project with 1 clothes/decorations saved (D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj).
+2024-12-20T00:06:52.0830985-05:00|Project with 1 clothes/decorations saved (D:\3D Models\GTA\District LA\github\AFemalePack1.dctproj).
