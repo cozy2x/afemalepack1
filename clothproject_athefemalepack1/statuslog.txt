@@ -1,3 +1,4 @@
+2024-12-20T00:55:39.0509391-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T00:40:23.1373445-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T00:18:48.6084831-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-19T23:52:23.3543517-05:00|Created new project.
@@ -388,3 +389,551 @@
 2024-12-20T00:52:55.7072284-05:00|Successfully backed up project 2024-12-20 00:52:55.
 2024-12-20T00:53:04.8604843-05:00|Project with 48 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
 2024-12-20T00:53:36.1158208-05:00|Project with 48 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:54:04.9073971-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:54:06.4616909-05:00|Added Female 0 Undershirt with 12 found textures from D:\3D Models\GTA\Purchased Items\Ajna Mods\Maid Ears - By AjnaMods\mp_f_freemode_01_mp_f_importexport_01^accs_001_u.ydd.
+2024-12-20T00:54:39.2803999-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.3214580-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.3568934-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.3575712-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.4677876-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.5134356-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.5420967-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.5633051-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.5938855-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.6373813-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.6580236-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.6878071-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.6981747-05:00|No cache data found for appearance item ID dd53160b-27c2-42f8-9091-7764ce0d3127. Unable to add display items for it.
+2024-12-20T00:54:39.7533447-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.9488736-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.9696242-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.9806983-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.9813741-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.9818425-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:39.9824037-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.0330868-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.0420688-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.0735963-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1052869-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1064793-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1273891-05:00|No cache data found for appearance item ID dd53160b-27c2-42f8-9091-7764ce0d3127. Unable to add display items for it.
+2024-12-20T00:54:40.1360370-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1471968-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1479461-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1486229-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1491632-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1496488-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1503892-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1520118-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1525272-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1530476-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1536879-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1541449-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:54:40.1545639-05:00|No cache data found for appearance item ID dd53160b-27c2-42f8-9091-7764ce0d3127. Unable to add display items for it.
+2024-12-20T00:54:43.9470060-05:00|Project with 49 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:54:54.3986453-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:54:58.3820170-05:00|Added Female 0 Undershirt with 12 found textures from D:\3D Models\GTA\Purchased Items\Ajna Mods\Canga - by AjnaMods\mp_f_freemode_01_female_freemode_beach^accs_001_u.ydd.
+2024-12-20T00:55:14.8097847-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8492773-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8791374-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8799793-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8807787-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8812551-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8817226-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8826407-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8831139-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8835417-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8844528-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8848882-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.8856032-05:00|No cache data found for appearance item ID 2c0c792c-b910-435a-8784-e8b40b05cd0b. Unable to add display items for it.
+2024-12-20T00:55:14.9113719-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9295020-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9303264-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9310198-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9314732-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9318995-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9324994-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9330350-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9344621-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9349010-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9356249-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9361205-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9365757-05:00|No cache data found for appearance item ID 2c0c792c-b910-435a-8784-e8b40b05cd0b. Unable to add display items for it.
+2024-12-20T00:55:14.9422692-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9670952-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:14.9813244-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:15.0018503-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:15.0326691-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:15.0431024-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:15.0599879-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:15.1548497-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:15.1687731-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:15.1693606-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:15.1700082-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:15.1899665-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:15.1998842-05:00|No cache data found for appearance item ID 2c0c792c-b910-435a-8784-e8b40b05cd0b. Unable to add display items for it.
+2024-12-20T00:55:15.2425823-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4475683-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4482081-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4687861-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4787641-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4798457-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4807046-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4811897-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4816125-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4823113-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4828230-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4839461-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.4998623-05:00|No cache data found for appearance item ID dd53160b-27c2-42f8-9091-7764ce0d3127. Unable to add display items for it.
+2024-12-20T00:55:15.5040020-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5082913-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5091525-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5098481-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5102885-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5107112-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5113121-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5117471-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5121736-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5127886-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5132854-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5137395-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:15.5143181-05:00|No cache data found for appearance item ID dd53160b-27c2-42f8-9091-7764ce0d3127. Unable to add display items for it.
+2024-12-20T00:55:16.4113531-05:00|Project with 50 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:55:31.2427237-05:00|Trying to add 10 drawable files by drag & drop...
+2024-12-20T00:55:31.3157498-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4039038-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4045223-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4049865-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4058074-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4074283-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4087071-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4095171-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4103043-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4108130-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4111823-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4117718-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4126873-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4139017-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4167758-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4247929-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4264669-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4278916-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4287669-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4297264-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4305839-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4320246-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4329004-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4338995-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.4367095-05:00|Added Female 0 Decal with 0 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\mp_f_freemode_01_mp_f_theendzrpjewelrystore^decl_025_u.ydd.
+2024-12-20T00:55:31.4815598-05:00|Added Female 1 Decal with 0 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\mp_f_freemode_01_mp_f_theendzrpjewelrystore^decl_030_u.ydd.
+2024-12-20T00:55:31.5317373-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5443541-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5448652-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5452614-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5455650-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5458573-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5461368-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5465314-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5468476-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5471283-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5474022-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5476715-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5482472-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5485270-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5488005-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5500661-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5503773-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5506476-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5510142-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5513044-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5515753-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5518473-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5521152-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5525145-05:00|No cache data found for cloth ID 2c0c792c-b910-435a-8784-e8b40b05cd0b.
+2024-12-20T00:55:31.5608992-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7207290-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7214246-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7217808-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7220865-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7614847-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7618582-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7621449-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7820929-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7827555-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7830898-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7833943-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7839682-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7842471-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7845222-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7847937-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7850656-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7855395-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7858294-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7860997-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7863703-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7866393-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7870441-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7873263-05:00|No cache data found for cloth ID dd53160b-27c2-42f8-9091-7764ce0d3127.
+2024-12-20T00:55:31.7887129-05:00|Added Female 0 Accessories with 0 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\mp_f_freemode_01_mp_f_theendzrpjewelrystore^teef_027_u.ydd.
+2024-12-20T00:55:31.8289516-05:00|Added Female 1 Accessories with 0 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\mp_f_freemode_01_mp_f_theendzrpjewelrystore^teef_039_u.ydd.
+2024-12-20T00:55:31.8675393-05:00|Added Female 2 Accessories with 0 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\mp_f_freemode_01_mp_f_theendzrpjewelrystore^teef_044_u.ydd.
+2024-12-20T00:55:31.9379773-05:00|Added Female 3 Accessories with 0 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\mp_f_freemode_01_mp_f_theendzrpjewelrystore^teef_058_u.ydd.
+2024-12-20T00:55:32.0539507-05:00|Added Male 0 Accessories with 0 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\mp_m_freemode_01_mp_m_theendzrpjewelrystore^teef_000_u.ydd.
+2024-12-20T00:55:32.1004671-05:00|Added Male 1 Accessories with 0 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\mp_m_freemode_01_mp_m_theendzrpjewelrystore^teef_015_u.ydd.
+2024-12-20T00:55:32.1477072-05:00|Added Male 2 Accessories with 0 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\mp_m_freemode_01_mp_m_theendzrpjewelrystore^teef_051_u.ydd.
+2024-12-20T00:55:32.1674251-05:00|Added Male 3 Accessories with 0 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\mp_m_freemode_01_mp_m_theendzrpjewelrystore^teef_067_u.ydd.
+2024-12-20T00:55:32.1770601-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T00:55:32.9965043-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 12 new items and 0 new textures.
+2024-12-20T00:55:38.9358096-05:00|Project with 60 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:55:39.6059124-05:00|60 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (60 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T00:55:39.6664505-05:00|Loading all 169 items, this can take a moment...
+2024-12-20T00:55:39.7526958-05:00|Finished loading all 169 items.
+2024-12-20T00:55:39.8074584-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 169 items and ready to rock (in 0.8359511 seconds).
+2024-12-20T00:55:43.8968924-05:00|Removed 4 items (See logs for full details). Total items: 56
+2024-12-20T00:55:55.7039656-05:00|Successfully backed up project 2024-12-20 00:55:55.
+2024-12-20T00:56:01.9132369-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T00:56:04.4243229-05:00|Added texture Blue2_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:04.5235824-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:04.6055670-05:00|Added texture Brown_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:04.7488930-05:00|Added texture Camo_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:05.0207885-05:00|Added texture Green_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:05.2031789-05:00|Added texture Grey_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:05.5285390-05:00|Added texture HotPink_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:05.7530276-05:00|Added texture image.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:06.1379761-05:00|Added texture light pink.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:06.5632989-05:00|Added texture LightGreen_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:07.0127683-05:00|Added texture Orange_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:07.4494779-05:00|Added texture p_head_diff_014_a.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:07.9493851-05:00|Added texture purple.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:08.7950910-05:00|Added texture Red_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:09.2857092-05:00|Added texture Teal_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:09.8440663-05:00|Added texture white.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:10.6274626-05:00|Added texture Beige_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:11.3743891-05:00|Added texture Blue1_Bandana.ytd to 'Female 0 Accessories' (Accessories) at pos 0
+2024-12-20T00:56:14.6965673-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T00:56:17.0114264-05:00|Added texture Blue1_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:17.0925917-05:00|Added texture Blue2_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:17.1802670-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:17.3407755-05:00|Added texture Brown_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:17.5904808-05:00|Added texture Camo_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:17.7864654-05:00|Added texture Green_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:18.0930173-05:00|Added texture Grey_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:18.3692006-05:00|Added texture HotPink_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:18.7244101-05:00|Added texture image.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:19.1173549-05:00|Added texture light pink.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:19.5226745-05:00|Added texture LightGreen_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:19.9163471-05:00|Added texture Orange_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:20.3180927-05:00|Added texture p_head_diff_014_a.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:20.7330308-05:00|Added texture purple.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:21.2404775-05:00|Added texture Red_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:21.7213188-05:00|Added texture Teal_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:22.1852105-05:00|Added texture white.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:22.6133029-05:00|Added texture Beige_Bandana.ytd to 'Female 1 Accessories' (Accessories) at pos 1
+2024-12-20T00:56:22.7167431-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T00:56:25.0147018-05:00|Added texture Blue2_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:25.0816941-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:25.1813960-05:00|Added texture Brown_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:25.4255936-05:00|Added texture Camo_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:25.6150353-05:00|Added texture Green_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:25.8298968-05:00|Added texture Grey_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:26.1262579-05:00|Added texture HotPink_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:26.4210546-05:00|Added texture image.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:26.7614167-05:00|Added texture light pink.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:27.1704604-05:00|Added texture LightGreen_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:27.6243661-05:00|Added texture Orange_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:28.0021847-05:00|Added texture p_head_diff_014_a.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:28.4922260-05:00|Added texture purple.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:29.0206391-05:00|Added texture Red_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:29.6602943-05:00|Added texture Teal_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:30.3515036-05:00|Added texture white.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:30.9514934-05:00|Added texture Beige_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:31.5730588-05:00|Added texture Blue1_Bandana.ytd to 'Female 2 Accessories' (Accessories) at pos 2
+2024-12-20T00:56:43.8269124-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T00:56:46.7088003-05:00|Added texture Blue1_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:47.2700052-05:00|Added texture Blue2_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:47.9528762-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:48.6944019-05:00|Added texture Brown_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:49.3976305-05:00|Added texture Camo_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:50.1404725-05:00|Added texture Green_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:50.9156373-05:00|Added texture Grey_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:51.7230912-05:00|Added texture HotPink_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:52.5414150-05:00|Added texture image.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:53.4830635-05:00|Added texture light pink.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:54.3886921-05:00|Added texture LightGreen_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:55.3265067-05:00|Added texture Orange_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:55.7146888-05:00|Successfully backed up project 2024-12-20 00:56:55.
+2024-12-20T00:56:56.2826690-05:00|Added texture p_head_diff_014_a.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:57.2787417-05:00|Added texture purple.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:58.3583340-05:00|Added texture Red_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:56:59.3636982-05:00|Added texture Teal_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:57:00.4119094-05:00|Added texture white.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:57:01.5477123-05:00|Added texture Beige_Bandana.ytd to 'Female 3 Accessories' (Accessories) at pos 3
+2024-12-20T00:57:10.2590733-05:00|Trying to add 6 drawable files by drag & drop...
+2024-12-20T00:57:10.3639453-05:00|Failed to auto resolve options for berd_000_u.ydd.
+2024-12-20T00:57:13.4474632-05:00|Added Female 1 Mask with 2 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\Files\Female\berd_000_u.ydd.
+2024-12-20T00:57:13.5055877-05:00|Failed to auto resolve options for p_head_005.ydd.
+2024-12-20T00:57:16.4136936-05:00|Added Female 0 PropHead with 0 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\Files\Female\p_head_005.ydd.
+2024-12-20T00:57:16.5342959-05:00|Failed to auto resolve options for p_head_006.ydd.
+2024-12-20T00:57:18.5899657-05:00|Added Female 1 PropHead with 2 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\Files\Female\p_head_006.ydd.
+2024-12-20T00:57:18.6133792-05:00|Failed to auto resolve options for p_rwrist_000.ydd.
+2024-12-20T00:57:20.4808977-05:00|Added Female 0 PropRWrist with 2 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\Files\Female\p_rwrist_000.ydd.
+2024-12-20T00:57:20.5076315-05:00|Failed to auto resolve options for teef_000_u.ydd.
+2024-12-20T00:57:22.7444253-05:00|Added Female 4 Accessories with 2 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\Files\Female\teef_000_u.ydd.
+2024-12-20T00:57:22.7708608-05:00|Failed to auto resolve options for teef_001_u.ydd.
+2024-12-20T00:57:24.7659753-05:00|Added Female 5 Accessories with 2 found textures from D:\3D Models\GTA\Purchased Items\cc_bandanas\Files\Female\teef_001_u.ydd.
+2024-12-20T00:57:38.7058632-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7636231-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7763961-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7773104-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7777794-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7784119-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7788724-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7793318-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7799001-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7803422-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7807750-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7814067-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7818548-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7823071-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7829130-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7833548-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7837864-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7844745-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.7849234-05:00|No cache data found for appearance item ID 6934b93c-6f91-4ee5-83fa-0234796963fd. Unable to add display items for it.
+2024-12-20T00:57:38.7969008-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8024358-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8031247-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8035824-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8043498-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8054855-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8061286-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8089481-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8097142-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8103296-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8108487-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8113137-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8120257-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8125445-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8130693-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8138165-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8142900-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8149080-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8153889-05:00|No cache data found for appearance item ID 6934b93c-6f91-4ee5-83fa-0234796963fd. Unable to add display items for it.
+2024-12-20T00:57:38.8195473-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8233921-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8250643-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8260116-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8267183-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8271555-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8275781-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8279907-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8285584-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8289992-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8294537-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8299891-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8304290-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8308527-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8314306-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8318836-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8323058-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8328969-05:00|No cache data found for cloth ID 6934b93c-6f91-4ee5-83fa-0234796963fd.
+2024-12-20T00:57:38.8333294-05:00|No cache data found for appearance item ID 6934b93c-6f91-4ee5-83fa-0234796963fd. Unable to add display items for it.
+2024-12-20T00:57:55.7040592-05:00|Successfully backed up project 2024-12-20 00:57:55.
+2024-12-20T00:57:57.3115817-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3531925-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3867090-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3872663-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3877015-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3884470-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3889049-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3895485-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3900080-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3904713-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3913234-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3920429-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3926517-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.3933894-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.4068510-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.4176188-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.4996718-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.5431701-05:00|No cache data found for cloth ID b0e15e63-043f-44ce-b70f-892407ff8860.
+2024-12-20T00:57:57.5638692-05:00|No cache data found for appearance item ID b0e15e63-043f-44ce-b70f-892407ff8860. Unable to add display items for it.
+2024-12-20T00:58:27.4664377-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T00:58:29.9287716-05:00|Added texture Orange_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:30.0924539-05:00|Added texture p_head_diff_014_a.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:30.2466538-05:00|Added texture purple.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:30.4897971-05:00|Added texture Red_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:30.7597533-05:00|Added texture Teal_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:30.9862800-05:00|Added texture white.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:31.3603980-05:00|Added texture Beige_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:31.6919491-05:00|Added texture Blue1_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:32.0841556-05:00|Added texture Blue2_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:32.5384530-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:33.0330430-05:00|Added texture Brown_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:33.4433580-05:00|Added texture Camo_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:34.0537876-05:00|Added texture Green_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:34.7032620-05:00|Added texture Grey_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:35.3128699-05:00|Added texture HotPink_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:35.9474345-05:00|Added texture image.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:36.5808945-05:00|Added texture light pink.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:37.2028171-05:00|Added texture LightGreen_Bandana.ytd to 'Female 4 Gang Neck' (Accessories) at pos 4
+2024-12-20T00:58:51.9380103-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T00:58:54.2722789-05:00|Added texture Orange_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:54.3850578-05:00|Added texture p_head_diff_014_a.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:54.5277906-05:00|Added texture purple.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:54.8114954-05:00|Added texture Red_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:55.0085830-05:00|Added texture Teal_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:55.2385132-05:00|Added texture white.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:55.6105491-05:00|Added texture Beige_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:55.7082472-05:00|Successfully backed up project 2024-12-20 00:58:55.
+2024-12-20T00:58:55.9406886-05:00|Added texture Blue1_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:56.3079878-05:00|Added texture Blue2_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:56.7605697-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:57.2852220-05:00|Added texture Brown_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:57.7121672-05:00|Added texture Camo_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:58.2607606-05:00|Added texture Green_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:58.9275128-05:00|Added texture Grey_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:58:59.5583319-05:00|Added texture HotPink_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:59:00.1713411-05:00|Added texture image.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:59:00.7734271-05:00|Added texture light pink.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:59:01.3851861-05:00|Added texture LightGreen_Bandana.ytd to 'Female 5 Gang Neck' (Accessories) at pos 5
+2024-12-20T00:59:22.7625846-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T00:59:25.1339812-05:00|Added texture Grey_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:25.2175100-05:00|Added texture HotPink_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:25.3113977-05:00|Added texture image.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:25.4834489-05:00|Added texture light pink.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:25.7155216-05:00|Added texture LightGreen_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:25.8881093-05:00|Added texture Orange_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:26.2328280-05:00|Added texture p_head_diff_014_a.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:26.5153814-05:00|Added texture purple.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:26.9349761-05:00|Added texture Red_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:27.2361112-05:00|Added texture Teal_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:27.7489035-05:00|Added texture white.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:28.2729409-05:00|Added texture Beige_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:28.8437850-05:00|Added texture Blue1_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:29.4034569-05:00|Added texture Blue2_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:30.0581633-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:30.6631015-05:00|Added texture Brown_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:31.3828469-05:00|Added texture Camo_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:32.0118754-05:00|Added texture Green_Bandana.ytd to 'Female 0 Decal' (Decal) at pos 0
+2024-12-20T00:59:52.2458742-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.2997385-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3132763-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3138156-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3142579-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3148008-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3152406-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3156745-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3162107-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3166528-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3170869-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3176766-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3181166-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3185532-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3191340-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3195805-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3200182-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3205957-05:00|No cache data found for cloth ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9.
+2024-12-20T00:59:52.3210336-05:00|No cache data found for appearance item ID 54a676a3-2b0e-49d9-8ee8-df3866ec95e9. Unable to add display items for it.
+2024-12-20T00:59:55.7076592-05:00|Successfully backed up project 2024-12-20 00:59:55.
+2024-12-20T01:00:06.1517792-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T01:00:08.7452638-05:00|Added texture Green_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:08.8410903-05:00|Added texture Grey_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:08.9757895-05:00|Added texture HotPink_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:09.2865624-05:00|Added texture image.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:09.4730188-05:00|Added texture light pink.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:09.6916423-05:00|Added texture LightGreen_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:10.1042021-05:00|Added texture Orange_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:10.3458234-05:00|Added texture p_head_diff_014_a.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:10.8343480-05:00|Added texture purple.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:11.1911635-05:00|Added texture Red_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:11.7145166-05:00|Added texture Teal_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:12.1372021-05:00|Added texture white.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:12.6768386-05:00|Added texture Beige_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:13.3575004-05:00|Added texture Blue1_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:14.1140076-05:00|Added texture Blue2_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:14.7858589-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:15.6529638-05:00|Added texture Brown_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:16.3505052-05:00|Added texture Camo_Bandana.ytd to 'Female 1 Decal' (Decal) at pos 1
+2024-12-20T01:00:41.6619603-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T01:00:44.0952872-05:00|Added texture Grey_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:44.2469550-05:00|Added texture HotPink_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:44.3838032-05:00|Added texture image.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:44.5757889-05:00|Added texture light pink.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:44.9026045-05:00|Added texture LightGreen_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:45.2551949-05:00|Added texture Orange_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:45.5356795-05:00|Added texture p_head_diff_014_a.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:46.0491375-05:00|Added texture purple.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:46.3643467-05:00|Added texture Red_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:46.9889083-05:00|Added texture Teal_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:47.4574001-05:00|Added texture white.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:47.9791989-05:00|Added texture Beige_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:48.7697785-05:00|Added texture Blue1_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:49.4017321-05:00|Added texture Blue2_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:50.0779193-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:50.9482086-05:00|Added texture Brown_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:51.7507676-05:00|Added texture Camo_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:52.5978905-05:00|Added texture Green_Bandana.ytd to 'Female 1 Mask' (Mask) at pos 1
+2024-12-20T01:00:55.7233205-05:00|Successfully backed up project 2024-12-20 01:00:55.
+2024-12-20T01:01:06.1802341-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T01:01:08.7366836-05:00|Added texture Blue1_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:08.8374442-05:00|Added texture Blue2_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:08.9418084-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:09.0988688-05:00|Added texture Brown_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:09.3933672-05:00|Added texture Camo_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:09.7587048-05:00|Added texture Green_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:10.0123598-05:00|Added texture Grey_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:10.4446687-05:00|Added texture HotPink_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:10.7309609-05:00|Added texture image.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:11.2770218-05:00|Added texture light pink.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:11.6262218-05:00|Added texture LightGreen_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:12.2122492-05:00|Added texture Orange_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:12.6915851-05:00|Added texture p_head_diff_014_a.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:13.2138452-05:00|Added texture purple.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:13.9130852-05:00|Added texture Red_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:14.6933498-05:00|Added texture Teal_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:15.4276903-05:00|Added texture white.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:16.2178194-05:00|Added texture Beige_Bandana.ytd to 'Female 0 PropHead' (PropHead) at pos 0
+2024-12-20T01:01:31.1798990-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T01:01:33.6578067-05:00|Added texture Green_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:33.7826324-05:00|Added texture Grey_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:33.9502323-05:00|Added texture HotPink_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:34.1637487-05:00|Added texture image.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:34.4481372-05:00|Added texture light pink.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:34.8338277-05:00|Added texture LightGreen_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:35.1418380-05:00|Added texture Orange_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:35.7079831-05:00|Added texture p_head_diff_014_a.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:36.0905034-05:00|Added texture purple.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:36.6703734-05:00|Added texture Red_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:37.1388582-05:00|Added texture Teal_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:37.7133021-05:00|Added texture white.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:38.4531838-05:00|Added texture Beige_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:39.2781907-05:00|Added texture Blue1_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:39.9816606-05:00|Added texture Blue2_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:40.7155701-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:41.5672867-05:00|Added texture Brown_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:42.4622699-05:00|Added texture Camo_Bandana.ytd to 'Female 1 Gang Head' (PropHead) at pos 1
+2024-12-20T01:01:55.7082098-05:00|Successfully backed up project 2024-12-20 01:01:55.
+2024-12-20T01:01:59.0495002-05:00|Trying to add 18 texture files to selected drawable by drag & drop...
+2024-12-20T01:02:01.5852880-05:00|Added texture Blue1_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:01.7465347-05:00|Added texture Blue2_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:01.8849229-05:00|Added texture Blue2_Bandana_Copy1.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:02.0596784-05:00|Added texture Brown_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:02.3683060-05:00|Added texture Camo_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:02.7595247-05:00|Added texture Green_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:03.1319960-05:00|Added texture Grey_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:03.6653849-05:00|Added texture HotPink_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:04.0245937-05:00|Added texture image.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:04.5717617-05:00|Added texture light pink.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:05.0685554-05:00|Added texture LightGreen_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:05.7334422-05:00|Added texture Orange_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:06.4461343-05:00|Added texture p_head_diff_014_a.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:07.0146267-05:00|Added texture purple.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:07.6312217-05:00|Added texture Red_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:08.3978897-05:00|Added texture Teal_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:08.9966422-05:00|Added texture white.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:09.8931520-05:00|Added texture Beige_Bandana.ytd to 'Female 0 PropRWrist' (PropRWrist) at pos 0
+2024-12-20T01:02:23.6571453-05:00|Project with 62 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:02:27.3051239-05:00|Project with 62 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:02:56.8873834-05:00|Project with 62 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:03:00.3327109-05:00|Project with 62 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
