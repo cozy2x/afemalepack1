@@ -1,3 +1,4 @@
+2024-12-20T01:23:25.1171849-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T00:55:39.0509391-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T00:40:23.1373445-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T00:18:48.6084831-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
@@ -1571,3 +1572,59 @@
 2024-12-20T01:18:26.2950415-05:00|Successfully resorted 116 from 176 total item positions.
 2024-12-20T01:18:29.3282486-05:00|Project with 176 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
 2024-12-20T01:18:40.1142339-05:00|Project with 176 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:22:32.4118617-05:00|Successfully resorted 0 from 176 total item positions.
+2024-12-20T01:22:35.5237089-05:00|Project with 176 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:22:53.2613622-05:00|Added Female 2 Mask with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\11\mp_f_freemode_01^berd_011_u.ydd.
+2024-12-20T01:22:54.0059810-05:00|Added Female 3 Mask with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\12\mp_f_freemode_01^berd_012_u.ydd.
+2024-12-20T01:22:54.4452393-05:00|Added Female 4 Mask with 22 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\13\mp_f_freemode_01^berd_013_u.ydd.
+2024-12-20T01:22:54.5635670-05:00|Added Female 5 Mask with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\14\mp_f_freemode_01^berd_014_u.ydd.
+2024-12-20T01:22:54.8064405-05:00|Added Female 6 Mask with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\15\mp_f_freemode_01^berd_015_u.ydd.
+2024-12-20T01:22:55.2415737-05:00|Added Female 7 Mask with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\16\mp_f_freemode_01^berd_016_u.ydd.
+2024-12-20T01:22:55.3427412-05:00|Added Female 8 Mask with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\17\mp_f_freemode_01^berd_017_u.ydd.
+2024-12-20T01:22:55.6298121-05:00|Added Female 9 Mask with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\18\mp_f_freemode_01^berd_018_u.ydd.
+2024-12-20T01:22:55.7535516-05:00|Added Female 10 Mask with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\19\mp_f_freemode_01^berd_019_u.ydd.
+2024-12-20T01:22:55.8981282-05:00|Added Female 11 Mask with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\20\mp_f_freemode_01^berd_020_u.ydd.
+2024-12-20T01:22:56.8117418-05:00|Added Female 12 Mask with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\21\mp_f_freemode_01^berd_021_u.ydd.
+2024-12-20T01:22:56.9886277-05:00|Added Female 13 Mask with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\22\mp_f_freemode_01^berd_022_u.ydd.
+2024-12-20T01:22:57.0415072-05:00|Added Female 14 Mask with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\23\mp_f_freemode_01^berd_023_u.ydd.
+2024-12-20T01:22:57.2271309-05:00|Added Female 15 Mask with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\24\mp_f_freemode_01^berd_024_u.ydd.
+2024-12-20T01:22:57.3198874-05:00|Added Female 16 Mask with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\25\mp_f_freemode_01^berd_025_u.ydd.
+2024-12-20T01:22:57.4984041-05:00|Added Female 17 Mask with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\26\mp_f_freemode_01^berd_026_u.ydd.
+2024-12-20T01:22:58.1115834-05:00|Added Female 18 Mask with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\27\mp_f_freemode_01^berd_027_u.ydd.
+2024-12-20T01:22:58.1527568-05:00|Added Female 19 Mask with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\28\mp_f_freemode_01^berd_028_u.ydd.
+2024-12-20T01:22:58.3441612-05:00|Added Female 20 Mask with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\29\mp_f_freemode_01^berd_029_u.ydd.
+2024-12-20T01:22:58.4869517-05:00|Added Female 21 Mask with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\30\mp_f_freemode_01^berd_030_u.ydd.
+2024-12-20T01:22:58.5451764-05:00|Added Female 22 Mask with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\31\mp_f_freemode_01^berd_031_u.ydd.
+2024-12-20T01:22:58.7960931-05:00|Added Female 23 Mask with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\32\mp_f_freemode_01^berd_032_u.ydd.
+2024-12-20T01:22:58.9827273-05:00|Added Female 24 Mask with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\33\mp_f_freemode_01^berd_033_u.ydd.
+2024-12-20T01:22:59.2490805-05:00|Added Female 25 Mask with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\34\mp_f_freemode_01^berd_034_u.ydd.
+2024-12-20T01:22:59.3972672-05:00|Added Female 26 Mask with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\berd=mask\35\mp_f_freemode_01^berd_035_u.ydd.
+2024-12-20T01:22:59.3988710-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T01:23:08.4067177-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 58 new items and 0 new textures.
+2024-12-20T01:23:08.4108183-05:00|Found 25 Female cloth models
+2024-12-20T01:23:24.5941677-05:00|Project with 201 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:23:26.3830431-05:00|201 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (201 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T01:23:26.4936066-05:00|Loading all 1821 items, this can take a moment...
+2024-12-20T01:23:27.4201015-05:00|Finished loading all 1821 items.
+2024-12-20T01:23:27.4614523-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 1821 items and ready to rock (in 2.8139166 seconds).
+2024-12-20T01:31:56.0743483-05:00|Removed 'Mask' (See logs for full details). Total items: 200
+2024-12-20T01:32:01.0784397-05:00|Removed 'Mask' (See logs for full details). Total items: 199
+2024-12-20T01:32:52.7330489-05:00|Changed position of 'Female 11 Mask' (Mask) at pos 11 to 9.
+2024-12-20T01:32:52.7842034-05:00|Changed position of 'Female 12 Mask' (Mask) at pos 12 to 10.
+2024-12-20T01:32:52.7927276-05:00|Changed position of 'Female 13 debadge' (Mask) at pos 13 to 11.
+2024-12-20T01:32:52.8011802-05:00|Changed position of 'Female 14 Mask' (Mask) at pos 14 to 12.
+2024-12-20T01:32:52.8193225-05:00|Changed position of 'Female 15 Mask' (Mask) at pos 15 to 13.
+2024-12-20T01:32:52.8260696-05:00|Changed position of 'Female 16 Mask' (Mask) at pos 16 to 14.
+2024-12-20T01:32:52.8335353-05:00|Changed position of 'Female 17 Mask' (Mask) at pos 17 to 15.
+2024-12-20T01:32:52.8475390-05:00|Changed position of 'Female 18 Mask' (Mask) at pos 18 to 16.
+2024-12-20T01:32:52.8540365-05:00|Changed position of 'Female 19 Mask' (Mask) at pos 19 to 17.
+2024-12-20T01:32:52.8606910-05:00|Changed position of 'Female 20 Mask' (Mask) at pos 20 to 18.
+2024-12-20T01:32:52.8741906-05:00|Changed position of 'Female 21 Mask' (Mask) at pos 21 to 19.
+2024-12-20T01:32:52.8811827-05:00|Changed position of 'Female 22 Mask' (Mask) at pos 22 to 20.
+2024-12-20T01:32:52.8879836-05:00|Changed position of 'Female 23 Mask' (Mask) at pos 23 to 21.
+2024-12-20T01:32:52.9118453-05:00|Changed position of 'Female 24 Mask' (Mask) at pos 24 to 22.
+2024-12-20T01:32:52.9194464-05:00|Changed position of 'Female 25 Mask' (Mask) at pos 25 to 23.
+2024-12-20T01:32:52.9354419-05:00|Changed position of 'Female 26 Mask' (Mask) at pos 26 to 24.
+2024-12-20T01:32:53.0174532-05:00|Successfully resorted 16 from 199 total item positions.
+2024-12-20T01:32:55.7497311-05:00|Successfully backed up project 2024-12-20 01:32:55.
+2024-12-20T01:32:57.0802912-05:00|Project with 199 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
