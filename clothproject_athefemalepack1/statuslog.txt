@@ -1,3 +1,4 @@
+2024-12-20T01:48:24.4261167-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T01:34:47.4231042-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T01:23:25.1171849-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T00:55:39.0509391-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
@@ -1782,3 +1783,197 @@
 2024-12-20T01:44:55.7436622-05:00|Successfully backed up project 2024-12-20 01:44:55.
 2024-12-20T01:44:59.6856503-05:00|Successfully resorted 0 from 241 total item positions.
 2024-12-20T01:45:02.9679623-05:00|Project with 241 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:47:09.3944461-05:00|Added Female 0 Shoes with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\0\mp_f_freemode_01^feet_000_u.ydd.
+2024-12-20T01:47:09.5638010-05:00|Added Female 1 Shoes with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\1\mp_f_freemode_01^feet_001_u.ydd.
+2024-12-20T01:47:09.7929931-05:00|Added Female 2 Shoes with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\2\mp_f_freemode_01^feet_002_u.ydd.
+2024-12-20T01:47:10.1659066-05:00|Added Female 3 Shoes with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\3\mp_f_freemode_01^feet_003_u.ydd.
+2024-12-20T01:47:10.2366580-05:00|Added Female 4 Shoes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\4\mp_f_freemode_01^feet_004_u.ydd.
+2024-12-20T01:47:10.2981191-05:00|Added Female 5 Shoes with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\5\mp_f_freemode_01^feet_005_u.ydd.
+2024-12-20T01:47:11.1536383-05:00|Added Female 6 Shoes with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\6\mp_f_freemode_01^feet_006_u.ydd.
+2024-12-20T01:47:11.4394728-05:00|Added Female 7 Shoes with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\7\mp_f_freemode_01^feet_007_u.ydd.
+2024-12-20T01:47:11.6121363-05:00|Added Female 8 Shoes with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\8\mp_f_freemode_01^feet_008_u.ydd.
+2024-12-20T01:47:12.1215008-05:00|Added Female 9 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\9\mp_f_freemode_01^feet_009_u.ydd.
+2024-12-20T01:47:12.4505769-05:00|Added Female 10 Shoes with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\10\mp_f_freemode_01^feet_010_u.ydd.
+2024-12-20T01:47:12.6589512-05:00|Added Female 11 Shoes with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\11\mp_f_freemode_01^feet_011_u.ydd.
+2024-12-20T01:47:12.8920445-05:00|Added Female 12 Shoes with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\12\mp_f_freemode_01^feet_012_u.ydd.
+2024-12-20T01:47:12.9493052-05:00|Added Female 13 Shoes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\13\mp_f_freemode_01^feet_013_u.ydd.
+2024-12-20T01:47:13.3040273-05:00|Added Female 14 Shoes with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\14\mp_f_freemode_01^feet_014_u.ydd.
+2024-12-20T01:47:13.9017466-05:00|Added Female 15 Shoes with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\15\mp_f_freemode_01^feet_015_u.ydd.
+2024-12-20T01:47:14.1654378-05:00|Added Female 16 Shoes with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\16\mp_f_freemode_01^feet_016_u.ydd.
+2024-12-20T01:47:14.7541662-05:00|Added Female 17 Shoes with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\17\mp_f_freemode_01^feet_017_u.ydd.
+2024-12-20T01:47:15.1988704-05:00|Added Female 18 Shoes with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\18\mp_f_freemode_01^feet_018_u.ydd.
+2024-12-20T01:47:15.4348497-05:00|Added Female 19 Shoes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\19\mp_f_freemode_01^feet_019_u.ydd.
+2024-12-20T01:47:16.1791208-05:00|Added Female 20 Shoes with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\20\mp_f_freemode_01^feet_020_u.ydd.
+2024-12-20T01:47:16.6751107-05:00|Added Female 21 Shoes with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\21\mp_f_freemode_01^feet_021_u.ydd.
+2024-12-20T01:47:17.9720206-05:00|Added Female 22 Shoes with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\22\mp_f_freemode_01^feet_022_u.ydd.
+2024-12-20T01:47:18.1195759-05:00|Added Female 23 Shoes with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\23\mp_f_freemode_01^feet_023_u.ydd.
+2024-12-20T01:47:18.4092490-05:00|Added Female 24 Shoes with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\24\mp_f_freemode_01^feet_024_u.ydd.
+2024-12-20T01:47:18.7573681-05:00|Added Female 25 Shoes with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\25\mp_f_freemode_01^feet_025_u.ydd.
+2024-12-20T01:47:19.0211104-05:00|Added Female 26 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\26\mp_f_freemode_01^feet_026_u.ydd.
+2024-12-20T01:47:19.6410588-05:00|Added Female 27 Shoes with 24 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\27\mp_f_freemode_01^feet_027_u.ydd.
+2024-12-20T01:47:20.2346780-05:00|Added Female 28 Shoes with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\28\mp_f_freemode_01^feet_028_u.ydd.
+2024-12-20T01:47:20.6722707-05:00|Added Female 29 Shoes with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\29\mp_f_freemode_01^feet_029_u.ydd.
+2024-12-20T01:47:22.3361224-05:00|Added Female 30 Shoes with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\30\mp_f_freemode_01^feet_030_u.ydd.
+2024-12-20T01:47:22.4143003-05:00|Added Female 31 Shoes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\31\mp_f_freemode_01^feet_031_u.ydd.
+2024-12-20T01:47:23.1632398-05:00|Added Female 32 Shoes with 20 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\32\mp_f_freemode_01^feet_032_u.ydd.
+2024-12-20T01:47:23.2755084-05:00|Added Female 33 Shoes with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\33\mp_f_freemode_01^feet_033_u.ydd.
+2024-12-20T01:47:23.5798054-05:00|Added Female 34 Shoes with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\34\mp_f_freemode_01^feet_034_u.ydd.
+2024-12-20T01:47:23.7094789-05:00|Added Female 35 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\35\mp_f_freemode_01^feet_035_u.ydd.
+2024-12-20T01:47:23.8775632-05:00|Added Female 36 Shoes with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\36\mp_f_freemode_01^feet_036_u.ydd.
+2024-12-20T01:47:24.7157576-05:00|Added Female 37 Shoes with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\37\mp_f_freemode_01^feet_037_u.ydd.
+2024-12-20T01:47:25.0968209-05:00|Added Female 38 Shoes with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\38\mp_f_freemode_01^feet_038_u.ydd.
+2024-12-20T01:47:25.5378759-05:00|Added Female 39 Shoes with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\39\mp_f_freemode_01^feet_039_u.ydd.
+2024-12-20T01:47:26.0131769-05:00|Added Female 40 Shoes with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\40\mp_f_freemode_01^feet_040_u.ydd.
+2024-12-20T01:47:26.4849317-05:00|Added Female 41 Shoes with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\41\mp_f_freemode_01^feet_041_u.ydd.
+2024-12-20T01:47:26.5746692-05:00|Added Female 42 Shoes with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\42\mp_f_freemode_01^feet_042_u.ydd.
+2024-12-20T01:47:27.1000564-05:00|Added Female 43 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\43\mp_f_freemode_01^feet_043_u.ydd.
+2024-12-20T01:47:27.5186613-05:00|Added Female 44 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\44\mp_f_freemode_01^feet_044_u.ydd.
+2024-12-20T01:47:27.5895342-05:00|Added Female 45 Shoes with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\45\mp_f_freemode_01^feet_045_u.ydd.
+2024-12-20T01:47:27.7092985-05:00|Added Female 46 Shoes with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\46\mp_f_freemode_01^feet_046_u.ydd.
+2024-12-20T01:47:27.7678045-05:00|Added Female 47 Shoes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\47\mp_f_freemode_01^feet_047_u.ydd.
+2024-12-20T01:47:28.9696171-05:00|Added Female 48 Shoes with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\48\mp_f_freemode_01^feet_048_u.ydd.
+2024-12-20T01:47:30.2234036-05:00|Added Female 49 Shoes with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\49\mp_f_freemode_01^feet_049_u.ydd.
+2024-12-20T01:47:30.3317899-05:00|Added Female 50 Shoes with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\50\mp_f_freemode_01^feet_050_u.ydd.
+2024-12-20T01:47:30.6590028-05:00|Added Female 51 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\51\mp_f_freemode_01^feet_051_u.ydd.
+2024-12-20T01:47:31.1309066-05:00|Added Female 52 Shoes with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\52\mp_f_freemode_01^feet_052_u.ydd.
+2024-12-20T01:47:31.6625719-05:00|Added Female 53 Shoes with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\53\mp_f_freemode_01^feet_053_u.ydd.
+2024-12-20T01:47:32.0050628-05:00|Added Female 54 Shoes with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\54\mp_f_freemode_01^feet_054_u.ydd.
+2024-12-20T01:47:32.8151434-05:00|Added Female 55 Shoes with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\55\mp_f_freemode_01^feet_055_u.ydd.
+2024-12-20T01:47:32.9360512-05:00|Added Female 56 Shoes with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\56\mp_f_freemode_01^feet_056_u.ydd.
+2024-12-20T01:47:33.1764385-05:00|Added Female 57 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\57\mp_f_freemode_01^feet_057_u.ydd.
+2024-12-20T01:47:33.4751030-05:00|Added Female 58 Shoes with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\58\mp_f_freemode_01^feet_058_u.ydd.
+2024-12-20T01:47:33.5964950-05:00|Added Female 59 Shoes with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\59\mp_f_freemode_01^feet_059_u.ydd.
+2024-12-20T01:47:33.7675465-05:00|Added Female 60 Shoes with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\60\mp_f_freemode_01^feet_060_u.ydd.
+2024-12-20T01:47:33.9701657-05:00|Added Female 61 Shoes with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\61\mp_f_freemode_01^feet_061_u.ydd.
+2024-12-20T01:47:34.1442363-05:00|Added Female 62 Shoes with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\62\mp_f_freemode_01^feet_062_u.ydd.
+2024-12-20T01:47:34.5109506-05:00|Added Female 63 Shoes with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\63\mp_f_freemode_01^feet_063_u.ydd.
+2024-12-20T01:47:34.6755000-05:00|Added Female 64 Shoes with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\64\mp_f_freemode_01^feet_064_u.ydd.
+2024-12-20T01:47:34.8175385-05:00|Added Female 65 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\65\mp_f_freemode_01^feet_065_u.ydd.
+2024-12-20T01:47:35.0097328-05:00|Added Female 66 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\66\mp_f_freemode_01^feet_066_u.ydd.
+2024-12-20T01:47:35.5135810-05:00|Added Female 67 Shoes with 18 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\67\mp_f_freemode_01^feet_067_u.ydd.
+2024-12-20T01:47:35.6526539-05:00|Added Female 68 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\68\mp_f_freemode_01^feet_068_u.ydd.
+2024-12-20T01:47:35.8575120-05:00|Added Female 69 Shoes with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\69\mp_f_freemode_01^feet_069_u.ydd.
+2024-12-20T01:47:35.9030995-05:00|Added Female 70 Shoes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\70\mp_f_freemode_01^feet_070_u.ydd.
+2024-12-20T01:47:35.9585013-05:00|Added Female 71 Shoes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\71\mp_f_freemode_01^feet_071_u.ydd.
+2024-12-20T01:47:36.1316884-05:00|Added Female 72 Shoes with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\72\mp_f_freemode_01^feet_072_u.ydd.
+2024-12-20T01:47:36.1608819-05:00|Added Female 73 Shoes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\73\mp_f_freemode_01^feet_073_u.ydd.
+2024-12-20T01:47:36.5885195-05:00|Added Female 74 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\74\mp_f_freemode_01^feet_074_u.ydd.
+2024-12-20T01:47:36.7241357-05:00|Added Female 75 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\75\mp_f_freemode_01^feet_075_u.ydd.
+2024-12-20T01:47:36.8125641-05:00|Added Female 76 Shoes with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\76\mp_f_freemode_01^feet_076_r.ydd.
+2024-12-20T01:47:36.9420265-05:00|Added Female 77 Shoes with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\77\mp_f_freemode_01^feet_077_r.ydd.
+2024-12-20T01:47:37.1712644-05:00|Added Female 78 Shoes with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\78\mp_f_freemode_01^feet_078_r.ydd.
+2024-12-20T01:47:37.2916300-05:00|Added Female 79 Shoes with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\79\mp_f_freemode_01^feet_079_r.ydd.
+2024-12-20T01:47:38.6713853-05:00|Added Female 80 Shoes with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\80\mp_f_freemode_01^feet_080_u.ydd.
+2024-12-20T01:47:38.7346017-05:00|Added Female 81 Shoes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\81\mp_f_freemode_01^feet_081_r.ydd.
+2024-12-20T01:47:39.0843982-05:00|Added Female 82 Shoes with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\82\mp_f_freemode_01^feet_082_r.ydd.
+2024-12-20T01:47:39.1757000-05:00|Added Female 83 Shoes with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\83\mp_f_freemode_01^feet_083_u.ydd.
+2024-12-20T01:47:39.2407063-05:00|Added Female 84 Shoes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\84\mp_f_freemode_01^feet_084_u.ydd.
+2024-12-20T01:47:39.6731578-05:00|Added Female 85 Shoes with 19 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\85\mp_f_freemode_01^feet_085_u.ydd.
+2024-12-20T01:47:39.8079941-05:00|Added Female 86 Shoes with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\86\mp_f_freemode_01^feet_086_u.ydd.
+2024-12-20T01:47:40.1847102-05:00|Added Female 87 Shoes with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\87\mp_f_freemode_01^feet_087_u.ydd.
+2024-12-20T01:47:40.3641850-05:00|Added Female 88 Shoes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\88\mp_f_freemode_01^feet_088_u.ydd.
+2024-12-20T01:47:40.6820930-05:00|Added Female 89 Shoes with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\feet=shoess\89\mp_f_freemode_01^feet_089_r.ydd.
+2024-12-20T01:47:40.6840592-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T01:48:06.7731344-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 90 new items and 0 new textures.
+2024-12-20T01:48:06.7780127-05:00|Found 90 Female cloth models
+2024-12-20T01:48:24.0346360-05:00|Project with 331 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:48:26.0529227-05:00|331 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (331 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T01:48:26.2322205-05:00|Loading all 3001 items, this can take a moment...
+2024-12-20T01:48:28.1056012-05:00|Finished loading all 3001 items.
+2024-12-20T01:48:28.1447613-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 3001 items and ready to rock (in 4.0804131 seconds).
+2024-12-20T01:49:55.7600014-05:00|Successfully backed up project 2024-12-20 01:49:55.
+2024-12-20T01:50:32.5660645-05:00|Removed 'Shoes' (See logs for full details). Total items: 330
+2024-12-20T01:50:39.7107775-05:00|Removed 'Shoes' (See logs for full details). Total items: 329
+2024-12-20T01:50:55.2228425-05:00|Removed 'Shoes' (See logs for full details). Total items: 328
+2024-12-20T01:50:55.7724631-05:00|Successfully backed up project 2024-12-20 01:50:55.
+2024-12-20T01:51:55.7562772-05:00|Successfully backed up project 2024-12-20 01:51:55.
+2024-12-20T01:52:35.9793103-05:00|Removed 'Shoes' (See logs for full details). Total items: 327
+2024-12-20T01:52:55.7618825-05:00|Successfully backed up project 2024-12-20 01:52:55.
+2024-12-20T01:53:01.5953438-05:00|Removed 'Shoes' (See logs for full details). Total items: 326
+2024-12-20T01:53:05.6448961-05:00|Removed 'Shoes' (See logs for full details). Total items: 325
+2024-12-20T01:53:09.4087506-05:00|Removed 'Shoes' (See logs for full details). Total items: 324
+2024-12-20T01:53:29.7113304-05:00|Removed 'Shoes' (See logs for full details). Total items: 323
+2024-12-20T01:53:55.7576625-05:00|Successfully backed up project 2024-12-20 01:53:55.
+2024-12-20T01:54:07.7853798-05:00|Removed 'Shoes' (See logs for full details). Total items: 322
+2024-12-20T01:54:29.5436393-05:00|Removed 'Shoes' (See logs for full details). Total items: 321
+2024-12-20T01:54:37.4618566-05:00|Removed 'Shoes' (See logs for full details). Total items: 320
+2024-12-20T01:54:40.9596943-05:00|Removed 'Shoes' (See logs for full details). Total items: 319
+2024-12-20T01:54:48.4807288-05:00|Removed 'Shoes' (See logs for full details). Total items: 318
+2024-12-20T01:54:51.9619839-05:00|Removed 'Shoes' (See logs for full details). Total items: 317
+2024-12-20T01:54:55.7586340-05:00|Successfully backed up project 2024-12-20 01:54:55.
+2024-12-20T01:55:22.4942142-05:00|Removed 'Shoes' (See logs for full details). Total items: 316
+2024-12-20T01:55:29.1114039-05:00|Removed 'Shoes' (See logs for full details). Total items: 315
+2024-12-20T01:55:38.1165951-05:00|Removed texture 'a' from 'Female 62 Shoes' (Shoes) at pos 62
+2024-12-20T01:55:38.3383975-05:00|1 texture(s) deleted.
+2024-12-20T01:55:55.7761183-05:00|Successfully backed up project 2024-12-20 01:55:55.
+2024-12-20T01:56:11.2271317-05:00|Removed 'Shoes' (See logs for full details). Total items: 314
+2024-12-20T01:56:14.8751949-05:00|Removed 'Shoes' (See logs for full details). Total items: 313
+2024-12-20T01:56:55.7644470-05:00|Successfully backed up project 2024-12-20 01:56:55.
+2024-12-20T01:57:01.6968246-05:00|Removed 'Shoes' (See logs for full details). Total items: 312
+2024-12-20T01:57:14.5333817-05:00|Removed 'Shoes' (See logs for full details). Total items: 311
+2024-12-20T01:57:46.8948868-05:00|Removed 'Shoes' (See logs for full details). Total items: 310
+2024-12-20T01:57:55.7568973-05:00|Successfully backed up project 2024-12-20 01:57:55.
+2024-12-20T01:58:17.6101381-05:00|Removed 'Shoes' (See logs for full details). Total items: 309
+2024-12-20T01:58:21.8980243-05:00|Removed 'Shoes' (See logs for full details). Total items: 308
+2024-12-20T01:58:55.7576700-05:00|Successfully backed up project 2024-12-20 01:58:55.
+2024-12-20T01:59:09.0073464-05:00|Changed position of 'Female 10 debadge' (Shoes) at pos 10 to 8.
+2024-12-20T01:59:09.0537006-05:00|Changed position of 'Female 12 Shoes' (Shoes) at pos 12 to 9.
+2024-12-20T01:59:09.0776747-05:00|Changed position of 'Female 13 Shoes' (Shoes) at pos 13 to 10.
+2024-12-20T01:59:09.0937650-05:00|Changed position of 'Female 14 Shoes' (Shoes) at pos 14 to 11.
+2024-12-20T01:59:09.1146572-05:00|Changed position of 'Female 15 Shoes' (Shoes) at pos 15 to 12.
+2024-12-20T01:59:09.1354951-05:00|Changed position of 'Female 16 Shoes' (Shoes) at pos 16 to 13.
+2024-12-20T01:59:09.1749222-05:00|Changed position of 'Female 17 Shoes' (Shoes) at pos 17 to 14.
+2024-12-20T01:59:09.1961039-05:00|Changed position of 'Female 18 Shoes' (Shoes) at pos 18 to 15.
+2024-12-20T01:59:09.2326518-05:00|Changed position of 'Female 19 Shoes' (Shoes) at pos 19 to 16.
+2024-12-20T01:59:09.2911856-05:00|Changed position of 'Female 20 Shoes' (Shoes) at pos 20 to 17.
+2024-12-20T01:59:09.3428366-05:00|Changed position of 'Female 21 Shoes' (Shoes) at pos 21 to 18.
+2024-12-20T01:59:09.3650499-05:00|Changed position of 'Female 22 Shoes' (Shoes) at pos 22 to 19.
+2024-12-20T01:59:09.4130730-05:00|Changed position of 'Female 23 Shoes' (Shoes) at pos 23 to 20.
+2024-12-20T01:59:09.4415074-05:00|Changed position of 'Female 24 Shoes' (Shoes) at pos 24 to 21.
+2024-12-20T01:59:09.4767942-05:00|Changed position of 'Female 25 Shoes' (Shoes) at pos 25 to 22.
+2024-12-20T01:59:09.4996468-05:00|Changed position of 'Female 26 Shoes' (Shoes) at pos 26 to 23.
+2024-12-20T01:59:09.5144685-05:00|Changed position of 'Female 28 debadge' (Shoes) at pos 28 to 24.
+2024-12-20T01:59:09.5472969-05:00|Changed position of 'Female 29 Shoes' (Shoes) at pos 29 to 25.
+2024-12-20T01:59:09.5698174-05:00|Changed position of 'Female 30 debadge' (Shoes) at pos 30 to 26.
+2024-12-20T01:59:09.5902070-05:00|Changed position of 'Female 34 Shoes' (Shoes) at pos 34 to 27.
+2024-12-20T01:59:09.6150509-05:00|Changed position of 'Female 35 Shoes' (Shoes) at pos 35 to 28.
+2024-12-20T01:59:09.6300040-05:00|Changed position of 'Female 36 Shoes' (Shoes) at pos 36 to 29.
+2024-12-20T01:59:09.6480541-05:00|Changed position of 'Female 38 Shoes' (Shoes) at pos 38 to 30.
+2024-12-20T01:59:09.6660499-05:00|Changed position of 'Female 39 Shoes' (Shoes) at pos 39 to 31.
+2024-12-20T01:59:09.6776942-05:00|Changed position of 'Female 40 Shoes' (Shoes) at pos 40 to 32.
+2024-12-20T01:59:09.6967478-05:00|Changed position of 'Female 41 Shoes' (Shoes) at pos 41 to 33.
+2024-12-20T01:59:09.7082501-05:00|Changed position of 'Female 42 Shoes' (Shoes) at pos 42 to 34.
+2024-12-20T01:59:09.7272164-05:00|Changed position of 'Female 43 Shoes' (Shoes) at pos 43 to 35.
+2024-12-20T01:59:09.7460240-05:00|Changed position of 'Female 44 Shoes' (Shoes) at pos 44 to 36.
+2024-12-20T01:59:09.7581295-05:00|Changed position of 'Female 46 Shoes' (Shoes) at pos 46 to 37.
+2024-12-20T01:59:09.7759876-05:00|Changed position of 'Female 47 Shoes' (Shoes) at pos 47 to 38.
+2024-12-20T01:59:09.7873770-05:00|Changed position of 'Female 48 Shoes' (Shoes) at pos 48 to 39.
+2024-12-20T01:59:09.8071477-05:00|Changed position of 'Female 49 Shoes' (Shoes) at pos 49 to 40.
+2024-12-20T01:59:09.8253944-05:00|Changed position of 'Female 55 Shoes' (Shoes) at pos 55 to 41.
+2024-12-20T01:59:09.8477197-05:00|Changed position of 'Female 56 Shoes' (Shoes) at pos 56 to 42.
+2024-12-20T01:59:09.8602511-05:00|Changed position of 'Female 57 Shoes' (Shoes) at pos 57 to 43.
+2024-12-20T01:59:09.8798324-05:00|Changed position of 'Female 58 Shoes' (Shoes) at pos 58 to 44.
+2024-12-20T01:59:09.8914679-05:00|Changed position of 'Female 59 Shoes' (Shoes) at pos 59 to 45.
+2024-12-20T01:59:09.9134777-05:00|Changed position of 'Female 62 Shoes' (Shoes) at pos 62 to 46.
+2024-12-20T01:59:09.9264905-05:00|Changed position of 'Female 63 Shoes' (Shoes) at pos 63 to 47.
+2024-12-20T01:59:09.9443988-05:00|Changed position of 'Female 64 Shoes' (Shoes) at pos 64 to 48.
+2024-12-20T01:59:09.9639308-05:00|Changed position of 'Female 65 Shoes' (Shoes) at pos 65 to 49.
+2024-12-20T01:59:09.9757749-05:00|Changed position of 'Female 66 Shoes' (Shoes) at pos 66 to 50.
+2024-12-20T01:59:09.9943409-05:00|Changed position of 'Female 67 Shoes' (Shoes) at pos 67 to 51.
+2024-12-20T01:59:10.0063341-05:00|Changed position of 'Female 68 Shoes' (Shoes) at pos 68 to 52.
+2024-12-20T01:59:10.0247325-05:00|Changed position of 'Female 69 Shoes' (Shoes) at pos 69 to 53.
+2024-12-20T01:59:10.0379020-05:00|Changed position of 'Female 72 Shoes' (Shoes) at pos 72 to 54.
+2024-12-20T01:59:10.0584647-05:00|Changed position of 'Female 73 Shoes' (Shoes) at pos 73 to 55.
+2024-12-20T01:59:10.0800621-05:00|Changed position of 'Female 74 Shoes' (Shoes) at pos 74 to 56.
+2024-12-20T01:59:10.0925722-05:00|Changed position of 'Female 75 Shoes' (Shoes) at pos 75 to 57.
+2024-12-20T01:59:10.1124659-05:00|Changed position of 'Female 78 Shoes' (Shoes) at pos 78 to 58.
+2024-12-20T01:59:10.1245779-05:00|Changed position of 'Female 79 Shoes' (Shoes) at pos 79 to 59.
+2024-12-20T01:59:10.1433872-05:00|Changed position of 'Female 80 Shoes' (Shoes) at pos 80 to 60.
+2024-12-20T01:59:10.1640792-05:00|Changed position of 'Female 82 Shoes' (Shoes) at pos 82 to 61.
+2024-12-20T01:59:10.1765279-05:00|Changed position of 'Female 83 Shoes' (Shoes) at pos 83 to 62.
+2024-12-20T01:59:10.1978689-05:00|Changed position of 'Female 86 Shoes' (Shoes) at pos 86 to 63.
+2024-12-20T01:59:10.2099961-05:00|Changed position of 'Female 87 Shoes' (Shoes) at pos 87 to 64.
+2024-12-20T01:59:10.2296669-05:00|Changed position of 'Female 88 Shoes' (Shoes) at pos 88 to 65.
+2024-12-20T01:59:10.2484865-05:00|Changed position of 'Female 89 Shoes' (Shoes) at pos 89 to 66.
+2024-12-20T01:59:10.2601312-05:00|Successfully resorted 59 from 308 total item positions.
+2024-12-20T01:59:23.4306532-05:00|Project with 308 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
