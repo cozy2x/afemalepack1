@@ -1,3 +1,4 @@
+2024-12-20T00:40:23.1373445-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T00:18:48.6084831-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-19T23:52:23.3543517-05:00|Created new project.
 2024-12-19T23:52:24.3930780-05:00|Found a valid license. [1648]
@@ -129,3 +130,261 @@
 2024-12-20T00:18:48.8060401-05:00|Finished loading all 31 items.
 2024-12-20T00:18:48.8755875-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 31 items and ready to rock (in 0.3441361 seconds).
 2024-12-20T00:19:01.7584884-05:00|Project with 13 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:19:45.5226870-05:00|Project with 13 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:20:02.4236214-05:00|Project with 13 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:20:22.7107648-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:20:22.8240839-05:00|Added Female 5 Legs with 0 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\dbody\ODD Perna\mp_f_freemode_01^lowr_008_r.ydd.
+2024-12-20T00:20:39.7806969-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T00:20:39.8868001-05:00|Added texture uppr_normal_000.ytd to 'Female 5 Legs' (Legs) at pos 5
+2024-12-20T00:20:45.1449060-05:00|Removed texture 'a' from 'Female 5 Legs' (Legs) at pos 5
+2024-12-20T00:20:45.1914803-05:00|1 texture(s) deleted.
+2024-12-20T00:20:55.7009328-05:00|Successfully backed up project 2024-12-20 00:20:55.
+2024-12-20T00:21:03.9487717-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:21:04.0582684-05:00|Added Female 7 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\dbody\ODD Mão\mp_f_freemode_01_female_heist^uppr_040_r.ydd.
+2024-12-20T00:21:18.0281048-05:00|Removed 'Legs' (See logs for full details). Total items: 14
+2024-12-20T00:21:19.8275169-05:00|Removed 'Body' (See logs for full details). Total items: 13
+2024-12-20T00:21:55.7014368-05:00|Successfully backed up project 2024-12-20 00:21:55.
+2024-12-20T00:22:55.7000899-05:00|Successfully backed up project 2024-12-20 00:22:55.
+2024-12-20T00:23:55.7004497-05:00|Successfully backed up project 2024-12-20 00:23:55.
+2024-12-20T00:24:55.7006787-05:00|Successfully backed up project 2024-12-20 00:24:55.
+2024-12-20T00:25:37.9408447-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T00:25:38.0427921-05:00|Added texture textura_mao_f.ytd to 'Female 4 DBody1' (Body) at pos 4
+2024-12-20T00:25:55.7002753-05:00|Successfully backed up project 2024-12-20 00:25:55.
+2024-12-20T00:26:30.5651722-05:00|Removed texture 'a' from 'Female 4 DBody1' (Body) at pos 4
+2024-12-20T00:26:30.7591019-05:00|1 texture(s) deleted.
+2024-12-20T00:26:47.0448074-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T00:26:47.1478751-05:00|Added texture textura_mao_f.ytd to 'Female 5 DBody2' (Body) at pos 5
+2024-12-20T00:26:51.2331220-05:00|Removed texture 'a' from 'Female 5 DBody2' (Body) at pos 5
+2024-12-20T00:26:51.6070732-05:00|1 texture(s) deleted.
+2024-12-20T00:26:54.3423590-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T00:26:54.4725173-05:00|Added texture textura_mao_f.ytd to 'Female 6 DBody3' (Body) at pos 6
+2024-12-20T00:26:55.7005418-05:00|Successfully backed up project 2024-12-20 00:26:55.
+2024-12-20T00:26:56.8557368-05:00|Removed texture 'a' from 'Female 6 DBody3' (Body) at pos 6
+2024-12-20T00:26:57.0351575-05:00|1 texture(s) deleted.
+2024-12-20T00:27:02.9789699-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T00:27:03.0746057-05:00|Added texture textura_mao_f.ytd to 'Female 3 Dainty KS V3' (Body) at pos 3
+2024-12-20T00:27:06.4143056-05:00|Removed texture 'a' from 'Female 3 Dainty KS V3' (Body) at pos 3
+2024-12-20T00:27:06.7033108-05:00|1 texture(s) deleted.
+2024-12-20T00:27:55.7010395-05:00|Successfully backed up project 2024-12-20 00:27:55.
+2024-12-20T00:28:55.7014729-05:00|Successfully backed up project 2024-12-20 00:28:55.
+2024-12-20T00:29:51.0795069-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:29:52.1641223-05:00|Added Male 0 Undershirt with 10 found textures from D:\3D Models\GTA\Purchased Items\Bodies\Male Bodies\CORPOS FREE\[corpos_bagdad_petrovna]\[male]\[accs_174]\mp_m_freemode_01_mp_m_heist4^accs_004_u.ydd.
+2024-12-20T00:29:55.2876251-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:29:55.4754297-05:00|Added Male 0 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\Male Bodies\CORPOS FREE\[corpos_bagdad_petrovna]\[male]\[lowr_123]\mp_m_freemode_01_mp_m_heist3^lowr_003_r.ydd.
+2024-12-20T00:29:55.7044992-05:00|Successfully backed up project 2024-12-20 00:29:55.
+2024-12-20T00:30:00.7072431-05:00|Trying to add 3 drawable files by drag & drop...
+2024-12-20T00:30:00.8625074-05:00|Added Male 0 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\Male Bodies\CORPOS FREE\[corpos_bagdad_petrovna]\[male]\[uppr_id_100_101_102]\mp_m_freemode_01_mp_m_january2016^uppr_000_r.ydd.
+2024-12-20T00:30:01.0682105-05:00|Added Male 1 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\Male Bodies\CORPOS FREE\[corpos_bagdad_petrovna]\[male]\[uppr_id_100_101_102]\mp_m_freemode_01_mp_m_january2016^uppr_001_r.ydd.
+2024-12-20T00:30:01.1746738-05:00|Added Male 2 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\Male Bodies\CORPOS FREE\[corpos_bagdad_petrovna]\[male]\[uppr_id_100_101_102]\mp_m_freemode_01_mp_m_january2016^uppr_002_r.ydd.
+2024-12-20T00:30:55.7000968-05:00|Successfully backed up project 2024-12-20 00:30:55.
+2024-12-20T00:31:09.2220596-05:00|Removed 'Undershirt' (See logs for full details). Total items: 17
+2024-12-20T00:31:11.5335020-05:00|Removed 'Legs' (See logs for full details). Total items: 16
+2024-12-20T00:31:15.8610426-05:00|Removed 3 items (See logs for full details). Total items: 13
+2024-12-20T00:31:55.7002362-05:00|Successfully backed up project 2024-12-20 00:31:55.
+2024-12-20T00:32:55.7003521-05:00|Successfully backed up project 2024-12-20 00:32:55.
+2024-12-20T00:33:49.6364058-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:33:49.7740632-05:00|Added Male 0 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\Male Bodies\Ken Body - YZZE\#36 - Legs Ken Body - YZZE\mp_m_freemode_01_male_heist^lowr_003_r.ydd.
+2024-12-20T00:33:53.7776505-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:33:53.9347655-05:00|Added Male 0 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\Male Bodies\Ken Body - YZZE\#82 - Arms Ken Body - YZZE\mp_m_freemode_01_male_heist^uppr_063_r.ydd.
+2024-12-20T00:33:55.7006443-05:00|Successfully backed up project 2024-12-20 00:33:55.
+2024-12-20T00:34:55.7010543-05:00|Successfully backed up project 2024-12-20 00:34:55.
+2024-12-20T00:35:46.0167331-05:00|Trying to add 56 drawable files by drag & drop...
+2024-12-20T00:35:46.1200741-05:00|Added Male 0 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_000_u.ydd.
+2024-12-20T00:35:46.1735106-05:00|Added Male 1 Undershirt with 2 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_001_u.ydd.
+2024-12-20T00:35:46.2385041-05:00|Added Male 2 Undershirt with 2 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_002_u.ydd.
+2024-12-20T00:35:46.3084672-05:00|Added Male 3 Undershirt with 2 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_003_u.ydd.
+2024-12-20T00:35:46.3752923-05:00|Added Male 4 Undershirt with 2 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_004_u.ydd.
+2024-12-20T00:35:46.4784209-05:00|Added Male 5 Undershirt with 2 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_005_u.ydd.
+2024-12-20T00:35:46.6774319-05:00|Added Male 6 Undershirt with 6 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_006_u.ydd.
+2024-12-20T00:35:46.8544003-05:00|Added Male 7 Undershirt with 6 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_007_u.ydd.
+2024-12-20T00:35:46.9146905-05:00|Added Male 8 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_008_u.ydd.
+2024-12-20T00:35:47.0510650-05:00|Added Male 9 Undershirt with 4 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_009_u.ydd.
+2024-12-20T00:35:47.1655871-05:00|Added Male 10 Undershirt with 4 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_010_u.ydd.
+2024-12-20T00:35:47.2299773-05:00|Added Male 11 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_011_u.ydd.
+2024-12-20T00:35:47.2851163-05:00|Added Male 12 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_012_u.ydd.
+2024-12-20T00:35:47.3397173-05:00|Added Male 13 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_013_u.ydd.
+2024-12-20T00:35:47.3707045-05:00|Added Male 14 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_014_u.ydd.
+2024-12-20T00:35:47.4231055-05:00|Added Male 15 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_015_u.ydd.
+2024-12-20T00:35:47.4556295-05:00|Added Male 16 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_016_u.ydd.
+2024-12-20T00:35:47.5413233-05:00|Added Male 17 Undershirt with 3 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_017_u.ydd.
+2024-12-20T00:35:47.6171123-05:00|Added Male 18 Undershirt with 2 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_018_u.ydd.
+2024-12-20T00:35:47.6565741-05:00|Added Male 19 Undershirt with 2 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_019_u.ydd.
+2024-12-20T00:35:47.7203840-05:00|Added Male 20 Undershirt with 5 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_020_u.ydd.
+2024-12-20T00:35:47.9126596-05:00|Added Male 21 Undershirt with 10 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_021_u.ydd.
+2024-12-20T00:35:48.1054355-05:00|Added Male 22 Undershirt with 10 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_022_u.ydd.
+2024-12-20T00:35:48.1791747-05:00|Added Male 23 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_023_u.ydd.
+2024-12-20T00:35:48.3326061-05:00|Added Male 24 Undershirt with 10 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_024_u.ydd.
+2024-12-20T00:35:48.4551133-05:00|Added Male 25 Undershirt with 6 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_025_u.ydd.
+2024-12-20T00:35:48.8312508-05:00|Added Male 26 Undershirt with 20 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_026_u.ydd.
+2024-12-20T00:35:49.0795170-05:00|Added Male 27 Undershirt with 20 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_027_u.ydd.
+2024-12-20T00:35:49.2713354-05:00|Added Male 28 Undershirt with 20 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_028_u.ydd.
+2024-12-20T00:35:49.5950589-05:00|Added Male 29 Undershirt with 20 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_029_u.ydd.
+2024-12-20T00:35:49.6167443-05:00|Added Male 30 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_030_u.ydd.
+2024-12-20T00:35:49.6412520-05:00|Added Male 31 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_031_u.ydd.
+2024-12-20T00:35:49.8201604-05:00|Added Male 32 Undershirt with 8 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_032_u.ydd.
+2024-12-20T00:35:49.9038237-05:00|Added Male 33 Undershirt with 6 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_033_u.ydd.
+2024-12-20T00:35:49.9551136-05:00|Added Male 34 Undershirt with 2 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_034_u.ydd.
+2024-12-20T00:35:50.1865941-05:00|Added Male 35 Undershirt with 6 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_035_u.ydd.
+2024-12-20T00:35:50.2200438-05:00|Added Male 36 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_036_u.ydd.
+2024-12-20T00:35:50.3228551-05:00|Added Male 37 Undershirt with 2 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_037_u.ydd.
+2024-12-20T00:35:50.3598748-05:00|Added Male 38 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_038_u.ydd.
+2024-12-20T00:35:50.4216523-05:00|Added Male 39 Undershirt with 3 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_039_u.ydd.
+2024-12-20T00:35:50.4577972-05:00|Added Male 40 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_040_u.ydd.
+2024-12-20T00:35:50.4996140-05:00|Added Male 41 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_041_u.ydd.
+2024-12-20T00:35:50.5924816-05:00|Added Male 42 Undershirt with 4 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_042_u.ydd.
+2024-12-20T00:35:50.6503641-05:00|Added Male 43 Undershirt with 4 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_043_u.ydd.
+2024-12-20T00:35:50.7389335-05:00|Added Male 44 Undershirt with 3 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_044_u.ydd.
+2024-12-20T00:35:50.8250538-05:00|Added Male 45 Undershirt with 3 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_045_u.ydd.
+2024-12-20T00:35:51.0941703-05:00|Added Male 46 Undershirt with 16 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_046_u.ydd.
+2024-12-20T00:35:51.3895366-05:00|Added Male 47 Undershirt with 16 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_047_u.ydd.
+2024-12-20T00:35:52.0759554-05:00|Added Male 48 Undershirt with 16 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_048_u.ydd.
+2024-12-20T00:35:52.1222632-05:00|Added Male 49 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_049_u.ydd.
+2024-12-20T00:35:52.1834979-05:00|Added Male 50 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_050_u.ydd.
+2024-12-20T00:35:52.2128717-05:00|Added Male 51 Undershirt with 1 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_051_u.ydd.
+2024-12-20T00:35:52.5228228-05:00|Added Male 52 Undershirt with 16 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_052_u.ydd.
+2024-12-20T00:35:53.0926034-05:00|Added Male 53 Undershirt with 26 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_053_u.ydd.
+2024-12-20T00:35:53.9683830-05:00|Added Male 54 Undershirt with 26 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_054_u.ydd.
+2024-12-20T00:35:54.0997150-05:00|Added Male 55 Undershirt with 5 found textures from D:\3D Models\GTA\Purchased Items\erp-clothing\stream\mp_m_freemode_01_mp_m_erpclothing\mp_m_freemode_01_mp_m_erpclothing^accs_055_u.ydd.
+2024-12-20T00:35:54.1001317-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T00:35:57.6331949-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 56 new items and 0 new textures.
+2024-12-20T00:36:55.7101997-05:00|Successfully backed up project 2024-12-20 00:36:55.
+2024-12-20T00:37:55.7073138-05:00|Successfully backed up project 2024-12-20 00:37:55.
+2024-12-20T00:38:55.7090552-05:00|Successfully backed up project 2024-12-20 00:38:55.
+2024-12-20T00:39:55.7060141-05:00|Successfully backed up project 2024-12-20 00:39:55.
+2024-12-20T00:40:22.9609035-05:00|Project with 71 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:40:23.6636935-05:00|71 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (71 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T00:40:23.7034321-05:00|Loading all 429 items, this can take a moment...
+2024-12-20T00:40:23.8737705-05:00|Finished loading all 429 items.
+2024-12-20T00:40:23.9045799-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 429 items and ready to rock (in 0.8436472 seconds).
+2024-12-20T00:41:20.5944007-05:00|Removed 56 items (See logs for full details). Total items: 15
+2024-12-20T00:41:26.0246997-05:00|Removed 'Legs' (See logs for full details). Total items: 14
+2024-12-20T00:41:30.0170650-05:00|Removed 3 items (See logs for full details). Total items: 11
+2024-12-20T00:41:38.3327164-05:00|Removed 4 items (See logs for full details). Total items: 7
+2024-12-20T00:41:55.6995200-05:00|Successfully backed up project 2024-12-20 00:41:55.
+2024-12-20T00:42:12.4339466-05:00|Added Female 4 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Arms\Dainty_Arms_V1\uppr_000_r.ydd.
+2024-12-20T00:42:12.8361029-05:00|Added Female 5 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Arms\Dainty_Arms_V2\uppr_000_r.ydd.
+2024-12-20T00:42:12.9301886-05:00|Added Female 6 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Arms\Dainty_Arms_V3\uppr_000_r.ydd.
+2024-12-20T00:42:12.9495168-05:00|Found 3 Female cloth models
+2024-12-20T00:42:55.7004840-05:00|Successfully backed up project 2024-12-20 00:42:55.
+2024-12-20T00:43:21.0726195-05:00|Added Female 2 Legs with 3 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Legs\Dainty_Legs_V1\lowr_000_r.ydd.
+2024-12-20T00:43:21.5565031-05:00|Added Female 3 Legs with 3 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Legs\Dainty_Legs_V2\lowr_000_r.ydd.
+2024-12-20T00:43:21.6454504-05:00|Added Female 4 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Dainty_Body\Dainty_Legs\Dainty_Legs_V3\lowr_000_r.ydd.
+2024-12-20T00:43:21.6688543-05:00|Found 3 Female cloth models
+2024-12-20T00:43:52.9956838-05:00|Changed position of 'Female 1 Corpos' (Body) at pos 1 to 0.
+2024-12-20T00:43:53.0487939-05:00|Changed position of 'Female 2 Dainty V1' (Legs) at pos 2 to 0.
+2024-12-20T00:43:53.0563109-05:00|Changed position of 'Female 2 Dainty V2' (Legs) at pos 2 to 1.
+2024-12-20T00:43:53.0601342-05:00|Changed position of 'Female 4 Dainty V1' (Body) at pos 4 to 1.
+2024-12-20T00:43:53.0662219-05:00|Changed position of 'Female 4 Dainty V2' (Body) at pos 4 to 2.
+2024-12-20T00:43:53.0704648-05:00|Changed position of 'Female 4 Dainty V3' (Body) at pos 4 to 3.
+2024-12-20T00:43:53.0758252-05:00|Successfully resorted 6 from 13 total item positions.
+2024-12-20T00:43:55.7014360-05:00|Successfully backed up project 2024-12-20 00:43:55.
+2024-12-20T00:43:56.2053831-05:00|Project with 13 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:44:07.7851242-05:00|Trying to add 6 drawable files by drag & drop...
+2024-12-20T00:44:08.0309242-05:00|Added Female 5 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\FBODY\mp_f_freemode_01_female_freemode_beach^lowr_001_r.ydd.
+2024-12-20T00:44:08.2100698-05:00|Added Female 7 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\FBODY\mp_f_freemode_01_female_heist^uppr_051_r.ydd.
+2024-12-20T00:44:08.3981735-05:00|Added Female 8 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\FBODY\mp_f_freemode_01_female_heist^uppr_052_r.ydd.
+2024-12-20T00:44:08.5246235-05:00|Added Female 9 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\FBODY\mp_f_freemode_01_female_heist^uppr_053_r.ydd.
+2024-12-20T00:44:08.6525870-05:00|Added Female 10 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\FBODY\mp_f_freemode_01_female_heist^uppr_054_r.ydd.
+2024-12-20T00:44:08.9592223-05:00|Added Female 6 Legs with 2 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\FBODY\mp_f_freemode_01_female_xmas^lowr_000_r.ydd.
+2024-12-20T00:44:49.9465897-05:00|Trying to add 8 drawable files by drag & drop...
+2024-12-20T00:44:50.0229508-05:00|Added Female 7 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\GTAV MBody\mp_f_freemode_01_female_freemode_independence^lowr_000_r.ydd.
+2024-12-20T00:44:50.1690461-05:00|Added Female 8 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\GTAV MBody\mp_f_freemode_01_female_freemode_valentines^lowr_001_r.ydd.
+2024-12-20T00:44:50.1922533-05:00|Added Female 11 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\GTAV MBody\mp_f_freemode_01_female_heist^uppr_000_r.ydd.
+2024-12-20T00:44:50.2139438-05:00|Added Female 12 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\GTAV MBody\mp_f_freemode_01_female_heist^uppr_001_r.ydd.
+2024-12-20T00:44:50.2347284-05:00|Added Female 13 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\GTAV MBody\mp_f_freemode_01_female_heist^uppr_002_r.ydd.
+2024-12-20T00:44:50.2851540-05:00|Added Female 14 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\GTAV MBody\mp_f_freemode_01_female_heist^uppr_003_r.ydd.
+2024-12-20T00:44:50.3046351-05:00|Added Female 15 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\GTAV MBody\mp_f_freemode_01_female_heist^uppr_004_r.ydd.
+2024-12-20T00:44:50.3281001-05:00|Added Female 16 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\GTAV MBody\mp_f_freemode_01_female_heist^uppr_005_r.ydd.
+2024-12-20T00:44:50.3317658-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T00:44:50.4666672-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 8 new items and 0 new textures.
+2024-12-20T00:44:55.7024427-05:00|Successfully backed up project 2024-12-20 00:44:55.
+2024-12-20T00:44:56.0672904-05:00|Project with 27 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:44:56.7883348-05:00|27 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (27 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T00:44:56.8138593-05:00|Loading all 60 items, this can take a moment...
+2024-12-20T00:44:56.8508572-05:00|Finished loading all 60 items.
+2024-12-20T00:44:56.8794165-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 60 items and ready to rock (in 0.7436676 seconds).
+2024-12-20T00:45:50.6700281-05:00|Trying to add 4 drawable files by drag & drop...
+2024-12-20T00:45:50.8513042-05:00|Added Female 9 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Juicy Body\mp_f_freemode_01^lowr_002_r.ydd.
+2024-12-20T00:45:51.0714189-05:00|Added Female 10 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Juicy Body\mp_f_freemode_01^lowr_003_r.ydd.
+2024-12-20T00:45:51.2679486-05:00|Added Female 17 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Juicy Body\mp_f_freemode_01^uppr_003_r.ydd.
+2024-12-20T00:45:51.4091994-05:00|Added Female 18 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Juicy Body\mp_f_freemode_01^uppr_005_r.ydd.
+2024-12-20T00:45:55.7022944-05:00|Successfully backed up project 2024-12-20 00:45:55.
+2024-12-20T00:46:17.7808107-05:00|Project with 31 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:46:36.9424662-05:00|Project with 31 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:46:52.3055563-05:00|Didn't find any cloth models (*.ydd) that start with mp_m or mp_f. Try gender specific 'Add from folder' instead.
+2024-12-20T00:47:02.3387594-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:47:02.3854133-05:00|Failed to auto resolve options for uppr_000_r.ydd.
+2024-12-20T00:47:04.5606932-05:00|Added Female 19 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Ks_Body\Ks_Arms\Ks_Arms_V1\uppr_000_r.ydd.
+2024-12-20T00:47:11.6074621-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:47:11.6704290-05:00|Failed to auto resolve options for uppr_000_r.ydd.
+2024-12-20T00:47:14.8574070-05:00|Added Female 20 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Ks_Body\Ks_Arms\Ks_Arms_V2\uppr_000_r.ydd.
+2024-12-20T00:47:18.4880300-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:47:18.5189505-05:00|Failed to auto resolve options for uppr_000_r.ydd.
+2024-12-20T00:47:20.6769119-05:00|Added Female 21 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Ks_Body\Ks_Arms\Ks_Arms_V3\uppr_000_r.ydd.
+2024-12-20T00:47:23.9980641-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:47:24.0163288-05:00|Failed to auto resolve options for uppr_000_r.ydd.
+2024-12-20T00:47:26.4555840-05:00|Added Female 22 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Ks_Body\Ks_Arms\Ks_Arms_V4\uppr_000_r.ydd.
+2024-12-20T00:47:31.9023435-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:47:31.9825141-05:00|Failed to auto resolve options for lowr_000_r.ydd.
+2024-12-20T00:47:34.8195767-05:00|Added Female 11 Legs with 3 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Ks_Body\Ks_Legs\Ks_Legs_V1\lowr_000_r.ydd.
+2024-12-20T00:47:39.2179526-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:47:39.2367886-05:00|Failed to auto resolve options for lowr_000_r.ydd.
+2024-12-20T00:47:41.6745370-05:00|Added Female 12 Legs with 3 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Ks_Body\Ks_Legs\Ks_Legs_V2\lowr_000_r.ydd.
+2024-12-20T00:47:45.1167798-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:47:45.1355374-05:00|Failed to auto resolve options for lowr_000_r.ydd.
+2024-12-20T00:47:47.7765311-05:00|Added Female 13 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Ks_Body\Ks_Legs\Ks_Legs_V3\lowr_000_r.ydd.
+2024-12-20T00:47:55.7041039-05:00|Successfully backed up project 2024-12-20 00:47:55.
+2024-12-20T00:48:14.7281092-05:00|Project with 38 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:48:24.6886709-05:00|Trying to add 3 drawable files by drag & drop...
+2024-12-20T00:48:24.7545862-05:00|Added Female 14 Legs with 0 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\NEW SURREAL BODY\mp_f_freemode_01^lowr_000_r.ydd.
+2024-12-20T00:48:24.9743686-05:00|Added Female 15 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\NEW SURREAL BODY\mp_f_freemode_01^lowr_001_r.ydd.
+2024-12-20T00:48:25.0315504-05:00|Added Female 23 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\NEW SURREAL BODY\mp_f_freemode_01^uppr_000_r.ydd.
+2024-12-20T00:48:28.9519497-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T00:48:29.0068133-05:00|Added texture D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\NEW SURREAL BODY\mp_f_freemode_01^lowr_diff_001_a_whi.ytd to 'Female 23 Body' (Body) at pos 23
+2024-12-20T00:48:39.4506126-05:00|Texture 'a' (5503ed3c-b3dd-4a14-b364-258acd002dd1.ytd) file got successfully updated to 1ae20972-d81b-40c2-bfa5-e90f8543f7c2.ytd.
+2024-12-20T00:48:39.4998386-05:00|Successfully replaced texture 'a' file 5503ed3c-b3dd-4a14-b364-258acd002dd1.ytd with D:\hihip\Downloads\fbody textures\textura_mao_f.png (imported as 1ae20972-d81b-40c2-bfa5-e90f8543f7c2.ytd).
+2024-12-20T00:48:55.7020927-05:00|Successfully backed up project 2024-12-20 00:48:55.
+2024-12-20T00:49:09.1101628-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T00:49:09.2033131-05:00|Added texture textura_mao_f.ytd to 'Female 14 Surreal' (Legs) at pos 14
+2024-12-20T00:49:12.3404550-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T00:49:13.0499606-05:00|Added texture mp_fm_skin_f_lo_whi_Copy1.ytd to 'Female 14 Surreal' (Legs) at pos 14
+2024-12-20T00:49:15.8417779-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T00:49:16.0769507-05:00|Added texture mp_fm_skin_f_lo_whi.ytd to 'Female 14 Surreal' (Legs) at pos 14
+2024-12-20T00:49:21.3728160-05:00|Removed texture 'a' from 'Female 14 Surreal' (Legs) at pos 14
+2024-12-20T00:49:21.7109055-05:00|1 texture(s) deleted.
+2024-12-20T00:49:23.6947490-05:00|Removed texture 'b' from 'Female 14 Surreal' (Legs) at pos 14
+2024-12-20T00:49:24.0369637-05:00|1 texture(s) deleted.
+2024-12-20T00:49:28.4783840-05:00|Project with 41 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:49:46.9616590-05:00|Trying to add 2 drawable files by drag & drop...
+2024-12-20T00:49:48.5967519-05:00|Added Female 16 Legs with 10 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Skinny Legendary Body 2\mp_f_freemode_01^lowr_012_r.ydd.
+2024-12-20T00:49:48.9713819-05:00|Added Female 24 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Skinny Legendary Body 2\mp_f_freemode_01_female_heist^uppr_036_r.ydd.
+2024-12-20T00:49:55.7037046-05:00|Successfully backed up project 2024-12-20 00:49:55.
+2024-12-20T00:50:14.7267670-05:00|Trying to add 4 drawable files by drag & drop...
+2024-12-20T00:50:14.9757171-05:00|Added Female 17 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Skinny Legendy BODY\mp_f_freemode_01_female_freemode_hipster^lowr_000_r.ydd.
+2024-12-20T00:50:15.2502017-05:00|Added Female 25 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Skinny Legendy BODY\mp_f_freemode_01_female_heist^uppr_038_r.ydd.
+2024-12-20T00:50:15.3581776-05:00|Added Female 26 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Skinny Legendy BODY\mp_f_freemode_01_female_heist^uppr_039_r.ydd.
+2024-12-20T00:50:15.6440158-05:00|Added Female 18 Legs with 1 found textures from D:\3D Models\GTA\Purchased Items\Bodies\redup bodies\Skinny Legendy BODY\mp_f_freemode_01_mp_f_importexport_01^lowr_003_r.ydd.
+2024-12-20T00:50:23.1989331-05:00|Removed 'Legs' (See logs for full details). Total items: 46
+2024-12-20T00:50:52.6132298-05:00|Trying to add 3 texture files to selected drawable by drag & drop...
+2024-12-20T00:50:53.4516969-05:00|Added texture mp_fm_skin_f_lo_whi.ytd to 'Female 26 Skinny Legendary' (Body) at pos 26
+2024-12-20T00:50:53.6098026-05:00|Added texture mp_fm_skin_f_lo_whi_Copy1.ytd to 'Female 26 Skinny Legendary' (Body) at pos 26
+2024-12-20T00:50:53.8920853-05:00|Added texture textura_mao_f.ytd to 'Female 26 Skinny Legendary' (Body) at pos 26
+2024-12-20T00:50:55.7113229-05:00|Successfully backed up project 2024-12-20 00:50:55.
+2024-12-20T00:51:01.6765282-05:00|Removed texture 'a' from 'Female 26 Skinny Legendary' (Body) at pos 26
+2024-12-20T00:51:01.7731006-05:00|Removed texture 'b' from 'Female 26 Skinny Legendary' (Body) at pos 26
+2024-12-20T00:51:02.0686960-05:00|2 texture(s) deleted.
+2024-12-20T00:51:04.9992172-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T00:51:05.1132152-05:00|Added texture textura_mao_f.ytd to 'Female 25 Skinny Legendary' (Body) at pos 25
+2024-12-20T00:51:12.9779545-05:00|Project with 46 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:51:29.6711324-05:00|Project with 46 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:51:46.3541627-05:00|Project with 46 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:51:54.7785549-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:51:56.0925313-05:00|Added Female 18 Legs with 10 found textures from D:\3D Models\GTA\Purchased Items\Ajna Mods\Bali Bikini Set - by AjnaMods\Leg\mp_f_freemode_01_mp_f_importexport_01^lowr_004_r.ydd.
+2024-12-20T00:52:00.1605584-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:52:02.6839019-05:00|Added Female 0 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Ajna Mods\Bali Bikini Set - by AjnaMods\Top\mp_f_freemode_01_mp_f_january2016^jbib_000_u.ydd.
+2024-12-20T00:52:42.8690877-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-20T00:52:44.0952922-05:00|Added Female 19 Legs with 10 found textures from D:\3D Models\GTA\Purchased Items\Ajna Mods\Bali Bikini Set - by AjnaMods\Leg\mp_f_freemode_01_mp_f_importexport_01^lowr_004_r.ydd.
+2024-12-20T00:52:51.8915764-05:00|Removed 'Legs' (See logs for full details). Total items: 48
+2024-12-20T00:52:55.7072284-05:00|Successfully backed up project 2024-12-20 00:52:55.
+2024-12-20T00:53:04.8604843-05:00|Project with 48 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T00:53:36.1158208-05:00|Project with 48 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
