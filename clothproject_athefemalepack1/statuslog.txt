@@ -1,3 +1,4 @@
+2024-12-20T16:39:55.9846612-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T02:02:54.0548816-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T02:02:55.8271947-05:00|Previous log file exceeded maximum size. Backed it up to statuslog-24-12-20.txt and started new status log.
 2024-12-20T02:02:55.8613792-05:00|348 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (348 clothes/0 decorations/0 facial overlays) ...
@@ -38,3 +39,308 @@
 2024-12-20T02:15:55.7649490-05:00|Successfully backed up project 2024-12-20 02:15:55.
 2024-12-20T02:15:57.2274038-05:00|Project with 347 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
 2024-12-20T02:16:03.2070712-05:00|Project with 347 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T02:22:52.7740031-05:00|Project with 347 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T16:39:57.6474687-05:00|347 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (347 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T16:39:57.9122254-05:00|Loading all 3207 items, this can take a moment...
+2024-12-20T16:40:51.2318230-05:00|Finished loading all 3207 items.
+2024-12-20T16:40:51.2484181-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 3207 items and ready to rock (in 56.0749195 seconds).
+2024-12-20T18:25:13.2301372-05:00|Added Female 1 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\0\mp_f_freemode_01^hair_000_u.ydd.
+2024-12-20T18:25:13.2996628-05:00|Added Female 2 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\1\mp_f_freemode_01^hair_001_u.ydd.
+2024-12-20T18:25:13.3618454-05:00|Added Female 3 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\2\mp_f_freemode_01^hair_002_u.ydd.
+2024-12-20T18:25:13.4195399-05:00|Added Female 4 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\3\mp_f_freemode_01^hair_003_u.ydd.
+2024-12-20T18:25:13.4851375-05:00|Added Female 5 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\4\mp_f_freemode_01^hair_004_u.ydd.
+2024-12-20T18:25:13.5468797-05:00|Added Female 6 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\5\mp_f_freemode_01^hair_005_u.ydd.
+2024-12-20T18:25:13.6110402-05:00|Added Female 7 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\6\mp_f_freemode_01^hair_006_u.ydd.
+2024-12-20T18:25:13.7294725-05:00|Added Female 8 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\7\mp_f_freemode_01^hair_007_u.ydd.
+2024-12-20T18:25:13.8221536-05:00|Added Female 9 Hair with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\8\mp_f_freemode_01^hair_008_u.ydd.
+2024-12-20T18:25:13.8920282-05:00|Added Female 10 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\9\mp_f_freemode_01^hair_009_u.ydd.
+2024-12-20T18:25:13.9642402-05:00|Added Female 11 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\10\mp_f_freemode_01^hair_010_u.ydd.
+2024-12-20T18:25:14.0183175-05:00|Added Female 12 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\11\mp_f_freemode_01^hair_011_u.ydd.
+2024-12-20T18:25:14.0740614-05:00|Added Female 13 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\12\mp_f_freemode_01^hair_012_u.ydd.
+2024-12-20T18:25:14.1207787-05:00|Added Female 14 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\13\mp_f_freemode_01^hair_013_u.ydd.
+2024-12-20T18:25:14.1905794-05:00|Added Female 15 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\14\mp_f_freemode_01^hair_014_u.ydd.
+2024-12-20T18:25:14.2550719-05:00|Added Female 16 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\15\mp_f_freemode_01^hair_015_u.ydd.
+2024-12-20T18:25:14.3207135-05:00|Added Female 17 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\16\mp_f_freemode_01^hair_016_u.ydd.
+2024-12-20T18:25:14.3942270-05:00|Added Female 18 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\17\mp_f_freemode_01^hair_017_u.ydd.
+2024-12-20T18:25:14.4666669-05:00|Added Female 19 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\18\mp_f_freemode_01^hair_018_u.ydd.
+2024-12-20T18:25:14.5307362-05:00|Added Female 20 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\19\mp_f_freemode_01^hair_019_u.ydd.
+2024-12-20T18:25:14.5862800-05:00|Added Female 21 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\20\mp_f_freemode_01^hair_020_u.ydd.
+2024-12-20T18:25:14.6585666-05:00|Added Female 22 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\21\mp_f_freemode_01^hair_021_u.ydd.
+2024-12-20T18:25:14.7151355-05:00|Added Female 23 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\22\mp_f_freemode_01^hair_022_u.ydd.
+2024-12-20T18:25:14.7954972-05:00|Added Female 24 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\23\mp_f_freemode_01^hair_023_u.ydd.
+2024-12-20T18:25:14.8749832-05:00|Added Female 25 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\24\mp_f_freemode_01^hair_024_u.ydd.
+2024-12-20T18:25:14.9598680-05:00|Added Female 26 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\25\mp_f_freemode_01^hair_025_u.ydd.
+2024-12-20T18:25:15.0124412-05:00|Added Female 27 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\26\mp_f_freemode_01^hair_026_u.ydd.
+2024-12-20T18:25:15.0577131-05:00|Added Female 28 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\27\mp_f_freemode_01^hair_027_u.ydd.
+2024-12-20T18:25:15.2359638-05:00|Added Female 29 Hair with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\28\mp_f_freemode_01^hair_028_u.ydd.
+2024-12-20T18:25:15.4152946-05:00|Added Female 30 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\29\mp_f_freemode_01^hair_029_u.ydd.
+2024-12-20T18:25:15.5672965-05:00|Added Female 31 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\30\mp_f_freemode_01^hair_030_u.ydd.
+2024-12-20T18:25:15.6515335-05:00|Added Female 32 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\31\mp_f_freemode_01^hair_031_u.ydd.
+2024-12-20T18:25:15.7347982-05:00|Added Female 33 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\32\mp_f_freemode_01^hair_032_u.ydd.
+2024-12-20T18:25:15.8359608-05:00|Added Female 34 Hair with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\33\mp_f_freemode_01^hair_033_u.ydd.
+2024-12-20T18:25:15.9085531-05:00|Added Female 35 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\34\mp_f_freemode_01^hair_034_u.ydd.
+2024-12-20T18:25:15.9908507-05:00|Added Female 36 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\35\mp_f_freemode_01^hair_035_u.ydd.
+2024-12-20T18:25:16.0539362-05:00|Added Female 37 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\36\mp_f_freemode_01^hair_036_u.ydd.
+2024-12-20T18:25:16.1282746-05:00|Added Female 38 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\37\mp_f_freemode_01^hair_037_u.ydd.
+2024-12-20T18:25:16.1889829-05:00|Added Female 39 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\38\mp_f_freemode_01^hair_038_u.ydd.
+2024-12-20T18:25:16.2386460-05:00|Added Female 40 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\39\mp_f_freemode_01^hair_039_u.ydd.
+2024-12-20T18:25:18.0256306-05:00|Added Female 41 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\40\mp_f_freemode_01^hair_040_u.ydd.
+2024-12-20T18:25:19.2464275-05:00|Added Female 42 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\41\mp_f_freemode_01^hair_041_u.ydd.
+2024-12-20T18:25:19.3439723-05:00|Added Female 43 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\42\mp_f_freemode_01^hair_042_u.ydd.
+2024-12-20T18:25:19.4093126-05:00|Added Female 44 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\43\mp_f_freemode_01^hair_043_u.ydd.
+2024-12-20T18:25:19.4572923-05:00|Added Female 45 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\44\mp_f_freemode_01^hair_044_u.ydd.
+2024-12-20T18:25:19.5360924-05:00|Added Female 46 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\45\mp_f_freemode_01^hair_045_u.ydd.
+2024-12-20T18:25:19.6688971-05:00|Added Female 47 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\46\mp_f_freemode_01^hair_046_u.ydd.
+2024-12-20T18:25:19.7247907-05:00|Added Female 48 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\47\mp_f_freemode_01^hair_047_u.ydd.
+2024-12-20T18:25:19.7946997-05:00|Added Female 49 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\48\mp_f_freemode_01^hair_048_u.ydd.
+2024-12-20T18:25:19.8937325-05:00|Added Female 50 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\49\mp_f_freemode_01^hair_049_u.ydd.
+2024-12-20T18:25:19.9697195-05:00|Added Female 51 Hair with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\50\mp_f_freemode_01^hair_050_u.ydd.
+2024-12-20T18:25:20.0172536-05:00|Added Female 52 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\51\mp_f_freemode_01^hair_051_u.ydd.
+2024-12-20T18:25:20.1456900-05:00|Added Female 53 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\52\mp_f_freemode_01^hair_052_u.ydd.
+2024-12-20T18:25:20.2090087-05:00|Added Female 54 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\53\mp_f_freemode_01^hair_053_u.ydd.
+2024-12-20T18:25:20.2778963-05:00|Added Female 55 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\54\mp_f_freemode_01^hair_054_u.ydd.
+2024-12-20T18:25:20.3404412-05:00|Added Female 56 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\55\mp_f_freemode_01^hair_055_u.ydd.
+2024-12-20T18:25:20.4150358-05:00|Added Female 57 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\56\mp_f_freemode_01^hair_056_u.ydd.
+2024-12-20T18:25:20.4710440-05:00|Added Female 58 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\57\mp_f_freemode_01^hair_057_u.ydd.
+2024-12-20T18:25:20.5450600-05:00|Added Female 59 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\58\mp_f_freemode_01^hair_058_u.ydd.
+2024-12-20T18:25:20.6235166-05:00|Added Female 60 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\59\mp_f_freemode_01^hair_059_u.ydd.
+2024-12-20T18:25:20.7005459-05:00|Added Female 61 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\60\mp_f_freemode_01^hair_060_u.ydd.
+2024-12-20T18:25:20.9604393-05:00|Added Female 62 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\61\mp_f_freemode_01^hair_061_u.ydd.
+2024-12-20T18:25:21.0184832-05:00|Added Female 63 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\62\mp_f_freemode_01^hair_062_u.ydd.
+2024-12-20T18:25:21.0937114-05:00|Added Female 64 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\63\mp_f_freemode_01^hair_063_u.ydd.
+2024-12-20T18:25:21.2187307-05:00|Added Female 65 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\64\mp_f_freemode_01^hair_064_u.ydd.
+2024-12-20T18:25:21.2857059-05:00|Added Female 66 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\65\mp_f_freemode_01^hair_065_u.ydd.
+2024-12-20T18:25:21.3557545-05:00|Added Female 67 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\66\mp_f_freemode_01^hair_066_u.ydd.
+2024-12-20T18:25:21.4426545-05:00|Added Female 68 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\67\mp_f_freemode_01^hair_067_u.ydd.
+2024-12-20T18:25:21.5095120-05:00|Added Female 69 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\68\mp_f_freemode_01^hair_068_u.ydd.
+2024-12-20T18:25:21.5838000-05:00|Added Female 70 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\69\mp_f_freemode_01^hair_069_u.ydd.
+2024-12-20T18:25:21.6478865-05:00|Added Female 71 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\70\mp_f_freemode_01^hair_070_u.ydd.
+2024-12-20T18:25:21.8185038-05:00|Added Female 72 Hair with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\71\mp_f_freemode_01^hair_071_u.ydd.
+2024-12-20T18:25:21.9521805-05:00|Added Female 73 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\72\mp_f_freemode_01^hair_072_u.ydd.
+2024-12-20T18:25:22.0185040-05:00|Added Female 74 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\73\mp_f_freemode_01^hair_073_u.ydd.
+2024-12-20T18:25:22.1542311-05:00|Added Female 75 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\74\mp_f_freemode_01^hair_074_u.ydd.
+2024-12-20T18:25:22.3376782-05:00|Added Female 76 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\75\mp_f_freemode_01^hair_075_u.ydd.
+2024-12-20T18:25:22.5263990-05:00|Added Female 77 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\76\mp_f_freemode_01^hair_076_u.ydd.
+2024-12-20T18:25:22.5901435-05:00|Added Female 78 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\77\mp_f_freemode_01^hair_077_u.ydd.
+2024-12-20T18:25:22.6486444-05:00|Added Female 79 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\78\mp_f_freemode_01^hair_078_u.ydd.
+2024-12-20T18:25:22.7072684-05:00|Added Female 80 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\79\mp_f_freemode_01^hair_079_u.ydd.
+2024-12-20T18:25:22.7712016-05:00|Added Female 81 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\80\mp_f_freemode_01^hair_080_u.ydd.
+2024-12-20T18:25:22.9092816-05:00|Added Female 82 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\81\mp_f_freemode_01^hair_081_u.ydd.
+2024-12-20T18:25:22.9669284-05:00|Added Female 83 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\82\mp_f_freemode_01^hair_082_u.ydd.
+2024-12-20T18:25:23.0257192-05:00|Added Female 84 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\83\mp_f_freemode_01^hair_083_u.ydd.
+2024-12-20T18:25:23.1668398-05:00|Added Female 85 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\84\mp_f_freemode_01^hair_084_u.ydd.
+2024-12-20T18:25:23.2397840-05:00|Added Female 86 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\85\mp_f_freemode_01^hair_085_u.ydd.
+2024-12-20T18:25:23.3646631-05:00|Added Female 87 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\86\mp_f_freemode_01^hair_086_u.ydd.
+2024-12-20T18:25:23.4912982-05:00|Added Female 88 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\87\mp_f_freemode_01^hair_087_u.ydd.
+2024-12-20T18:25:23.5903669-05:00|Added Female 89 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\88\mp_f_freemode_01^hair_088_u.ydd.
+2024-12-20T18:25:23.6625040-05:00|Added Female 90 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\89\mp_f_freemode_01^hair_089_u.ydd.
+2024-12-20T18:25:23.7482033-05:00|Added Female 91 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\90\mp_f_freemode_01^hair_090_u.ydd.
+2024-12-20T18:25:23.8131436-05:00|Added Female 92 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\91\mp_f_freemode_01^hair_091_u.ydd.
+2024-12-20T18:25:23.8613523-05:00|Added Female 93 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\92\mp_f_freemode_01^hair_092_u.ydd.
+2024-12-20T18:25:23.9384099-05:00|Added Female 94 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\93\mp_f_freemode_01^hair_093_u.ydd.
+2024-12-20T18:25:24.0241505-05:00|Added Female 95 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\94\mp_f_freemode_01^hair_094_u.ydd.
+2024-12-20T18:25:24.0860338-05:00|Added Female 96 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\95\mp_f_freemode_01^hair_095_u.ydd.
+2024-12-20T18:25:24.2314449-05:00|Added Female 97 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\96\mp_f_freemode_01^hair_096_u.ydd.
+2024-12-20T18:25:24.3023457-05:00|Added Female 98 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\97\mp_f_freemode_01^hair_097_u.ydd.
+2024-12-20T18:25:24.3923739-05:00|Added Female 99 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\98\mp_f_freemode_01^hair_098_u.ydd.
+2024-12-20T18:25:24.4785160-05:00|Added Female 100 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\99\mp_f_freemode_01^hair_099_u.ydd.
+2024-12-20T18:25:24.5713864-05:00|Added Female 101 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\100\mp_f_freemode_01^hair_100_u.ydd.
+2024-12-20T18:25:24.6228863-05:00|Added Female 102 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\101\mp_f_freemode_01^hair_101_u.ydd.
+2024-12-20T18:25:24.7129643-05:00|Added Female 103 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\102\mp_f_freemode_01^hair_102_u.ydd.
+2024-12-20T18:25:25.5432492-05:00|Added Female 104 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\103\mp_f_freemode_01^hair_103_u.ydd.
+2024-12-20T18:25:25.6448203-05:00|Added Female 105 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\104\mp_f_freemode_01^hair_104_u.ydd.
+2024-12-20T18:25:25.7202046-05:00|Added Female 106 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\105\mp_f_freemode_01^hair_105_u.ydd.
+2024-12-20T18:25:25.7928857-05:00|Added Female 107 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\106\mp_f_freemode_01^hair_106_u.ydd.
+2024-12-20T18:25:25.8708312-05:00|Added Female 108 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\107\mp_f_freemode_01^hair_107_u.ydd.
+2024-12-20T18:25:26.0330874-05:00|Added Female 109 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\108\mp_f_freemode_01^hair_108_u.ydd.
+2024-12-20T18:25:26.1181790-05:00|Added Female 110 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\109\mp_f_freemode_01^hair_109_u.ydd.
+2024-12-20T18:25:26.5566227-05:00|Added Female 111 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\110\mp_f_freemode_01^hair_110_u.ydd.
+2024-12-20T18:25:26.6440449-05:00|Added Female 112 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\111\mp_f_freemode_01^hair_111_u.ydd.
+2024-12-20T18:25:26.8030850-05:00|Added Female 113 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\112\mp_f_freemode_01^hair_112_u.ydd.
+2024-12-20T18:25:26.9092671-05:00|Added Female 114 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\113\mp_f_freemode_01^hair_113_u.ydd.
+2024-12-20T18:25:27.0048994-05:00|Added Female 115 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\114\mp_f_freemode_01^hair_114_u.ydd.
+2024-12-20T18:25:27.0685322-05:00|Added Female 116 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\115\mp_f_freemode_01^hair_115_u.ydd.
+2024-12-20T18:25:27.1254409-05:00|Added Female 117 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\116\mp_f_freemode_01^hair_116_u.ydd.
+2024-12-20T18:25:27.1907459-05:00|Added Female 118 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\117\mp_f_freemode_01^hair_117_u.ydd.
+2024-12-20T18:25:27.2486341-05:00|Added Female 119 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\118\mp_f_freemode_01^hair_118_u.ydd.
+2024-12-20T18:25:27.3063823-05:00|Added Female 120 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\119\mp_f_freemode_01^hair_119_u.ydd.
+2024-12-20T18:25:27.3808118-05:00|Added Female 121 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\120\mp_f_freemode_01^hair_120_u.ydd.
+2024-12-20T18:25:27.4735680-05:00|Added Female 122 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\121\mp_f_freemode_01^hair_121_u.ydd.
+2024-12-20T18:25:27.9075506-05:00|Added Female 123 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\122\mp_f_freemode_01^hair_122_u.ydd.
+2024-12-20T18:25:28.3060914-05:00|Added Female 124 Hair with 19 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\123\mp_f_freemode_01^hair_123_u.ydd.
+2024-12-20T18:25:28.4740367-05:00|Added Female 125 Hair with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\124\mp_f_freemode_01^hair_124_u.ydd.
+2024-12-20T18:25:28.5689690-05:00|Added Female 126 Hair with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\125\mp_f_freemode_01^hair_125_u.ydd.
+2024-12-20T18:25:28.7430702-05:00|Added Female 127 Hair with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\126\mp_f_freemode_01^hair_126_u.ydd.
+2024-12-20T18:25:38.0884497-05:00|Added Female 128 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\127\mp_f_freemode_01^hair_127_u.ydd.
+2024-12-20T18:25:38.0887783-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T18:25:41.9870312-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 128 new items and 0 new textures.
+2024-12-20T18:25:42.0286571-05:00|Found 128 Female cloth models
+2024-12-20T18:26:12.9606098-05:00|Removed 'Hair' (See logs for full details). Total items: 474
+2024-12-20T18:26:13.6283066-05:00|Successfully backed up project 2024-12-20 18:26:13.
+2024-12-20T18:27:13.5502850-05:00|Successfully backed up project 2024-12-20 18:27:13.
+2024-12-20T18:27:14.8834191-05:00|Removed 'Hair' (See logs for full details). Total items: 473
+2024-12-20T18:27:57.8170325-05:00|Removed 'Hair' (See logs for full details). Total items: 472
+2024-12-20T18:28:13.5424450-05:00|Successfully backed up project 2024-12-20 18:28:13.
+2024-12-20T18:28:39.1945577-05:00|Removed 'Hair' (See logs for full details). Total items: 471
+2024-12-20T18:29:01.4962612-05:00|Removed 'Hair' (See logs for full details). Total items: 470
+2024-12-20T18:29:05.8357674-05:00|Removed 'Hair' (See logs for full details). Total items: 469
+2024-12-20T18:29:13.5399734-05:00|Successfully backed up project 2024-12-20 18:29:13.
+2024-12-20T18:29:44.6506880-05:00|Removed 'Hair' (See logs for full details). Total items: 468
+2024-12-20T18:29:55.6284977-05:00|Removed 'Hair' (See logs for full details). Total items: 467
+2024-12-20T18:30:13.5485405-05:00|Successfully backed up project 2024-12-20 18:30:13.
+2024-12-20T18:30:29.3860234-05:00|Successfully exported cloth texture ''a'' as PNG to D:\hihip\Downloads.
+2024-12-20T18:31:05.1350151-05:00|Removed 'Hair' (See logs for full details). Total items: 466
+2024-12-20T18:31:13.5414420-05:00|Successfully backed up project 2024-12-20 18:31:13.
+2024-12-20T18:32:13.5546395-05:00|Successfully backed up project 2024-12-20 18:32:13.
+2024-12-20T18:33:13.5322993-05:00|Successfully backed up project 2024-12-20 18:33:13.
+2024-12-20T18:34:13.5335029-05:00|Successfully backed up project 2024-12-20 18:34:13.
+2024-12-20T18:35:13.5354905-05:00|Successfully backed up project 2024-12-20 18:35:13.
+2024-12-20T18:36:13.5371866-05:00|Successfully backed up project 2024-12-20 18:36:13.
+2024-12-20T18:37:13.5365455-05:00|Successfully backed up project 2024-12-20 18:37:13.
+2024-12-20T18:38:13.5340670-05:00|Successfully backed up project 2024-12-20 18:38:13.
+2024-12-20T18:39:03.4375106-05:00|Changed position of 'Female 1 Hair' (Hair) at pos 1 to 0.
+2024-12-20T18:39:03.4861359-05:00|Changed position of 'Female 2 Hair' (Hair) at pos 2 to 1.
+2024-12-20T18:39:03.5016708-05:00|Changed position of 'Female 3 Hair' (Hair) at pos 3 to 2.
+2024-12-20T18:39:03.5130484-05:00|Changed position of 'Female 4 Hair' (Hair) at pos 4 to 3.
+2024-12-20T18:39:03.5304655-05:00|Changed position of 'Female 5 Hair' (Hair) at pos 5 to 4.
+2024-12-20T18:39:03.5439190-05:00|Changed position of 'Female 6 Hair' (Hair) at pos 6 to 5.
+2024-12-20T18:39:03.5737809-05:00|Changed position of 'Female 7 Hair' (Hair) at pos 7 to 6.
+2024-12-20T18:39:03.6403595-05:00|Changed position of 'Female 8 Hair' (Hair) at pos 8 to 7.
+2024-12-20T18:39:03.7128485-05:00|Changed position of 'Female 9 Hair' (Hair) at pos 9 to 8.
+2024-12-20T18:39:03.7428527-05:00|Changed position of 'Female 10 Hair' (Hair) at pos 10 to 9.
+2024-12-20T18:39:03.8562204-05:00|Changed position of 'Female 11 Hair' (Hair) at pos 11 to 10.
+2024-12-20T18:39:03.8860514-05:00|Changed position of 'Female 12 Hair' (Hair) at pos 12 to 11.
+2024-12-20T18:39:03.9031811-05:00|Changed position of 'Female 13 Hair' (Hair) at pos 13 to 12.
+2024-12-20T18:39:03.9188138-05:00|Changed position of 'Female 14 Hair' (Hair) at pos 14 to 13.
+2024-12-20T18:39:03.9588882-05:00|Changed position of 'Female 15 Hair' (Hair) at pos 15 to 14.
+2024-12-20T18:39:03.9772611-05:00|Changed position of 'Female 16 Hair' (Hair) at pos 16 to 15.
+2024-12-20T18:39:03.9929038-05:00|Changed position of 'Female 17 Hair' (Hair) at pos 17 to 16.
+2024-12-20T18:39:04.0079612-05:00|Changed position of 'Female 18 Hair' (Hair) at pos 18 to 17.
+2024-12-20T18:39:04.0229363-05:00|Changed position of 'Female 19 Hair' (Hair) at pos 19 to 18.
+2024-12-20T18:39:04.0436303-05:00|Changed position of 'Female 20 Hair' (Hair) at pos 20 to 19.
+2024-12-20T18:39:04.0554543-05:00|Changed position of 'Female 21 Hair' (Hair) at pos 21 to 20.
+2024-12-20T18:39:04.0737102-05:00|Changed position of 'Female 22 Hair' (Hair) at pos 22 to 21.
+2024-12-20T18:39:04.0846706-05:00|Changed position of 'Female 24 Hair' (Hair) at pos 24 to 22.
+2024-12-20T18:39:04.0947114-05:00|Changed position of 'Female 25 Hair' (Hair) at pos 25 to 23.
+2024-12-20T18:39:04.1065441-05:00|Changed position of 'Female 26 Hair' (Hair) at pos 26 to 24.
+2024-12-20T18:39:04.1203097-05:00|Changed position of 'Female 27 Hair' (Hair) at pos 27 to 25.
+2024-12-20T18:39:04.1376645-05:00|Changed position of 'Female 28 Hair' (Hair) at pos 28 to 26.
+2024-12-20T18:39:04.1502028-05:00|Changed position of 'Female 29 Hair' (Hair) at pos 29 to 27.
+2024-12-20T18:39:04.1804647-05:00|Changed position of 'Female 30 Hair' (Hair) at pos 30 to 28.
+2024-12-20T18:39:04.2112092-05:00|Changed position of 'Female 31 Hair' (Hair) at pos 31 to 29.
+2024-12-20T18:39:04.2305891-05:00|Changed position of 'Female 32 Hair' (Hair) at pos 32 to 30.
+2024-12-20T18:39:04.2439940-05:00|Changed position of 'Female 33 Hair' (Hair) at pos 33 to 31.
+2024-12-20T18:39:04.2579534-05:00|Changed position of 'Female 34 Hair' (Hair) at pos 34 to 32.
+2024-12-20T18:39:04.2726196-05:00|Changed position of 'Female 35 Hair' (Hair) at pos 35 to 33.
+2024-12-20T18:39:04.2862987-05:00|Changed position of 'Female 36 Hair' (Hair) at pos 36 to 34.
+2024-12-20T18:39:04.3014397-05:00|Changed position of 'Female 37 Hair' (Hair) at pos 37 to 35.
+2024-12-20T18:39:04.3139992-05:00|Changed position of 'Female 38 Hair' (Hair) at pos 38 to 36.
+2024-12-20T18:39:04.3358966-05:00|Changed position of 'Female 40 Hair' (Hair) at pos 40 to 37.
+2024-12-20T18:39:04.3536109-05:00|Changed position of 'Female 41 Hair' (Hair) at pos 41 to 38.
+2024-12-20T18:39:04.3867875-05:00|Changed position of 'Female 42 Hair' (Hair) at pos 42 to 39.
+2024-12-20T18:39:04.4005608-05:00|Changed position of 'Female 43 Hair' (Hair) at pos 43 to 40.
+2024-12-20T18:39:04.4160804-05:00|Changed position of 'Female 44 Hair' (Hair) at pos 44 to 41.
+2024-12-20T18:39:04.4352107-05:00|Changed position of 'Female 45 Hair' (Hair) at pos 45 to 42.
+2024-12-20T18:39:04.4502445-05:00|Changed position of 'Female 46 Hair' (Hair) at pos 46 to 43.
+2024-12-20T18:39:04.4648674-05:00|Changed position of 'Female 47 Hair' (Hair) at pos 47 to 44.
+2024-12-20T18:39:04.4760423-05:00|Changed position of 'Female 48 Hair' (Hair) at pos 48 to 45.
+2024-12-20T18:39:04.4890447-05:00|Changed position of 'Female 49 Hair' (Hair) at pos 49 to 46.
+2024-12-20T18:39:04.5012870-05:00|Changed position of 'Female 50 Hair' (Hair) at pos 50 to 47.
+2024-12-20T18:39:04.5142143-05:00|Changed position of 'Female 51 Hair' (Hair) at pos 51 to 48.
+2024-12-20T18:39:04.5241905-05:00|Changed position of 'Female 52 Hair' (Hair) at pos 52 to 49.
+2024-12-20T18:39:04.5358232-05:00|Changed position of 'Female 53 Hair' (Hair) at pos 53 to 50.
+2024-12-20T18:39:04.5476084-05:00|Changed position of 'Female 54 Hair' (Hair) at pos 54 to 51.
+2024-12-20T18:39:04.5596989-05:00|Changed position of 'Female 55 Hair' (Hair) at pos 55 to 52.
+2024-12-20T18:39:04.5868742-05:00|Changed position of 'Female 56 Hair' (Hair) at pos 56 to 53.
+2024-12-20T18:39:04.6039047-05:00|Changed position of 'Female 57 Hair' (Hair) at pos 57 to 54.
+2024-12-20T18:39:04.6248903-05:00|Changed position of 'Female 58 Hair' (Hair) at pos 58 to 55.
+2024-12-20T18:39:04.6625116-05:00|Changed position of 'Female 59 Hair' (Hair) at pos 59 to 56.
+2024-12-20T18:39:04.6876030-05:00|Changed position of 'Female 60 Hair' (Hair) at pos 60 to 57.
+2024-12-20T18:39:04.7103239-05:00|Changed position of 'Female 61 Hair' (Hair) at pos 61 to 58.
+2024-12-20T18:39:04.7308345-05:00|Changed position of 'Female 62 Hair' (Hair) at pos 62 to 59.
+2024-12-20T18:39:04.7445214-05:00|Changed position of 'Female 63 Hair' (Hair) at pos 63 to 60.
+2024-12-20T18:39:04.7558154-05:00|Changed position of 'Female 64 Hair' (Hair) at pos 64 to 61.
+2024-12-20T18:39:04.7654635-05:00|Changed position of 'Female 65 Hair' (Hair) at pos 65 to 62.
+2024-12-20T18:39:04.7778307-05:00|Changed position of 'Female 66 Hair' (Hair) at pos 66 to 63.
+2024-12-20T18:39:04.7888970-05:00|Changed position of 'Female 67 Hair' (Hair) at pos 67 to 64.
+2024-12-20T18:39:04.8002113-05:00|Changed position of 'Female 68 Hair' (Hair) at pos 68 to 65.
+2024-12-20T18:39:04.8099382-05:00|Changed position of 'Female 69 Hair' (Hair) at pos 69 to 66.
+2024-12-20T18:39:04.8211606-05:00|Changed position of 'Female 70 Hair' (Hair) at pos 70 to 67.
+2024-12-20T18:39:04.8324721-05:00|Changed position of 'Female 71 Hair' (Hair) at pos 71 to 68.
+2024-12-20T18:39:04.8440323-05:00|Changed position of 'Female 72 Hair' (Hair) at pos 72 to 69.
+2024-12-20T18:39:04.8543545-05:00|Changed position of 'Female 73 Hair' (Hair) at pos 73 to 70.
+2024-12-20T18:39:04.8663164-05:00|Changed position of 'Female 74 Hair' (Hair) at pos 74 to 71.
+2024-12-20T18:39:04.8784263-05:00|Changed position of 'Female 76 Hair' (Hair) at pos 76 to 72.
+2024-12-20T18:39:04.8898326-05:00|Changed position of 'Female 77 Hair' (Hair) at pos 77 to 73.
+2024-12-20T18:39:04.8991425-05:00|Changed position of 'Female 78 Hair' (Hair) at pos 78 to 74.
+2024-12-20T18:39:04.9104242-05:00|Changed position of 'Female 80 Hair' (Hair) at pos 80 to 75.
+2024-12-20T18:39:04.9216945-05:00|Changed position of 'Female 81 Hair' (Hair) at pos 81 to 76.
+2024-12-20T18:39:04.9324708-05:00|Changed position of 'Female 82 Hair' (Hair) at pos 82 to 77.
+2024-12-20T18:39:04.9423341-05:00|Changed position of 'Female 83 Hair' (Hair) at pos 83 to 78.
+2024-12-20T18:39:04.9557221-05:00|Changed position of 'Female 84 Hair' (Hair) at pos 84 to 79.
+2024-12-20T18:39:04.9676684-05:00|Changed position of 'Female 85 Hair' (Hair) at pos 85 to 80.
+2024-12-20T18:39:04.9791178-05:00|Changed position of 'Female 86 Hair' (Hair) at pos 86 to 81.
+2024-12-20T18:39:04.9923016-05:00|Changed position of 'Female 87 Hair' (Hair) at pos 87 to 82.
+2024-12-20T18:39:05.0139327-05:00|Changed position of 'Female 88 Hair' (Hair) at pos 88 to 83.
+2024-12-20T18:39:05.0535402-05:00|Changed position of 'Female 89 Hair' (Hair) at pos 89 to 84.
+2024-12-20T18:39:05.0654910-05:00|Changed position of 'Female 90 Hair' (Hair) at pos 90 to 85.
+2024-12-20T18:39:05.0853434-05:00|Changed position of 'Female 91 Hair' (Hair) at pos 91 to 86.
+2024-12-20T18:39:05.0977356-05:00|Changed position of 'Female 92 Hair' (Hair) at pos 92 to 87.
+2024-12-20T18:39:05.1084287-05:00|Changed position of 'Female 93 Hair' (Hair) at pos 93 to 88.
+2024-12-20T18:39:05.1214461-05:00|Changed position of 'Female 94 Hair' (Hair) at pos 94 to 89.
+2024-12-20T18:39:05.1329968-05:00|Changed position of 'Female 95 Hair' (Hair) at pos 95 to 90.
+2024-12-20T18:39:05.1443902-05:00|Changed position of 'Female 98 Hair' (Hair) at pos 98 to 91.
+2024-12-20T18:39:05.1541528-05:00|Changed position of 'Female 99 Hair' (Hair) at pos 99 to 92.
+2024-12-20T18:39:05.1675388-05:00|Changed position of 'Female 100 Hair' (Hair) at pos 100 to 93.
+2024-12-20T18:39:05.1801711-05:00|Changed position of 'Female 101 Hair' (Hair) at pos 101 to 94.
+2024-12-20T18:39:05.1988452-05:00|Changed position of 'Female 102 Hair' (Hair) at pos 102 to 95.
+2024-12-20T18:39:05.2320925-05:00|Changed position of 'Female 103 Hair' (Hair) at pos 103 to 96.
+2024-12-20T18:39:05.2519090-05:00|Changed position of 'Female 105 Hair' (Hair) at pos 105 to 97.
+2024-12-20T18:39:05.2711002-05:00|Changed position of 'Female 106 Hair' (Hair) at pos 106 to 98.
+2024-12-20T18:39:05.2849428-05:00|Changed position of 'Female 107 Hair' (Hair) at pos 107 to 99.
+2024-12-20T18:39:05.3045789-05:00|Changed position of 'Female 108 Hair' (Hair) at pos 108 to 100.
+2024-12-20T18:39:05.3234361-05:00|Changed position of 'Female 109 Hair' (Hair) at pos 109 to 101.
+2024-12-20T18:39:05.3375904-05:00|Changed position of 'Female 110 Hair' (Hair) at pos 110 to 102.
+2024-12-20T18:39:05.3473154-05:00|Changed position of 'Female 111 Hair' (Hair) at pos 111 to 103.
+2024-12-20T18:39:05.3609431-05:00|Changed position of 'Female 112 Hair' (Hair) at pos 112 to 104.
+2024-12-20T18:39:05.3739165-05:00|Changed position of 'Female 113 Hair' (Hair) at pos 113 to 105.
+2024-12-20T18:39:05.3884252-05:00|Changed position of 'Female 114 Hair' (Hair) at pos 114 to 106.
+2024-12-20T18:39:05.4017620-05:00|Changed position of 'Female 115 Hair' (Hair) at pos 115 to 107.
+2024-12-20T18:39:05.4116420-05:00|Changed position of 'Female 116 Hair' (Hair) at pos 116 to 108.
+2024-12-20T18:39:05.4253014-05:00|Changed position of 'Female 117 Hair' (Hair) at pos 117 to 109.
+2024-12-20T18:39:05.4388255-05:00|Changed position of 'Female 118 Hair' (Hair) at pos 118 to 110.
+2024-12-20T18:39:05.4519800-05:00|Changed position of 'Female 119 Hair' (Hair) at pos 119 to 111.
+2024-12-20T18:39:05.4620364-05:00|Changed position of 'Female 120 Hair' (Hair) at pos 120 to 112.
+2024-12-20T18:39:05.4785566-05:00|Changed position of 'Female 121 Hair' (Hair) at pos 121 to 113.
+2024-12-20T18:39:05.4922874-05:00|Changed position of 'Female 122 Hair' (Hair) at pos 122 to 114.
+2024-12-20T18:39:05.5064599-05:00|Changed position of 'Female 123 Hair' (Hair) at pos 123 to 115.
+2024-12-20T18:39:05.5160432-05:00|Changed position of 'Female 125 Hair' (Hair) at pos 125 to 116.
+2024-12-20T18:39:05.5303556-05:00|Changed position of 'Female 126 Hair' (Hair) at pos 126 to 117.
+2024-12-20T18:39:05.5413431-05:00|Changed position of 'Female 127 Hair' (Hair) at pos 127 to 118.
+2024-12-20T18:39:05.5522147-05:00|Changed position of 'Female 128 Hair' (Hair) at pos 128 to 119.
+2024-12-20T18:39:05.5618090-05:00|Successfully resorted 120 from 466 total item positions.
+2024-12-20T18:39:13.5384001-05:00|Successfully backed up project 2024-12-20 18:39:13.
+2024-12-20T18:39:48.6112406-05:00|Added Female 120 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\128\mp_f_freemode_01_female_freemode_beach^hair_000_u.ydd.
+2024-12-20T18:39:50.1251763-05:00|Added Female 121 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\129\mp_f_freemode_01_female_freemode_beach^hair_001_u.ydd.
+2024-12-20T18:39:50.2552274-05:00|Added Female 122 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\130\mp_f_freemode_01_female_freemode_valentines^hair_000_u.ydd.
+2024-12-20T18:39:50.5026435-05:00|Added Female 123 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\131\mp_f_freemode_01_female_freemode_business^hair_000_u.ydd.
+2024-12-20T18:39:51.4377658-05:00|Added Female 124 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\132\mp_f_freemode_01_female_freemode_business^hair_001_u.ydd.
+2024-12-20T18:39:51.7212840-05:00|Added Female 125 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\133\mp_f_freemode_01_female_freemode_hipster^hair_000_u.ydd.
+2024-12-20T18:39:52.0319451-05:00|Added Female 126 Hair with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\134\mp_f_freemode_01_female_freemode_hipster^hair_001_u.ydd.
+2024-12-20T18:39:52.0676877-05:00|Found 7 Female cloth models
+2024-12-20T18:40:04.0313347-05:00|Removed 2 items (See logs for full details). Total items: 471
+2024-12-20T18:40:12.4313473-05:00|Changed position of 'Female 125 Hair' (Hair) at pos 125 to 123.
+2024-12-20T18:40:12.5155081-05:00|Changed position of 'Female 126 Hair' (Hair) at pos 126 to 124.
+2024-12-20T18:40:12.5788416-05:00|Successfully resorted 2 from 471 total item positions.
+2024-12-20T18:40:13.5355636-05:00|Successfully backed up project 2024-12-20 18:40:13.
+2024-12-20T18:40:27.3386920-05:00|Added Female 125 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\135\mp_f_freemode_01_female_freemode_independence^hair_000_u.ydd.
+2024-12-20T18:40:27.7864931-05:00|Added Female 126 Hair with 0 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\136\mp_f_freemode_01_female_heist^hair_000_u.ydd.
+2024-12-20T18:40:27.8084132-05:00|Found 2 Female cloth models
+2024-12-20T18:40:32.3857667-05:00|Removed 'Hair' (See logs for full details). Total items: 472
+2024-12-20T18:40:42.5356527-05:00|Added Female 126 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\137\mp_f_freemode_01_mp_f_lowrider_01^hair_000_u.ydd.
+2024-12-20T18:40:43.2133153-05:00|Found 1 Female cloth models
+2024-12-20T18:40:54.8968813-05:00|Added Female 127 Hair with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hair\138\mp_f_freemode_01_mp_f_lowrider_01^hair_001_u.ydd.
+2024-12-20T18:40:55.3413157-05:00|Found 1 Female cloth models
+2024-12-20T18:41:02.1647740-05:00|Successfully resorted 0 from 474 total item positions.
+2024-12-20T18:41:04.8669528-05:00|Project with 474 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T18:41:10.4542768-05:00|Project with 474 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
