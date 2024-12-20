@@ -1,3 +1,4 @@
+2024-12-20T01:34:47.4231042-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T01:23:25.1171849-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T00:55:39.0509391-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T00:40:23.1373445-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
@@ -1628,3 +1629,156 @@
 2024-12-20T01:32:53.0174532-05:00|Successfully resorted 16 from 199 total item positions.
 2024-12-20T01:32:55.7497311-05:00|Successfully backed up project 2024-12-20 01:32:55.
 2024-12-20T01:32:57.0802912-05:00|Project with 199 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:34:34.4468441-05:00|Added Female 0 Decal with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\1\mp_f_freemode_01^decl_001_u.ydd.
+2024-12-20T01:34:34.9192537-05:00|Added Female 1 Decal with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\2\mp_f_freemode_01^decl_002_u.ydd.
+2024-12-20T01:34:35.0815896-05:00|Added Female 2 Decal with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\3\mp_f_freemode_01^decl_003_u.ydd.
+2024-12-20T01:34:35.1658958-05:00|Added Female 3 Decal with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\4\mp_f_freemode_01^decl_004_u.ydd.
+2024-12-20T01:34:35.3454627-05:00|Added Female 4 Decal with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\5\mp_f_freemode_01^decl_005_u.ydd.
+2024-12-20T01:34:35.4701969-05:00|Added Female 5 Decal with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\6\mp_f_freemode_01^decl_006_u.ydd.
+2024-12-20T01:34:35.6068956-05:00|Added Female 6 Decal with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\7\mp_f_freemode_01^decl_007_u.ydd.
+2024-12-20T01:34:35.7418606-05:00|Added Female 7 Decal with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\9\mp_f_freemode_01^decl_009_u.ydd.
+2024-12-20T01:34:35.8562127-05:00|Added Female 8 Decal with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\10\mp_f_freemode_01^decl_010_u.ydd.
+2024-12-20T01:34:35.9748828-05:00|Added Female 9 Decal with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\11\mp_f_freemode_01^decl_011_u.ydd.
+2024-12-20T01:34:36.0920313-05:00|Added Female 10 Decal with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\12\mp_f_freemode_01^decl_012_u.ydd.
+2024-12-20T01:34:36.2578115-05:00|Added Female 11 Decal with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\13\mp_f_freemode_01^decl_013_u.ydd.
+2024-12-20T01:34:36.5431547-05:00|Added Female 12 Decal with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\14\mp_f_freemode_01^decl_014_u.ydd.
+2024-12-20T01:34:36.6206938-05:00|Added Female 13 Decal with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\15\mp_f_freemode_01^decl_015_u.ydd.
+2024-12-20T01:34:36.7750454-05:00|Added Female 14 Decal with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\16\mp_f_freemode_01^decl_016_u.ydd.
+2024-12-20T01:34:36.9222772-05:00|Added Female 15 Decal with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\17\mp_f_freemode_01^decl_017_u.ydd.
+2024-12-20T01:34:36.9887360-05:00|Added Female 16 Decal with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\18\mp_f_freemode_01^decl_018_u.ydd.
+2024-12-20T01:34:37.1470240-05:00|Added Female 17 Decal with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\19\mp_f_freemode_01^decl_019_u.ydd.
+2024-12-20T01:34:37.8697155-05:00|Added Female 18 Decal with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\20\mp_f_freemode_01^decl_020_u.ydd.
+2024-12-20T01:34:38.3767312-05:00|Added Female 19 Decal with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\21\mp_f_freemode_01^decl_021_u.ydd.
+2024-12-20T01:34:38.8604862-05:00|Added Female 20 Decal with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\22\mp_f_freemode_01^decl_022_u.ydd.
+2024-12-20T01:34:39.4566102-05:00|Added Female 21 Decal with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\23\mp_f_freemode_01^decl_023_u.ydd.
+2024-12-20T01:34:40.0825356-05:00|Added Female 22 Decal with 22 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\24\mp_f_freemode_01^decl_024_u.ydd.
+2024-12-20T01:34:40.3180790-05:00|Added Female 23 Decal with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\25\mp_f_freemode_01^decl_025_u.ydd.
+2024-12-20T01:34:40.4259185-05:00|Added Female 24 Decal with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\decls=decals\26\mp_f_freemode_01^decl_026_u.ydd.
+2024-12-20T01:34:40.4280395-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T01:34:42.1266940-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 25 new items and 0 new textures.
+2024-12-20T01:34:42.1306283-05:00|Found 25 Female cloth models
+2024-12-20T01:34:47.1116149-05:00|Project with 224 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:34:48.7359335-05:00|224 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (224 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T01:34:48.8745866-05:00|Loading all 2053 items, this can take a moment...
+2024-12-20T01:34:49.8577771-05:00|Finished loading all 2053 items.
+2024-12-20T01:34:49.8944499-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 2053 items and ready to rock (in 2.751026 seconds).
+2024-12-20T01:35:36.6724517-05:00|Removed 'Decal' (See logs for full details). Total items: 223
+2024-12-20T01:35:55.7508897-05:00|Successfully backed up project 2024-12-20 01:35:55.
+2024-12-20T01:35:59.9056218-05:00|Removed 'Decal' (See logs for full details). Total items: 222
+2024-12-20T01:36:11.0475226-05:00|Removed 'Decal' (See logs for full details). Total items: 221
+2024-12-20T01:36:21.3138498-05:00|Removed 'Decal' (See logs for full details). Total items: 220
+2024-12-20T01:36:55.7528730-05:00|Successfully backed up project 2024-12-20 01:36:55.
+2024-12-20T01:37:11.6488729-05:00|Removed 'Decal' (See logs for full details). Total items: 219
+2024-12-20T01:37:14.7309701-05:00|Changed position of 'Female 1 Decal' (Decal) at pos 1 to 0.
+2024-12-20T01:37:14.9010861-05:00|Changed position of 'Female 2 Decal' (Decal) at pos 2 to 1.
+2024-12-20T01:37:14.9186996-05:00|Changed position of 'Female 3 Decal' (Decal) at pos 3 to 2.
+2024-12-20T01:37:14.9391645-05:00|Changed position of 'Female 4 Decal' (Decal) at pos 4 to 3.
+2024-12-20T01:37:14.9693032-05:00|Changed position of 'Female 5 Decal' (Decal) at pos 5 to 4.
+2024-12-20T01:37:15.0070002-05:00|Changed position of 'Female 6 Decal' (Decal) at pos 6 to 5.
+2024-12-20T01:37:15.0135316-05:00|Changed position of 'Female 7 Decal' (Decal) at pos 7 to 6.
+2024-12-20T01:37:15.0438914-05:00|Changed position of 'Female 8 Decal' (Decal) at pos 8 to 7.
+2024-12-20T01:37:15.0889879-05:00|Changed position of 'Female 9 Decal' (Decal) at pos 9 to 8.
+2024-12-20T01:37:15.1084005-05:00|Changed position of 'Female 10 Decal' (Decal) at pos 10 to 9.
+2024-12-20T01:37:15.1361914-05:00|Changed position of 'Female 11 Decal' (Decal) at pos 11 to 10.
+2024-12-20T01:37:15.1780356-05:00|Changed position of 'Female 13 Decal' (Decal) at pos 13 to 11.
+2024-12-20T01:37:15.2000595-05:00|Changed position of 'Female 15 Decal' (Decal) at pos 15 to 12.
+2024-12-20T01:37:15.2476319-05:00|Changed position of 'Female 17 Mask' (Mask) at pos 17 to 18.
+2024-12-20T01:37:15.2620159-05:00|Changed position of 'Female 18 Decal' (Decal) at pos 18 to 13.
+2024-12-20T01:37:15.2840274-05:00|Changed position of 'Female 18 Mask' (Mask) at pos 18 to 19.
+2024-12-20T01:37:15.2952363-05:00|Changed position of 'Female 19 Decal' (Decal) at pos 19 to 14.
+2024-12-20T01:37:15.3151815-05:00|Changed position of 'Female 19 Mask' (Mask) at pos 19 to 20.
+2024-12-20T01:37:15.3448143-05:00|Changed position of 'Female 20 Decal' (Decal) at pos 20 to 15.
+2024-12-20T01:37:15.3553031-05:00|Changed position of 'Female 20 Mask' (Mask) at pos 20 to 21.
+2024-12-20T01:37:15.3756731-05:00|Changed position of 'Female 21 Decal' (Decal) at pos 21 to 16.
+2024-12-20T01:37:15.4082661-05:00|Changed position of 'Female 21 Mask' (Mask) at pos 21 to 22.
+2024-12-20T01:37:15.4134529-05:00|Changed position of 'Female 22 Decal' (Decal) at pos 22 to 17.
+2024-12-20T01:37:15.4356205-05:00|Changed position of 'Female 22 Mask' (Mask) at pos 22 to 23.
+2024-12-20T01:37:15.4494670-05:00|Changed position of 'Female 23 Decal' (Decal) at pos 23 to 18.
+2024-12-20T01:37:15.4549665-05:00|Changed position of 'Female 23 Mask' (Mask) at pos 23 to 24.
+2024-12-20T01:37:15.4600157-05:00|Changed position of 'Female 24 Mask' (Mask) at pos 24 to 25.
+2024-12-20T01:37:15.4727394-05:00|Successfully resorted 27 from 219 total item positions.
+2024-12-20T01:37:22.7363914-05:00|Project with 219 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:39:57.3198154-05:00|Project with 219 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:40:11.3804676-05:00|Added Female 0 PropEars with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\earrings\1\mp_f_freemode_01_p^p_ears_001.ydd.
+2024-12-20T01:40:11.4419484-05:00|Added Female 1 PropEars with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\earrings\2\mp_f_freemode_01_p^p_ears_002.ydd.
+2024-12-20T01:40:11.5762840-05:00|Added Female 2 PropEars with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\earrings\3\mp_f_freemode_01_p^p_ears_003.ydd.
+2024-12-20T01:40:11.6915482-05:00|Added Female 3 PropEars with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\earrings\4\mp_f_freemode_01_p^p_ears_004.ydd.
+2024-12-20T01:40:11.8030961-05:00|Added Female 4 PropEars with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\earrings\5\mp_f_freemode_01_p^p_ears_005.ydd.
+2024-12-20T01:40:11.9013641-05:00|Added Female 5 PropEars with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\earrings\6\mp_f_freemode_01_p^p_ears_006.ydd.
+2024-12-20T01:40:11.9963009-05:00|Added Female 6 PropEars with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\earrings\7\mp_f_freemode_01_p^p_ears_007.ydd.
+2024-12-20T01:40:12.1202046-05:00|Added Female 7 PropEars with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\earrings\8\mp_f_freemode_01_p^p_ears_008.ydd.
+2024-12-20T01:40:12.1998011-05:00|Added Female 8 PropEars with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\earrings\9\mp_f_freemode_01_p^p_ears_009.ydd.
+2024-12-20T01:40:12.3521627-05:00|Added Female 9 PropEars with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\earrings\10\mp_f_freemode_01_p^p_ears_010.ydd.
+2024-12-20T01:40:12.3545350-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T01:40:12.6994191-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 11 new items and 0 new textures.
+2024-12-20T01:40:12.7071487-05:00|Found 10 Female cloth models
+2024-12-20T01:40:20.8711898-05:00|Project with 229 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:40:22.6467708-05:00|229 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (229 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T01:40:22.7880920-05:00|Loading all 2084 items, this can take a moment...
+2024-12-20T01:40:23.7430668-05:00|Finished loading all 2084 items.
+2024-12-20T01:40:23.7784407-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 2084 items and ready to rock (in 2.8656861 seconds).
+2024-12-20T01:40:55.6058371-05:00|Removed 'PropEars' (See logs for full details). Total items: 228
+2024-12-20T01:40:55.7383543-05:00|Successfully backed up project 2024-12-20 01:40:55.
+2024-12-20T01:41:01.1442785-05:00|Removed 'PropEars' (See logs for full details). Total items: 227
+2024-12-20T01:41:18.7842067-05:00|Removed 'PropEars' (See logs for full details). Total items: 226
+2024-12-20T01:41:24.4691785-05:00|Removed 'PropEars' (See logs for full details). Total items: 225
+2024-12-20T01:41:29.7249756-05:00|Removed 'PropEars' (See logs for full details). Total items: 224
+2024-12-20T01:41:39.9837012-05:00|Changed position of 'Female 1 PropEars' (PropEars) at pos 1 to 0.
+2024-12-20T01:41:40.0941269-05:00|Changed position of 'Female 3 PropEars' (PropEars) at pos 3 to 1.
+2024-12-20T01:41:40.1576897-05:00|Changed position of 'Female 4 PropEars' (PropEars) at pos 4 to 2.
+2024-12-20T01:41:40.1686568-05:00|Changed position of 'Female 7 PropEars' (PropEars) at pos 7 to 3.
+2024-12-20T01:41:40.2004003-05:00|Changed position of 'Female 9 PropEars' (PropEars) at pos 9 to 4.
+2024-12-20T01:41:40.2334677-05:00|Successfully resorted 5 from 224 total item positions.
+2024-12-20T01:41:55.7459248-05:00|Successfully backed up project 2024-12-20 01:41:55.
+2024-12-20T01:42:02.0338945-05:00|Added Female 0 PropEyes with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\1\mp_f_freemode_01_p^p_eyes_001.ydd.
+2024-12-20T01:42:02.4253760-05:00|Added Female 1 PropEyes with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\2\mp_f_freemode_01_p^p_eyes_002.ydd.
+2024-12-20T01:42:02.7411704-05:00|Added Female 2 PropEyes with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\3\mp_f_freemode_01_p^p_eyes_003.ydd.
+2024-12-20T01:42:03.3460548-05:00|Added Female 3 PropEyes with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\4\mp_f_freemode_01_p^p_eyes_004.ydd.
+2024-12-20T01:42:04.2675574-05:00|Added Female 4 PropEyes with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\5\mp_f_freemode_01_p^p_eyes_005.ydd.
+2024-12-20T01:42:04.7521638-05:00|Added Female 5 PropEyes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\6\mp_f_freemode_01_p^p_eyes_006.ydd.
+2024-12-20T01:42:05.8223267-05:00|Added Female 6 PropEyes with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\7\mp_f_freemode_01_p^p_eyes_007.ydd.
+2024-12-20T01:42:06.2297017-05:00|Added Female 7 PropEyes with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\8\mp_f_freemode_01_p^p_eyes_008.ydd.
+2024-12-20T01:42:06.8144417-05:00|Added Female 8 PropEyes with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\9\mp_f_freemode_01_p^p_eyes_009.ydd.
+2024-12-20T01:42:06.9030999-05:00|Added Female 9 PropEyes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\10\mp_f_freemode_01_p^p_eyes_010.ydd.
+2024-12-20T01:42:06.9981110-05:00|Added Female 10 PropEyes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\11\mp_f_freemode_01_p^p_eyes_011.ydd.
+2024-12-20T01:42:07.1562590-05:00|Added Female 11 PropEyes with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\12\mp_f_freemode_01_p^p_eyes_012.ydd.
+2024-12-20T01:42:07.5433244-05:00|Added Female 12 PropEyes with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\13\mp_f_freemode_01_p^p_eyes_013.ydd.
+2024-12-20T01:42:08.3834530-05:00|Added Female 13 PropEyes with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\14\mp_f_freemode_01_p^p_eyes_014.ydd.
+2024-12-20T01:42:08.7759170-05:00|Added Female 14 PropEyes with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\15\mp_f_freemode_01_p^p_eyes_015.ydd.
+2024-12-20T01:42:08.9064382-05:00|Added Female 15 PropEyes with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\16\mp_f_freemode_01_p^p_eyes_016.ydd.
+2024-12-20T01:42:09.0464464-05:00|Added Female 16 PropEyes with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\17\mp_f_freemode_01_p^p_eyes_017.ydd.
+2024-12-20T01:42:09.1967854-05:00|Added Female 17 PropEyes with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\18\mp_f_freemode_01_p^p_eyes_018.ydd.
+2024-12-20T01:42:09.5899306-05:00|Added Female 18 PropEyes with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\19\mp_f_freemode_01_p^p_eyes_019.ydd.
+2024-12-20T01:42:09.8383073-05:00|Added Female 19 PropEyes with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\20\mp_f_freemode_01_p^p_eyes_020.ydd.
+2024-12-20T01:42:10.6724119-05:00|Added Female 20 PropEyes with 20 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\eyes=glasses\21\mp_f_freemode_01_p^p_eyes_021.ydd.
+2024-12-20T01:42:10.6729794-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T01:42:15.5508925-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 21 new items and 0 new textures.
+2024-12-20T01:42:15.5559373-05:00|Found 21 Female cloth models
+2024-12-20T01:42:20.1922257-05:00|Project with 245 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T01:42:21.9863860-05:00|245 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (245 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T01:42:22.1352086-05:00|Loading all 2227 items, this can take a moment...
+2024-12-20T01:42:23.2965912-05:00|Finished loading all 2227 items.
+2024-12-20T01:42:23.3237749-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 2227 items and ready to rock (in 3.103624 seconds).
+2024-12-20T01:43:43.6253153-05:00|Removed 'PropEyes' (See logs for full details). Total items: 244
+2024-12-20T01:43:55.7499041-05:00|Successfully backed up project 2024-12-20 01:43:55.
+2024-12-20T01:44:06.9711124-05:00|Removed 'PropEyes' (See logs for full details). Total items: 243
+2024-12-20T01:44:13.5740780-05:00|Removed 'PropEyes' (See logs for full details). Total items: 242
+2024-12-20T01:44:45.9071289-05:00|Removed 'PropEyes' (See logs for full details). Total items: 241
+2024-12-20T01:44:51.3880303-05:00|Changed position of 'Female 4 PropEyes' (PropEyes) at pos 4 to 3.
+2024-12-20T01:44:51.4395497-05:00|Changed position of 'Female 5 PropEyes' (PropEyes) at pos 5 to 4.
+2024-12-20T01:44:51.4549286-05:00|Changed position of 'Female 6 PropEyes' (PropEyes) at pos 6 to 5.
+2024-12-20T01:44:51.4621277-05:00|Changed position of 'Female 7 PropEyes' (PropEyes) at pos 7 to 6.
+2024-12-20T01:44:51.4686513-05:00|Changed position of 'Female 8 PropEyes' (PropEyes) at pos 8 to 7.
+2024-12-20T01:44:51.4836094-05:00|Changed position of 'Female 9 PropEyes' (PropEyes) at pos 9 to 8.
+2024-12-20T01:44:51.4911673-05:00|Changed position of 'Female 10 PropEyes' (PropEyes) at pos 10 to 9.
+2024-12-20T01:44:51.4997034-05:00|Changed position of 'Female 12 PropEyes' (PropEyes) at pos 12 to 10.
+2024-12-20T01:44:51.5253820-05:00|Changed position of 'Female 14 debadge' (PropEyes) at pos 14 to 11.
+2024-12-20T01:44:51.5383292-05:00|Changed position of 'Female 15 debadge' (PropEyes) at pos 15 to 12.
+2024-12-20T01:44:51.5475676-05:00|Changed position of 'Female 16 PropEyes' (PropEyes) at pos 16 to 13.
+2024-12-20T01:44:51.5712491-05:00|Changed position of 'Female 17 PropEyes' (PropEyes) at pos 17 to 14.
+2024-12-20T01:44:51.5825588-05:00|Changed position of 'Female 18 debadge' (PropEyes) at pos 18 to 15.
+2024-12-20T01:44:51.5939942-05:00|Changed position of 'Female 20 PropEyes' (PropEyes) at pos 20 to 16.
+2024-12-20T01:44:51.6181196-05:00|Successfully resorted 14 from 241 total item positions.
+2024-12-20T01:44:55.7436622-05:00|Successfully backed up project 2024-12-20 01:44:55.
+2024-12-20T01:44:59.6856503-05:00|Successfully resorted 0 from 241 total item positions.
+2024-12-20T01:45:02.9679623-05:00|Project with 241 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
