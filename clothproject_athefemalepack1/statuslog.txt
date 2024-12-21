@@ -1,3 +1,4 @@
+2024-12-20T21:31:42.7281457-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T20:18:27.7013786-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T20:18:28.9812473-05:00|Added Female 0 Legs with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\lowr=leg\13\mp_f_freemode_01^lowr_013_u.ydd.
 2024-12-20T18:45:32.4141731-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
@@ -1793,3 +1794,91 @@
 2024-12-20T21:23:11.5446605-05:00|Successfully backed up project 2024-12-20 21:23:11.
 2024-12-20T21:23:16.0804110-05:00|Project with 715 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
 2024-12-20T21:23:48.1033737-05:00|Project with 715 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T21:30:26.4876674-05:00|Project with 715 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T21:31:07.2982585-05:00|Added Female 3 Armor with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\1\mp_f_freemode_01^task_001_u.ydd.
+2024-12-20T21:31:08.2088583-05:00|Added Female 4 Armor with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\2\mp_f_freemode_01^task_002_u.ydd.
+2024-12-20T21:31:08.6995072-05:00|Added Female 5 Armor with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\3\mp_f_freemode_01^task_003_u.ydd.
+2024-12-20T21:31:08.9678139-05:00|Added Female 6 Armor with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\4\mp_f_freemode_01^task_004_u.ydd.
+2024-12-20T21:31:09.6596890-05:00|Added Female 7 Armor with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\5\mp_f_freemode_01^task_005_u.ydd.
+2024-12-20T21:31:09.8808952-05:00|Added Female 8 Armor with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\6\mp_f_freemode_01^task_006_u.ydd.
+2024-12-20T21:31:09.9780972-05:00|Added Female 9 Armor with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\7\mp_f_freemode_01^task_007_u.ydd.
+2024-12-20T21:31:11.0658079-05:00|Added Female 10 Armor with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\8\mp_f_freemode_01^task_008_u.ydd.
+2024-12-20T21:31:11.9213167-05:00|Added Female 11 Armor with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\9\mp_f_freemode_01^task_009_u.ydd.
+2024-12-20T21:31:12.7762146-05:00|Added Female 12 Armor with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\10\mp_f_freemode_01^task_010_u.ydd.
+2024-12-20T21:31:12.9833279-05:00|Added Female 13 Armor with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\11\mp_f_freemode_01^task_011_u.ydd.
+2024-12-20T21:31:13.4242112-05:00|Added Female 14 Armor with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\12\mp_f_freemode_01^task_012_u.ydd.
+2024-12-20T21:31:14.0158343-05:00|Added Female 15 Armor with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\13\mp_f_freemode_01^task_013_u.ydd.
+2024-12-20T21:31:14.2534989-05:00|Added Female 16 Armor with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\14\mp_f_freemode_01^task_014_u.ydd.
+2024-12-20T21:31:14.7036418-05:00|Added Female 17 Armor with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\15\mp_f_freemode_01^task_015_u.ydd.
+2024-12-20T21:31:15.2442917-05:00|Added Female 18 Armor with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\16\mp_f_freemode_01^task_016_u.ydd.
+2024-12-20T21:31:15.7323554-05:00|Added Female 19 Armor with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\17\mp_f_freemode_01^task_017_u.ydd.
+2024-12-20T21:31:16.1676706-05:00|Added Female 20 Armor with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\18\mp_f_freemode_01^task_018_u.ydd.
+2024-12-20T21:31:16.8678734-05:00|Added Female 21 Armor with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\19\mp_f_freemode_01^task_019_u.ydd.
+2024-12-20T21:31:17.2592085-05:00|Added Female 22 Armor with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\20\mp_f_freemode_01^task_020_u.ydd.
+2024-12-20T21:31:17.4332742-05:00|Added Female 23 Armor with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\21\mp_f_freemode_01^task_021_u.ydd.
+2024-12-20T21:31:18.0590978-05:00|Added Female 24 Armor with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\22\mp_f_freemode_01^task_022_u.ydd.
+2024-12-20T21:31:19.3679189-05:00|Added Female 25 Armor with 24 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\23\mp_f_freemode_01^task_023_u.ydd.
+2024-12-20T21:31:19.7861745-05:00|Added Female 26 Armor with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\24\mp_f_freemode_01^task_024_u.ydd.
+2024-12-20T21:31:20.1798549-05:00|Added Female 27 Armor with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\25\mp_f_freemode_01^task_025_u.ydd.
+2024-12-20T21:31:20.3328443-05:00|Added Female 28 Armor with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\26\mp_f_freemode_01^task_026_u.ydd.
+2024-12-20T21:31:20.3690235-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_002_u.ydd 'Female 0 Decal' (Decal) at pos 0 => 97f6e3e2-79e7-4fe4-b17f-0cd0232b353d.ydd
+2024-12-20T21:31:20.9241197-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_003_u.ydd 'Female 1 Decal' (Decal) at pos 1 => e445c84c-b649-4f85-baa2-5da322e040bf.ydd
+2024-12-20T21:31:20.9547963-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_004_u.ydd 'Female 2 Decal' (Decal) at pos 2 => ad15b136-c9c0-43cd-9c23-9b86757ec126.ydd
+2024-12-20T21:31:20.9885779-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_005_u.ydd 'Female 3 Decal' (Decal) at pos 3 => 3b880cea-69eb-4eaf-bf55-2f9f745e758b.ydd
+2024-12-20T21:31:21.0290900-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_006_u.ydd 'Female 4 Decal' (Decal) at pos 4 => 3205bc05-737d-4ffa-89b4-fe04712b0f8a.ydd
+2024-12-20T21:31:21.0664782-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_007_u.ydd 'Female 5 Decal' (Decal) at pos 5 => 59ea02d1-83ad-4833-8724-f748018f81d4.ydd
+2024-12-20T21:31:21.1019701-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_009_u.ydd 'Female 6 Decal' (Decal) at pos 6 => 5905904e-08c5-4c9e-940e-293b9f867057.ydd
+2024-12-20T21:31:21.1384020-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_010_u.ydd 'Female 7 Decal' (Decal) at pos 7 => 6a263e2d-6560-4519-b29b-bace230a4d10.ydd
+2024-12-20T21:31:21.1814148-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_011_u.ydd 'Female 8 Decal' (Decal) at pos 8 => 73dc9a4a-c60a-413c-888b-78e396bb97d1.ydd
+2024-12-20T21:31:21.2165373-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_012_u.ydd 'Female 9 Decal' (Decal) at pos 9 => 080d9830-271d-4894-8191-d0016a0589b9.ydd
+2024-12-20T21:31:21.3190809-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_013_u.ydd 'Female 10 Decal' (Decal) at pos 10 => 8e2ae4f4-8427-42cc-83fb-8ad2cd8ec9fd.ydd
+2024-12-20T21:31:21.7142488-05:00|Added Female 29 Armor with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\38\mp_f_freemode_01^task_038_u.ydd.
+2024-12-20T21:31:21.7483390-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_015_u.ydd 'Female 11 Decal' (Decal) at pos 11 => 42dd04ef-6eec-43f1-ab2c-d7a274e1c516.ydd
+2024-12-20T21:31:23.0824254-05:00|Added Female 30 Armor with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\40\mp_f_freemode_01^task_040_u.ydd.
+2024-12-20T21:31:23.6790142-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_017_u.ydd 'Female 12 Decal' (Decal) at pos 12 => fcf5f260-d6d1-4bb0-ba9e-031475568fad.ydd
+2024-12-20T21:31:24.4189712-05:00|Added Female 31 Armor with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\task=bodyarmor\42\mp_f_freemode_01^task_042_u.ydd.
+2024-12-20T21:31:24.9498100-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_019_u.ydd 'Female 17 Decal' (Mask) at pos 17 => 84f51192-45c0-4aaf-bcb5-1d1120249067.ydd
+2024-12-20T21:31:24.9521392-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T21:31:32.4681808-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 29 new items and 0 new textures.
+2024-12-20T21:31:32.4775980-05:00|Found 43 Female cloth models
+2024-12-20T21:31:41.5824240-05:00|Project with 744 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T21:31:47.1947813-05:00|744 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (744 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T21:31:47.6069521-05:00|Loading all 6266 items, this can take a moment...
+2024-12-20T21:33:27.6304447-05:00|Finished loading all 6266 items.
+2024-12-20T21:33:27.6649492-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 6266 items and ready to rock (in 105.9849892 seconds).
+2024-12-20T21:33:52.7334816-05:00|Removed 'Armor' (See logs for full details). Total items: 743
+2024-12-20T21:34:11.5323017-05:00|Successfully backed up project 2024-12-20 21:34:11.
+2024-12-20T21:34:30.8744970-05:00|Trying to optimize texture 'a' of 'Female 18 Armor' (Armor) at pos 18 ...
+2024-12-20T21:34:31.1987441-05:00|Texture 'a' (2d18aae8-4daf-4555-801f-237d563a5f74.ytd) file got successfully updated to 74ebc986-20be-4ebd-8178-f4c93b99a7e7.ytd.
+2024-12-20T21:34:31.2134725-05:00|Texture 1 optimized from 184 KB to 92 KB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 1024px/2048px => 1024px/2048px, mip maps 1 => 12
+2024-12-20T21:34:31.2232485-05:00|Successfully optimized drawable texture 'a' of 'Female 18 Armor' (Armor) at pos 18
+2024-12-20T21:34:36.6203703-05:00|Removed 'Armor' (See logs for full details). Total items: 742
+2024-12-20T21:34:55.9977863-05:00|Removed 'Armor' (See logs for full details). Total items: 741
+2024-12-20T21:34:58.5605225-05:00|Removed 'Armor' (See logs for full details). Total items: 740
+2024-12-20T21:35:01.8670389-05:00|Removed 'Armor' (See logs for full details). Total items: 739
+2024-12-20T21:35:04.3948394-05:00|Removed 'Armor' (See logs for full details). Total items: 738
+2024-12-20T21:35:10.4555082-05:00|Changed position of 'Female 6 Armor' (Armor) at pos 6 to 5.
+2024-12-20T21:35:10.4983443-05:00|Changed position of 'Female 7 Armor' (Armor) at pos 7 to 6.
+2024-12-20T21:35:10.5120257-05:00|Changed position of 'Female 8 Armor' (Armor) at pos 8 to 7.
+2024-12-20T21:35:10.5205303-05:00|Changed position of 'Female 9 Armor' (Armor) at pos 9 to 8.
+2024-12-20T21:35:10.5309458-05:00|Changed position of 'Female 10 Armor' (Armor) at pos 10 to 9.
+2024-12-20T21:35:10.5533083-05:00|Changed position of 'Female 11 Armor' (Armor) at pos 11 to 10.
+2024-12-20T21:35:10.5742136-05:00|Changed position of 'Female 12 Armor' (Armor) at pos 12 to 11.
+2024-12-20T21:35:10.5905303-05:00|Changed position of 'Female 13 Armor' (Armor) at pos 13 to 12.
+2024-12-20T21:35:10.6128468-05:00|Changed position of 'Female 14 Armor' (Armor) at pos 14 to 13.
+2024-12-20T21:35:10.6281691-05:00|Changed position of 'Female 15 Armor' (Armor) at pos 15 to 14.
+2024-12-20T21:35:10.6440497-05:00|Changed position of 'Female 16 Armor' (Armor) at pos 16 to 15.
+2024-12-20T21:35:10.6596191-05:00|Changed position of 'Female 17 Armor' (Armor) at pos 17 to 16.
+2024-12-20T21:35:10.6755330-05:00|Changed position of 'Female 19 Armor' (Armor) at pos 19 to 17.
+2024-12-20T21:35:10.6904393-05:00|Changed position of 'Female 20 Armor' (Armor) at pos 20 to 18.
+2024-12-20T21:35:10.7122060-05:00|Changed position of 'Female 21 Armor' (Armor) at pos 21 to 19.
+2024-12-20T21:35:10.7211563-05:00|Changed position of 'Female 22 Armor' (Armor) at pos 22 to 20.
+2024-12-20T21:35:10.7385676-05:00|Changed position of 'Female 23 Armor' (Armor) at pos 23 to 21.
+2024-12-20T21:35:10.7543538-05:00|Changed position of 'Female 24 Armor' (Armor) at pos 24 to 22.
+2024-12-20T21:35:10.7693683-05:00|Changed position of 'Female 25 Armor' (Armor) at pos 25 to 23.
+2024-12-20T21:35:10.7904921-05:00|Changed position of 'Female 26 Armor' (Armor) at pos 26 to 24.
+2024-12-20T21:35:10.8063248-05:00|Changed position of 'Female 27 Armor' (Armor) at pos 27 to 25.
+2024-12-20T21:35:10.8481483-05:00|Successfully resorted 21 from 738 total item positions.
+2024-12-20T21:35:11.5325045-05:00|Successfully backed up project 2024-12-20 21:35:11.
+2024-12-20T21:35:31.6613343-05:00|Project with 738 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T21:35:33.3374472-05:00|Project with 738 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
