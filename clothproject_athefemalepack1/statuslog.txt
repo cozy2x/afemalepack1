@@ -1,3 +1,4 @@
+2024-12-20T18:45:32.4141731-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T16:39:55.9846612-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T02:02:54.0548816-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-20T02:02:55.8271947-05:00|Previous log file exceeded maximum size. Backed it up to statuslog-24-12-20.txt and started new status log.
@@ -344,3 +345,691 @@
 2024-12-20T18:41:02.1647740-05:00|Successfully resorted 0 from 474 total item positions.
 2024-12-20T18:41:04.8669528-05:00|Project with 474 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
 2024-12-20T18:41:10.4542768-05:00|Project with 474 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T18:44:57.2192442-05:00|Added Female 3 Bag with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\1\mp_f_freemode_01^hand_001_u.ydd.
+2024-12-20T18:44:57.6086044-05:00|Added Female 4 Bag with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\2\mp_f_freemode_01^hand_002_u.ydd.
+2024-12-20T18:44:57.7442953-05:00|Added Female 5 Bag with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\3\mp_f_freemode_01^hand_003_u.ydd.
+2024-12-20T18:44:57.8801267-05:00|Added Female 6 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\4\mp_f_freemode_01^hand_004_u.ydd.
+2024-12-20T18:44:58.0274979-05:00|Added Female 7 Bag with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\5\mp_f_freemode_01^hand_005_u.ydd.
+2024-12-20T18:44:58.1382169-05:00|Added Female 8 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\6\mp_f_freemode_01^hand_006_u.ydd.
+2024-12-20T18:44:58.2453240-05:00|Added Female 9 Bag with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\7\mp_f_freemode_01^hand_007_u.ydd.
+2024-12-20T18:44:58.3964782-05:00|Added Female 10 Bag with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\8\mp_f_freemode_01^hand_008_u.ydd.
+2024-12-20T18:44:58.4518747-05:00|Added Female 11 Bag with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\9\mp_f_freemode_01^hand_009_u.ydd.
+2024-12-20T18:44:58.5746221-05:00|Added Female 12 Bag with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\10\mp_f_freemode_01^hand_010_u.ydd.
+2024-12-20T18:44:58.8820072-05:00|Added Female 13 Bag with 20 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\11\mp_f_freemode_01^hand_011_u.ydd.
+2024-12-20T18:44:59.3868951-05:00|Added Female 14 Bag with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\12\mp_f_freemode_01^hand_012_u.ydd.
+2024-12-20T18:44:59.4904474-05:00|Added Female 15 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\13\mp_f_freemode_01^hand_013_u.ydd.
+2024-12-20T18:44:59.6641434-05:00|Added Female 16 Bag with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\14\mp_f_freemode_01^hand_014_u.ydd.
+2024-12-20T18:44:59.7255177-05:00|Added Female 17 Bag with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\15\mp_f_freemode_01^hand_015_u.ydd.
+2024-12-20T18:44:59.8280807-05:00|Added Female 18 Bag with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\16\mp_f_freemode_01^hand_016_u.ydd.
+2024-12-20T18:44:59.9754833-05:00|Added Female 19 Bag with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\17\mp_f_freemode_01^hand_017_u.ydd.
+2024-12-20T18:45:00.0728833-05:00|Added Female 20 Bag with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\18\mp_f_freemode_01^hand_018_u.ydd.
+2024-12-20T18:45:00.1647320-05:00|Added Female 21 Bag with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\19\mp_f_freemode_01^hand_019_u.ydd.
+2024-12-20T18:45:00.2891536-05:00|Added Female 22 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\20\mp_f_freemode_01^hand_020_u.ydd.
+2024-12-20T18:45:00.4023804-05:00|Added Female 23 Bag with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\21\mp_f_freemode_01^hand_021_u.ydd.
+2024-12-20T18:45:00.5691920-05:00|Added Female 24 Bag with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\22\mp_f_freemode_01^hand_022_u.ydd.
+2024-12-20T18:45:00.5908298-05:00|Added Female 25 Bag with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\23\mp_f_freemode_01^hand_023_u.ydd.
+2024-12-20T18:45:00.7636832-05:00|Added Female 26 Bag with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\24\mp_f_freemode_01^hand_024_u.ydd.
+2024-12-20T18:45:00.8677966-05:00|Added Female 27 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\25\mp_f_freemode_01^hand_025_u.ydd.
+2024-12-20T18:45:01.0326777-05:00|Added Female 28 Bag with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\26\mp_f_freemode_01^hand_026_u.ydd.
+2024-12-20T18:45:01.1386317-05:00|Added Female 29 Bag with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\27\mp_f_freemode_01^hand_027_u.ydd.
+2024-12-20T18:45:01.2224185-05:00|Added Female 30 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\28\mp_f_freemode_01^hand_028_u.ydd.
+2024-12-20T18:45:01.3470188-05:00|Added Female 31 Bag with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\29\mp_f_freemode_01^hand_029_u.ydd.
+2024-12-20T18:45:01.4396875-05:00|Added Female 32 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\30\mp_f_freemode_01^hand_030_u.ydd.
+2024-12-20T18:45:01.5384762-05:00|Added Female 33 Bag with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\31\mp_f_freemode_01^hand_031_u.ydd.
+2024-12-20T18:45:01.6671418-05:00|Added Female 34 Bag with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\32\mp_f_freemode_01^hand_032_u.ydd.
+2024-12-20T18:45:01.7788601-05:00|Added Female 35 Bag with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\33\mp_f_freemode_01^hand_033_u.ydd.
+2024-12-20T18:45:01.8648339-05:00|Added Female 36 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\34\mp_f_freemode_01^hand_034_u.ydd.
+2024-12-20T18:45:01.9835208-05:00|Added Female 37 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\35\mp_f_freemode_01^hand_035_u.ydd.
+2024-12-20T18:45:02.1900261-05:00|Added Female 38 Bag with 20 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\36\mp_f_freemode_01^hand_036_u.ydd.
+2024-12-20T18:45:02.4600992-05:00|Added Female 39 Bag with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\37\mp_f_freemode_01^hand_037_u.ydd.
+2024-12-20T18:45:02.6437453-05:00|Added Female 40 Bag with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\38\mp_f_freemode_01^hand_038_u.ydd.
+2024-12-20T18:45:02.8944741-05:00|Added Female 41 Bag with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\39\mp_f_freemode_01^hand_039_u.ydd.
+2024-12-20T18:45:03.0172834-05:00|Added Female 42 Bag with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\40\mp_f_freemode_01^hand_040_u.ydd.
+2024-12-20T18:45:03.1935541-05:00|Added Female 43 Bag with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\41\mp_f_freemode_01^hand_041_u.ydd.
+2024-12-20T18:45:14.1024581-05:00|Set to not import any duplicates automatically for this session (restart app to reset)
+2024-12-20T18:45:14.1674910-05:00|Added Female 44 Bag with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\43\mp_f_freemode_01^hand_043_u.ydd.
+2024-12-20T18:45:14.3262648-05:00|Added Female 45 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\44\mp_f_freemode_01^hand_044_u.ydd.
+2024-12-20T18:45:14.4243039-05:00|Added Female 46 Bag with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\45\mp_f_freemode_01^hand_045_u.ydd.
+2024-12-20T18:45:14.4999750-05:00|Added Female 47 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\46\mp_f_freemode_01^hand_046_u.ydd.
+2024-12-20T18:45:14.5210962-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01^decl_009_u.ydd 'Female 6 Decal' (Decal) at pos 6 => 5905904e-08c5-4c9e-940e-293b9f867057.ydd
+2024-12-20T18:45:14.6476472-05:00|Added Female 48 Bag with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\48\mp_f_freemode_01^hand_048_u.ydd.
+2024-12-20T18:45:14.7625443-05:00|Added Female 49 Bag with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\49\mp_f_freemode_01^hand_049_u.ydd.
+2024-12-20T18:45:14.8487797-05:00|Added Female 50 Bag with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\50\mp_f_freemode_01^hand_050_u.ydd.
+2024-12-20T18:45:15.1122073-05:00|Added Female 51 Bag with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\51\mp_f_freemode_01^hand_051_u.ydd.
+2024-12-20T18:45:15.3073747-05:00|Added Female 52 Bag with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\52\mp_f_freemode_01^hand_052_u.ydd.
+2024-12-20T18:45:15.4582908-05:00|Added Female 53 Bag with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\53\mp_f_freemode_01^hand_053_u.ydd.
+2024-12-20T18:45:15.6629762-05:00|Added Female 54 Bag with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\54\mp_f_freemode_01^hand_054_u.ydd.
+2024-12-20T18:45:16.0210960-05:00|Added Female 55 Bag with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\hand=bags\55\mp_f_freemode_01^hand_055_u.ydd.
+2024-12-20T18:45:16.0230873-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T18:45:27.2132587-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 53 new items and 0 new textures.
+2024-12-20T18:45:27.2201543-05:00|Found 55 Female cloth models
+2024-12-20T18:45:31.8049804-05:00|Project with 527 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T18:45:35.0692883-05:00|527 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (527 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T18:45:35.3271733-05:00|Loading all 3961 items, this can take a moment...
+2024-12-20T18:45:37.2049741-05:00|Finished loading all 3961 items.
+2024-12-20T18:45:37.2292912-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 3961 items and ready to rock (in 5.393498 seconds).
+2024-12-20T18:46:07.3621237-05:00|Removed 'Bag' (See logs for full details). Total items: 526
+2024-12-20T18:46:13.5526441-05:00|Successfully backed up project 2024-12-20 18:46:13.
+2024-12-20T18:46:14.8797982-05:00|Removed 'Bag' (See logs for full details). Total items: 525
+2024-12-20T18:46:21.3067999-05:00|Removed 'Bag' (See logs for full details). Total items: 524
+2024-12-20T18:46:33.4652412-05:00|Removed 'Bag' (See logs for full details). Total items: 523
+2024-12-20T18:47:07.0076603-05:00|Removed 'Bag' (See logs for full details). Total items: 522
+2024-12-20T18:47:13.5511202-05:00|Successfully backed up project 2024-12-20 18:47:13.
+2024-12-20T18:47:21.3708461-05:00|Removed 'Bag' (See logs for full details). Total items: 521
+2024-12-20T18:47:26.0323158-05:00|Removed 'Bag' (See logs for full details). Total items: 520
+2024-12-20T18:47:29.8646585-05:00|Removed 'Bag' (See logs for full details). Total items: 519
+2024-12-20T18:47:41.3968784-05:00|Removed 'Bag' (See logs for full details). Total items: 518
+2024-12-20T18:47:53.7312259-05:00|Removed 'Bag' (See logs for full details). Total items: 517
+2024-12-20T18:47:59.2989448-05:00|Removed 'Bag' (See logs for full details). Total items: 516
+2024-12-20T18:48:13.5487435-05:00|Successfully backed up project 2024-12-20 18:48:13.
+2024-12-20T18:48:22.5459121-05:00|Removed 'nails' (See logs for full details). Total items: 515
+2024-12-20T18:49:07.2725659-05:00|Changed position of 'Female 9 Bag' (Bag) at pos 9 to 7.
+2024-12-20T18:49:07.3135740-05:00|Changed position of 'Female 11 Bag' (Bag) at pos 11 to 8.
+2024-12-20T18:49:07.3364626-05:00|Changed position of 'Female 13 Bag' (Bag) at pos 13 to 9.
+2024-12-20T18:49:07.3526086-05:00|Changed position of 'Female 14 Bag' (Bag) at pos 14 to 10.
+2024-12-20T18:49:07.3835614-05:00|Changed position of 'Female 15 Bag' (Bag) at pos 15 to 11.
+2024-12-20T18:49:07.4000075-05:00|Changed position of 'Female 16 Bag' (Bag) at pos 16 to 12.
+2024-12-20T18:49:07.4322340-05:00|Changed position of 'Female 17 Bag' (Bag) at pos 17 to 13.
+2024-12-20T18:49:07.4477926-05:00|Changed position of 'Female 18 Bag' (Bag) at pos 18 to 14.
+2024-12-20T18:49:07.4836927-05:00|Changed position of 'Female 19 Bag' (Bag) at pos 19 to 15.
+2024-12-20T18:49:07.4939423-05:00|Changed position of 'Female 21 Bag' (Bag) at pos 21 to 16.
+2024-12-20T18:49:07.5097300-05:00|Changed position of 'Female 22 Bag' (Bag) at pos 22 to 17.
+2024-12-20T18:49:07.5242937-05:00|Changed position of 'Female 23 Bag' (Bag) at pos 23 to 18.
+2024-12-20T18:49:07.5795168-05:00|Changed position of 'Female 24 Bag' (Bag) at pos 24 to 19.
+2024-12-20T18:49:07.6038012-05:00|Changed position of 'Female 25 Bag' (Bag) at pos 25 to 20.
+2024-12-20T18:49:07.6257723-05:00|Changed position of 'Female 26 Bag' (Bag) at pos 26 to 21.
+2024-12-20T18:49:07.7414555-05:00|Changed position of 'Female 27 Bag' (Bag) at pos 27 to 22.
+2024-12-20T18:49:07.7548399-05:00|Changed position of 'Female 31 Bag' (Bag) at pos 31 to 23.
+2024-12-20T18:49:07.7702679-05:00|Changed position of 'Female 32 Bag' (Bag) at pos 32 to 24.
+2024-12-20T18:49:07.7814649-05:00|Changed position of 'Female 33 Bag' (Bag) at pos 33 to 25.
+2024-12-20T18:49:07.8046096-05:00|Changed position of 'Female 35 Bag' (Bag) at pos 35 to 26.
+2024-12-20T18:49:07.8377279-05:00|Changed position of 'Female 36 Bag' (Bag) at pos 36 to 27.
+2024-12-20T18:49:07.9004225-05:00|Changed position of 'Female 37 Bag' (Bag) at pos 37 to 28.
+2024-12-20T18:49:07.9200589-05:00|Changed position of 'Female 38 Bag' (Bag) at pos 38 to 29.
+2024-12-20T18:49:07.9510768-05:00|Changed position of 'Female 40 Bag' (Bag) at pos 40 to 30.
+2024-12-20T18:49:07.9797049-05:00|Changed position of 'Female 42 nails' (Bag) at pos 42 to 31.
+2024-12-20T18:49:07.9911601-05:00|Changed position of 'Female 43 nails' (Bag) at pos 43 to 32.
+2024-12-20T18:49:08.0169500-05:00|Changed position of 'Female 45 nails' (Bag) at pos 45 to 33.
+2024-12-20T18:49:08.0257464-05:00|Changed position of 'Female 46 nails' (Bag) at pos 46 to 34.
+2024-12-20T18:49:08.0468746-05:00|Changed position of 'Female 47 nails' (Bag) at pos 47 to 35.
+2024-12-20T18:49:08.0622829-05:00|Changed position of 'Female 48 nails' (Bag) at pos 48 to 36.
+2024-12-20T18:49:08.0780705-05:00|Changed position of 'Female 49 nails' (Bag) at pos 49 to 37.
+2024-12-20T18:49:08.0893942-05:00|Changed position of 'Female 50 nails' (Bag) at pos 50 to 38.
+2024-12-20T18:49:08.1043684-05:00|Changed position of 'Female 51 nails' (Bag) at pos 51 to 39.
+2024-12-20T18:49:08.1291978-05:00|Changed position of 'Female 52 nails' (Bag) at pos 52 to 40.
+2024-12-20T18:49:08.1723376-05:00|Changed position of 'Female 53 nails' (Bag) at pos 53 to 41.
+2024-12-20T18:49:08.2017414-05:00|Changed position of 'Female 54 nails' (Bag) at pos 54 to 42.
+2024-12-20T18:49:08.2170197-05:00|Changed position of 'Female 55 nails' (Bag) at pos 55 to 43.
+2024-12-20T18:49:08.2541653-05:00|Successfully resorted 37 from 515 total item positions.
+2024-12-20T18:49:10.8549273-05:00|Project with 515 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T18:49:42.4809812-05:00|Added Female 30 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\0\mp_f_freemode_01^jbib_000_u.ydd.
+2024-12-20T18:49:42.9632253-05:00|Added Female 31 Top with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\1\mp_f_freemode_01^jbib_001_u.ydd.
+2024-12-20T18:49:43.6360041-05:00|Added Female 32 Top with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\2\mp_f_freemode_01^jbib_002_u.ydd.
+2024-12-20T18:49:43.6976931-05:00|Added Female 33 Top with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\3\mp_f_freemode_01^jbib_003_u.ydd.
+2024-12-20T18:49:43.8615088-05:00|Added Female 34 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\4\mp_f_freemode_01^jbib_004_u.ydd.
+2024-12-20T18:49:44.1409502-05:00|Added Female 35 Top with 21 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\5\mp_f_freemode_01^jbib_005_u.ydd.
+2024-12-20T18:49:44.2370920-05:00|Added Female 36 Top with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\6\mp_f_freemode_01^jbib_006_u.ydd.
+2024-12-20T18:49:44.3859997-05:00|Added Female 37 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\7\mp_f_freemode_01^jbib_007_u.ydd.
+2024-12-20T18:49:44.4892778-05:00|Added Female 38 Top with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\8\mp_f_freemode_01^jbib_008_u.ydd.
+2024-12-20T18:49:45.0616573-05:00|Added Female 39 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\9\mp_f_freemode_01^jbib_009_u.ydd.
+2024-12-20T18:49:45.3353449-05:00|Added Female 40 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\10\mp_f_freemode_01^jbib_010_u.ydd.
+2024-12-20T18:49:45.5554647-05:00|Added Female 41 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\11\mp_f_freemode_01^jbib_011_u.ydd.
+2024-12-20T18:49:45.8239048-05:00|Added Female 42 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\12\mp_f_freemode_01^jbib_012_u.ydd.
+2024-12-20T18:49:46.7718660-05:00|Added Female 43 Top with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\13\mp_f_freemode_01^jbib_013_u.ydd.
+2024-12-20T18:49:46.9961601-05:00|Added Female 44 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\14\mp_f_freemode_01^jbib_014_u.ydd.
+2024-12-20T18:49:47.2123392-05:00|Added Female 45 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\15\mp_f_freemode_01^jbib_015_u.ydd.
+2024-12-20T18:49:47.3693080-05:00|Added Female 46 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\17\mp_f_freemode_01^jbib_017_u.ydd.
+2024-12-20T18:49:48.1968308-05:00|Added Female 47 Top with 17 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\18\mp_f_freemode_01^jbib_018_u.ydd.
+2024-12-20T18:49:48.4177683-05:00|Added Female 48 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\19\mp_f_freemode_01^jbib_019_u.ydd.
+2024-12-20T18:49:49.0265458-05:00|Added Female 49 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\20\mp_f_freemode_01^jbib_020_u.ydd.
+2024-12-20T18:49:49.4591027-05:00|Added Female 50 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\21\mp_f_freemode_01^jbib_021_u.ydd.
+2024-12-20T18:49:49.6059284-05:00|Added Female 51 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\22\mp_f_freemode_01^jbib_022_u.ydd.
+2024-12-20T18:49:50.0839209-05:00|Added Female 52 Top with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\23\mp_f_freemode_01^jbib_023_u.ydd.
+2024-12-20T18:49:50.3572280-05:00|Added Female 53 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\24\mp_f_freemode_01^jbib_024_u.ydd.
+2024-12-20T18:49:50.6890913-05:00|Added Female 54 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\25\mp_f_freemode_01^jbib_025_u.ydd.
+2024-12-20T18:49:51.1629672-05:00|Added Female 55 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\26\mp_f_freemode_01^jbib_026_u.ydd.
+2024-12-20T18:49:52.6877143-05:00|Added Female 56 Top with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\27\mp_f_freemode_01^jbib_027_u.ydd.
+2024-12-20T18:49:53.0800364-05:00|Added Female 57 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\28\mp_f_freemode_01^jbib_028_u.ydd.
+2024-12-20T18:49:53.1804060-05:00|Added Female 58 Top with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\29\mp_f_freemode_01^jbib_029_u.ydd.
+2024-12-20T18:49:53.4909784-05:00|Added Female 59 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\30\mp_f_freemode_01^jbib_030_u.ydd.
+2024-12-20T18:49:53.5585291-05:00|Added Female 60 Top with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\31\mp_f_freemode_01^jbib_031_u.ydd.
+2024-12-20T18:49:53.7092102-05:00|Added Female 61 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\32\mp_f_freemode_01^jbib_032_u.ydd.
+2024-12-20T18:49:53.9617898-05:00|Added Female 62 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\33\mp_f_freemode_01^jbib_033_u.ydd.
+2024-12-20T18:49:54.3364014-05:00|Added Female 63 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\34\mp_f_freemode_01^jbib_034_u.ydd.
+2024-12-20T18:49:54.5917039-05:00|Added Female 64 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\35\mp_f_freemode_01^jbib_035_u.ydd.
+2024-12-20T18:49:54.8719035-05:00|Added Female 65 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\36\mp_f_freemode_01^jbib_036_u.ydd.
+2024-12-20T18:49:55.1870211-05:00|Added Female 66 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\37\mp_f_freemode_01^jbib_037_u.ydd.
+2024-12-20T18:49:55.4985450-05:00|Added Female 67 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\38\mp_f_freemode_01^jbib_038_u.ydd.
+2024-12-20T18:49:55.8783116-05:00|Added Female 68 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\39\mp_f_freemode_01^jbib_039_u.ydd.
+2024-12-20T18:49:56.3687701-05:00|Added Female 69 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\40\mp_f_freemode_01^jbib_040_u.ydd.
+2024-12-20T18:49:56.6271559-05:00|Added Female 70 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\41\mp_f_freemode_01^jbib_041_u.ydd.
+2024-12-20T18:49:57.8085624-05:00|Added Female 71 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\42\mp_f_freemode_01^jbib_042_u.ydd.
+2024-12-20T18:49:58.2047935-05:00|Added Female 72 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\43\mp_f_freemode_01^jbib_043_u.ydd.
+2024-12-20T18:49:58.7126567-05:00|Added Female 73 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\44\mp_f_freemode_01^jbib_044_u.ydd.
+2024-12-20T18:49:59.2090608-05:00|Added Female 74 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\45\mp_f_freemode_01^jbib_045_u.ydd.
+2024-12-20T18:49:59.5694309-05:00|Added Female 75 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\46\mp_f_freemode_01^jbib_046_u.ydd.
+2024-12-20T18:50:00.5520867-05:00|Added Female 76 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\47\mp_f_freemode_01^jbib_047_u.ydd.
+2024-12-20T18:50:00.6656993-05:00|Added Female 77 Top with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\48\mp_f_freemode_01^jbib_048_u.ydd.
+2024-12-20T18:50:00.8429377-05:00|Added Female 78 Top with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\49\mp_f_freemode_01^jbib_049_u.ydd.
+2024-12-20T18:50:00.9406630-05:00|Added Female 79 Top with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\50\mp_f_freemode_01^jbib_050_u.ydd.
+2024-12-20T18:50:01.0995568-05:00|Added Female 80 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\51\mp_f_freemode_01^jbib_051_u.ydd.
+2024-12-20T18:50:01.4158025-05:00|Added Female 81 Top with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\52\mp_f_freemode_01^jbib_052_u.ydd.
+2024-12-20T18:50:01.5510578-05:00|Added Female 82 Top with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\53\mp_f_freemode_01^jbib_053_u.ydd.
+2024-12-20T18:50:01.7950441-05:00|Added Female 83 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\54\mp_f_freemode_01^jbib_054_u.ydd.
+2024-12-20T18:50:03.0885255-05:00|Added Female 84 Top with 24 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\55\mp_f_freemode_01^jbib_055_u.ydd.
+2024-12-20T18:50:03.3459533-05:00|Added Female 85 Top with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\56\mp_f_freemode_01^jbib_056_u.ydd.
+2024-12-20T18:50:04.8030544-05:00|Added Female 86 Top with 18 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\57\mp_f_freemode_01^jbib_057_u.ydd.
+2024-12-20T18:50:05.7896863-05:00|Added Female 87 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\58\mp_f_freemode_01^jbib_058_u.ydd.
+2024-12-20T18:50:06.1690310-05:00|Added Female 88 Top with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\59\mp_f_freemode_01^jbib_059_u.ydd.
+2024-12-20T18:50:07.0575378-05:00|Added Female 89 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\60\mp_f_freemode_01^jbib_060_u.ydd.
+2024-12-20T18:50:07.5031758-05:00|Added Female 90 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\61\mp_f_freemode_01^jbib_061_u.ydd.
+2024-12-20T18:50:08.0213918-05:00|Added Female 91 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\62\mp_f_freemode_01^jbib_062_u.ydd.
+2024-12-20T18:50:08.8968309-05:00|Added Female 92 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\63\mp_f_freemode_01^jbib_063_u.ydd.
+2024-12-20T18:50:09.0352588-05:00|Added Female 93 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\64\mp_f_freemode_01^jbib_064_u.ydd.
+2024-12-20T18:50:09.1075950-05:00|Added Female 94 Top with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\65\mp_f_freemode_01^jbib_065_u.ydd.
+2024-12-20T18:50:09.3550738-05:00|Added Female 95 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\66\mp_f_freemode_01^jbib_066_u.ydd.
+2024-12-20T18:50:10.2241094-05:00|Added Female 96 Top with 24 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\67\mp_f_freemode_01^jbib_067_u.ydd.
+2024-12-20T18:50:11.0828732-05:00|Added Female 97 Top with 24 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\68\mp_f_freemode_01^jbib_068_u.ydd.
+2024-12-20T18:50:11.7994695-05:00|Added Female 98 Top with 22 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\69\mp_f_freemode_01^jbib_069_u.ydd.
+2024-12-20T18:50:11.8750555-05:00|Added Female 99 Top with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\70\mp_f_freemode_01^jbib_070_u.ydd.
+2024-12-20T18:50:12.3873786-05:00|Added Female 100 Top with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\71\mp_f_freemode_01^jbib_071_u.ydd.
+2024-12-20T18:50:12.6376788-05:00|Added Female 101 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\72\mp_f_freemode_01^jbib_072_u.ydd.
+2024-12-20T18:50:12.8952254-05:00|Added Female 102 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\73\mp_f_freemode_01^jbib_073_u.ydd.
+2024-12-20T18:50:13.3927348-05:00|Added Female 103 Top with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\74\mp_f_freemode_01^jbib_074_u.ydd.
+2024-12-20T18:50:13.8887095-05:00|Added Female 104 Top with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\75\mp_f_freemode_01^jbib_075_u.ydd.
+2024-12-20T18:50:14.1599310-05:00|Added Female 105 Top with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\76\mp_f_freemode_01^jbib_076_u.ydd.
+2024-12-20T18:50:14.4527831-05:00|Added Female 106 Top with 17 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\77\mp_f_freemode_01^jbib_077_u.ydd.
+2024-12-20T18:50:14.5727233-05:00|Added Female 107 Top with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\78\mp_f_freemode_01^jbib_078_u.ydd.
+2024-12-20T18:50:14.7076967-05:00|Added Female 108 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\79\mp_f_freemode_01^jbib_079_u.ydd.
+2024-12-20T18:50:15.1156520-05:00|Added Female 109 Top with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\80\mp_f_freemode_01^jbib_080_u.ydd.
+2024-12-20T18:50:15.6901571-05:00|Added Female 110 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\81\mp_f_freemode_01^jbib_081_u.ydd.
+2024-12-20T18:50:15.9886406-05:00|Added Female 111 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\82\mp_f_freemode_01^jbib_082_u.ydd.
+2024-12-20T18:50:16.1983715-05:00|Added Female 112 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\83\mp_f_freemode_01^jbib_083_u.ydd.
+2024-12-20T18:50:16.5523903-05:00|Added Female 113 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\84\mp_f_freemode_01^jbib_084_u.ydd.
+2024-12-20T18:50:16.8010735-05:00|Added Female 114 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\85\mp_f_freemode_01^jbib_085_u.ydd.
+2024-12-20T18:50:16.9331603-05:00|Added Female 115 Top with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\86\mp_f_freemode_01^jbib_086_u.ydd.
+2024-12-20T18:50:17.0775663-05:00|Added Female 116 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\87\mp_f_freemode_01^jbib_087_u.ydd.
+2024-12-20T18:50:17.3557352-05:00|Added Female 117 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\88\mp_f_freemode_01^jbib_088_u.ydd.
+2024-12-20T18:50:17.3897446-05:00|Added Female 118 Top with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\89\mp_f_freemode_01^jbib_089_u.ydd.
+2024-12-20T18:50:18.3926925-05:00|Added Female 119 Top with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\90\mp_f_freemode_01^jbib_090_u.ydd.
+2024-12-20T18:50:18.8549340-05:00|Added Female 120 Top with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\91\mp_f_freemode_01^jbib_091_u.ydd.
+2024-12-20T18:50:19.0216298-05:00|Added Female 121 Top with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\92\mp_f_freemode_01^jbib_092_u.ydd.
+2024-12-20T18:50:19.2245243-05:00|Added Female 122 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\93\mp_f_freemode_01^jbib_093_u.ydd.
+2024-12-20T18:50:19.7022742-05:00|Added Female 123 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\94\mp_f_freemode_01^jbib_094_u.ydd.
+2024-12-20T18:50:19.8660730-05:00|Added Female 124 Top with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\95\mp_f_freemode_01^jbib_095_u.ydd.
+2024-12-20T18:50:20.0629645-05:00|Added Female 125 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\96\mp_f_freemode_01^jbib_096_u.ydd.
+2024-12-20T18:50:21.1239040-05:00|Added Female 126 Top with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\97\mp_f_freemode_01^jbib_097_u.ydd.
+2024-12-20T18:50:21.5332692-05:00|Added Female 127 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\98\mp_f_freemode_01^jbib_098_u.ydd.
+2024-12-20T18:50:43.2895300-05:00|Added Female 128 Top with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\99\mp_f_freemode_01^jbib_099_u.ydd.
+2024-12-20T18:50:44.5171082-05:00|Added Female 129 Top with 21 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\100\mp_f_freemode_01^jbib_100_u.ydd.
+2024-12-20T18:50:47.1635631-05:00|Added Female 130 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\101\mp_f_freemode_01^jbib_101_u.ydd.
+2024-12-20T18:50:47.9472087-05:00|Added Female 131 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\102\mp_f_freemode_01^jbib_102_u.ydd.
+2024-12-20T18:50:54.0475732-05:00|Added Female 132 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\103\mp_f_freemode_01^jbib_103_u.ydd.
+2024-12-20T18:50:54.6954246-05:00|Added Female 133 Top with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\104\mp_f_freemode_01^jbib_104_u.ydd.
+2024-12-20T18:50:55.4571426-05:00|Added Female 134 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\105\mp_f_freemode_01^jbib_105_u.ydd.
+2024-12-20T18:50:56.0873768-05:00|Added Female 135 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\106\mp_f_freemode_01^jbib_106_u.ydd.
+2024-12-20T18:50:57.2313588-05:00|Added Female 136 Top with 23 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\107\mp_f_freemode_01^jbib_107_u.ydd.
+2024-12-20T18:50:57.9539811-05:00|Added Female 137 Top with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\108\mp_f_freemode_01^jbib_108_u.ydd.
+2024-12-20T18:50:58.8884839-05:00|Added Female 138 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\109\mp_f_freemode_01^jbib_109_u.ydd.
+2024-12-20T18:50:59.6410083-05:00|Added Female 139 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\110\mp_f_freemode_01^jbib_110_u.ydd.
+2024-12-20T18:51:00.4381271-05:00|Added Female 140 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\111\mp_f_freemode_01^jbib_111_u.ydd.
+2024-12-20T18:51:01.0045812-05:00|Added Female 141 Top with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\112\mp_f_freemode_01^jbib_112_u.ydd.
+2024-12-20T18:51:02.9464538-05:00|Added Female 142 Top with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\113\mp_f_freemode_01^jbib_113_u.ydd.
+2024-12-20T18:51:03.5981332-05:00|Added Female 143 Top with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\114\mp_f_freemode_01^jbib_114_u.ydd.
+2024-12-20T18:51:04.3234239-05:00|Added Female 144 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\115\mp_f_freemode_01^jbib_115_u.ydd.
+2024-12-20T18:51:04.9596060-05:00|Added Female 145 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\116\mp_f_freemode_01^jbib_116_u.ydd.
+2024-12-20T18:51:05.5372285-05:00|Added Female 146 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\117\mp_f_freemode_01^jbib_117_u.ydd.
+2024-12-20T18:51:06.4188613-05:00|Added Female 147 Top with 21 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\118\mp_f_freemode_01^jbib_118_u.ydd.
+2024-12-20T18:51:07.0044430-05:00|Added Female 148 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\119\mp_f_freemode_01^jbib_119_u.ydd.
+2024-12-20T18:51:07.9370666-05:00|Added Female 149 Top with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\120\mp_f_freemode_01^jbib_120_u.ydd.
+2024-12-20T18:51:15.3715661-05:00|Error: Aborted adding drawable of type Female Top, limit of 128 reached.
+2024-12-20T18:51:15.3974434-05:00|Error: Can't add any more drawables of type Top due to license or game drawable type limit. Skipped adding mp_f_freemode_01^jbib_121_u.ydd
+2024-12-20T18:51:15.4295324-05:00|Skipped adding drawable mp_f_freemode_01^jbib_122_u.ydd of type Top due to license or game drawable type limit.
+2024-12-20T18:51:15.4555482-05:00|Skipped adding drawable mp_f_freemode_01^jbib_123_u.ydd of type Top due to license or game drawable type limit.
+2024-12-20T18:51:15.5489204-05:00|Skipped adding drawable mp_f_freemode_01^jbib_124_u.ydd of type Top due to license or game drawable type limit.
+2024-12-20T18:51:15.6141077-05:00|Skipped adding drawable mp_f_freemode_01^jbib_125_u.ydd of type Top due to license or game drawable type limit.
+2024-12-20T18:51:15.6563845-05:00|Skipped adding drawable mp_f_freemode_01^jbib_126_u.ydd of type Top due to license or game drawable type limit.
+2024-12-20T18:51:15.6589085-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T18:51:47.6272988-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 120 new items and 0 new textures.
+2024-12-20T18:51:47.6375836-05:00|Found 126 Female cloth models
+2024-12-20T18:52:01.2644414-05:00|Project with 635 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T18:52:04.3999874-05:00|635 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (635 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T18:52:04.6729730-05:00|Loading all 5253 items, this can take a moment...
+2024-12-20T18:52:08.0657196-05:00|Finished loading all 5253 items.
+2024-12-20T18:52:08.1029256-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 5253 items and ready to rock (in 6.7922412 seconds).
+2024-12-20T18:52:40.0605791-05:00|Removed 120 items (See logs for full details). Total items: 515
+2024-12-20T18:52:54.3252663-05:00|Added Female 30 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\0\mp_f_freemode_01^jbib_000_u.ydd.
+2024-12-20T18:52:54.5650104-05:00|Added Female 31 Top with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\1\mp_f_freemode_01^jbib_001_u.ydd.
+2024-12-20T18:52:54.6431255-05:00|Added Female 32 Top with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\2\mp_f_freemode_01^jbib_002_u.ydd.
+2024-12-20T18:52:54.6651493-05:00|Added Female 33 Top with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\3\mp_f_freemode_01^jbib_003_u.ydd.
+2024-12-20T18:52:54.7101135-05:00|Added Female 34 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\4\mp_f_freemode_01^jbib_004_u.ydd.
+2024-12-20T18:52:54.7971987-05:00|Added Female 35 Top with 21 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\5\mp_f_freemode_01^jbib_005_u.ydd.
+2024-12-20T18:52:54.8203605-05:00|Added Female 36 Top with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\6\mp_f_freemode_01^jbib_006_u.ydd.
+2024-12-20T18:52:54.8753752-05:00|Added Female 37 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\7\mp_f_freemode_01^jbib_007_u.ydd.
+2024-12-20T18:52:54.9230680-05:00|Added Female 38 Top with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\8\mp_f_freemode_01^jbib_008_u.ydd.
+2024-12-20T18:52:54.9807077-05:00|Added Female 39 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\9\mp_f_freemode_01^jbib_009_u.ydd.
+2024-12-20T18:52:55.0175368-05:00|Added Female 40 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\10\mp_f_freemode_01^jbib_010_u.ydd.
+2024-12-20T18:52:55.0580401-05:00|Added Female 41 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\11\mp_f_freemode_01^jbib_011_u.ydd.
+2024-12-20T18:52:55.1074499-05:00|Added Female 42 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\12\mp_f_freemode_01^jbib_012_u.ydd.
+2024-12-20T18:52:55.1766557-05:00|Added Female 43 Top with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\13\mp_f_freemode_01^jbib_013_u.ydd.
+2024-12-20T18:52:55.2328823-05:00|Added Female 44 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\14\mp_f_freemode_01^jbib_014_u.ydd.
+2024-12-20T18:52:55.2817805-05:00|Added Female 45 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\15\mp_f_freemode_01^jbib_015_u.ydd.
+2024-12-20T18:52:55.3394752-05:00|Added Female 46 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\17\mp_f_freemode_01^jbib_017_u.ydd.
+2024-12-20T18:52:55.4495710-05:00|Added Female 47 Top with 17 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\18\mp_f_freemode_01^jbib_018_u.ydd.
+2024-12-20T18:52:55.4879764-05:00|Added Female 48 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\19\mp_f_freemode_01^jbib_019_u.ydd.
+2024-12-20T18:52:55.5272836-05:00|Added Female 49 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\20\mp_f_freemode_01^jbib_020_u.ydd.
+2024-12-20T18:52:55.5916804-05:00|Added Female 50 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\21\mp_f_freemode_01^jbib_021_u.ydd.
+2024-12-20T18:52:55.6338586-05:00|Added Female 51 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\22\mp_f_freemode_01^jbib_022_u.ydd.
+2024-12-20T18:52:55.6928771-05:00|Added Female 52 Top with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\23\mp_f_freemode_01^jbib_023_u.ydd.
+2024-12-20T18:52:55.7720058-05:00|Added Female 53 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\24\mp_f_freemode_01^jbib_024_u.ydd.
+2024-12-20T18:52:55.8397875-05:00|Added Female 54 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\25\mp_f_freemode_01^jbib_025_u.ydd.
+2024-12-20T18:52:55.8891152-05:00|Added Female 55 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\26\mp_f_freemode_01^jbib_026_u.ydd.
+2024-12-20T18:52:55.9668251-05:00|Added Female 56 Top with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\27\mp_f_freemode_01^jbib_027_u.ydd.
+2024-12-20T18:52:56.0735289-05:00|Added Female 57 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\28\mp_f_freemode_01^jbib_028_u.ydd.
+2024-12-20T18:52:56.1215432-05:00|Added Female 58 Top with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\29\mp_f_freemode_01^jbib_029_u.ydd.
+2024-12-20T18:52:56.2129166-05:00|Added Female 59 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\30\mp_f_freemode_01^jbib_030_u.ydd.
+2024-12-20T18:52:56.2439636-05:00|Added Female 60 Top with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\31\mp_f_freemode_01^jbib_031_u.ydd.
+2024-12-20T18:52:56.3037055-05:00|Added Female 61 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\32\mp_f_freemode_01^jbib_032_u.ydd.
+2024-12-20T18:52:56.3697979-05:00|Added Female 62 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\33\mp_f_freemode_01^jbib_033_u.ydd.
+2024-12-20T18:52:56.4257014-05:00|Added Female 63 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\34\mp_f_freemode_01^jbib_034_u.ydd.
+2024-12-20T18:52:56.4812146-05:00|Added Female 64 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\35\mp_f_freemode_01^jbib_035_u.ydd.
+2024-12-20T18:52:56.5272995-05:00|Added Female 65 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\36\mp_f_freemode_01^jbib_036_u.ydd.
+2024-12-20T18:52:56.5881758-05:00|Added Female 66 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\37\mp_f_freemode_01^jbib_037_u.ydd.
+2024-12-20T18:52:56.6845383-05:00|Added Female 67 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\38\mp_f_freemode_01^jbib_038_u.ydd.
+2024-12-20T18:52:56.7250989-05:00|Added Female 68 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\39\mp_f_freemode_01^jbib_039_u.ydd.
+2024-12-20T18:52:56.8188453-05:00|Added Female 69 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\40\mp_f_freemode_01^jbib_040_u.ydd.
+2024-12-20T18:52:56.8801399-05:00|Added Female 70 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\41\mp_f_freemode_01^jbib_041_u.ydd.
+2024-12-20T18:52:56.9539193-05:00|Added Female 71 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\42\mp_f_freemode_01^jbib_042_u.ydd.
+2024-12-20T18:52:57.0330681-05:00|Added Female 72 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\43\mp_f_freemode_01^jbib_043_u.ydd.
+2024-12-20T18:52:57.1006404-05:00|Added Female 73 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\44\mp_f_freemode_01^jbib_044_u.ydd.
+2024-12-20T18:52:57.1895505-05:00|Added Female 74 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\45\mp_f_freemode_01^jbib_045_u.ydd.
+2024-12-20T18:52:57.2484157-05:00|Added Female 75 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\46\mp_f_freemode_01^jbib_046_u.ydd.
+2024-12-20T18:52:57.2924955-05:00|Added Female 76 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\47\mp_f_freemode_01^jbib_047_u.ydd.
+2024-12-20T18:52:57.3157988-05:00|Added Female 77 Top with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\48\mp_f_freemode_01^jbib_048_u.ydd.
+2024-12-20T18:52:57.3629807-05:00|Added Female 78 Top with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\49\mp_f_freemode_01^jbib_049_u.ydd.
+2024-12-20T18:52:57.4158406-05:00|Added Female 79 Top with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\50\mp_f_freemode_01^jbib_050_u.ydd.
+2024-12-20T18:52:57.4729113-05:00|Added Female 80 Top with 8 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\51\mp_f_freemode_01^jbib_051_u.ydd.
+2024-12-20T18:52:57.5004320-05:00|Added Female 81 Top with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\52\mp_f_freemode_01^jbib_052_u.ydd.
+2024-12-20T18:52:57.5264215-05:00|Added Female 82 Top with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\53\mp_f_freemode_01^jbib_053_u.ydd.
+2024-12-20T18:52:57.6028899-05:00|Added Female 83 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\54\mp_f_freemode_01^jbib_054_u.ydd.
+2024-12-20T18:52:57.6975953-05:00|Added Female 84 Top with 24 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\55\mp_f_freemode_01^jbib_055_u.ydd.
+2024-12-20T18:52:57.7360466-05:00|Added Female 85 Top with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\56\mp_f_freemode_01^jbib_056_u.ydd.
+2024-12-20T18:52:57.8247523-05:00|Added Female 86 Top with 18 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\57\mp_f_freemode_01^jbib_057_u.ydd.
+2024-12-20T18:52:57.8976402-05:00|Added Female 87 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\58\mp_f_freemode_01^jbib_058_u.ydd.
+2024-12-20T18:52:57.9756838-05:00|Added Female 88 Top with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\59\mp_f_freemode_01^jbib_059_u.ydd.
+2024-12-20T18:52:58.0510427-05:00|Added Female 89 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\60\mp_f_freemode_01^jbib_060_u.ydd.
+2024-12-20T18:52:58.1174239-05:00|Added Female 90 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\61\mp_f_freemode_01^jbib_061_u.ydd.
+2024-12-20T18:52:58.1861267-05:00|Added Female 91 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\62\mp_f_freemode_01^jbib_062_u.ydd.
+2024-12-20T18:52:58.2200767-05:00|Added Female 92 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\63\mp_f_freemode_01^jbib_063_u.ydd.
+2024-12-20T18:52:58.2755264-05:00|Added Female 93 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\64\mp_f_freemode_01^jbib_064_u.ydd.
+2024-12-20T18:52:58.3050271-05:00|Added Female 94 Top with 2 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\65\mp_f_freemode_01^jbib_065_u.ydd.
+2024-12-20T18:52:58.3732552-05:00|Added Female 95 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\66\mp_f_freemode_01^jbib_066_u.ydd.
+2024-12-20T18:52:58.4618922-05:00|Added Female 96 Top with 24 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\67\mp_f_freemode_01^jbib_067_u.ydd.
+2024-12-20T18:52:58.5542277-05:00|Added Female 97 Top with 24 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\68\mp_f_freemode_01^jbib_068_u.ydd.
+2024-12-20T18:52:58.6464669-05:00|Added Female 98 Top with 22 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\69\mp_f_freemode_01^jbib_069_u.ydd.
+2024-12-20T18:52:58.6791137-05:00|Added Female 99 Top with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\70\mp_f_freemode_01^jbib_070_u.ydd.
+2024-12-20T18:52:58.7602371-05:00|Added Female 100 Top with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\71\mp_f_freemode_01^jbib_071_u.ydd.
+2024-12-20T18:52:58.8383603-05:00|Added Female 101 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\72\mp_f_freemode_01^jbib_072_u.ydd.
+2024-12-20T18:52:58.9048080-05:00|Added Female 102 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\73\mp_f_freemode_01^jbib_073_u.ydd.
+2024-12-20T18:52:58.9705362-05:00|Added Female 103 Top with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\74\mp_f_freemode_01^jbib_074_u.ydd.
+2024-12-20T18:52:59.0347559-05:00|Added Female 104 Top with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\75\mp_f_freemode_01^jbib_075_u.ydd.
+2024-12-20T18:52:59.0953683-05:00|Added Female 105 Top with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\76\mp_f_freemode_01^jbib_076_u.ydd.
+2024-12-20T18:52:59.1653945-05:00|Added Female 106 Top with 17 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\77\mp_f_freemode_01^jbib_077_u.ydd.
+2024-12-20T18:52:59.2029099-05:00|Added Female 107 Top with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\78\mp_f_freemode_01^jbib_078_u.ydd.
+2024-12-20T18:52:59.2644647-05:00|Added Female 108 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\79\mp_f_freemode_01^jbib_079_u.ydd.
+2024-12-20T18:52:59.3352777-05:00|Added Female 109 Top with 14 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\80\mp_f_freemode_01^jbib_080_u.ydd.
+2024-12-20T18:52:59.4054068-05:00|Added Female 110 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\81\mp_f_freemode_01^jbib_081_u.ydd.
+2024-12-20T18:52:59.4892661-05:00|Added Female 111 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\82\mp_f_freemode_01^jbib_082_u.ydd.
+2024-12-20T18:52:59.5257266-05:00|Added Female 112 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\83\mp_f_freemode_01^jbib_083_u.ydd.
+2024-12-20T18:52:59.5838501-05:00|Added Female 113 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\84\mp_f_freemode_01^jbib_084_u.ydd.
+2024-12-20T18:52:59.6511715-05:00|Added Female 114 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\85\mp_f_freemode_01^jbib_085_u.ydd.
+2024-12-20T18:52:59.6890279-05:00|Added Female 115 Top with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\86\mp_f_freemode_01^jbib_086_u.ydd.
+2024-12-20T18:52:59.7750561-05:00|Added Female 116 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\87\mp_f_freemode_01^jbib_087_u.ydd.
+2024-12-20T18:52:59.8514258-05:00|Added Female 117 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\88\mp_f_freemode_01^jbib_088_u.ydd.
+2024-12-20T18:52:59.8659929-05:00|Added Female 118 Top with 1 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\89\mp_f_freemode_01^jbib_089_u.ydd.
+2024-12-20T18:52:59.9391575-05:00|Added Female 119 Top with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\90\mp_f_freemode_01^jbib_090_u.ydd.
+2024-12-20T18:53:00.0531545-05:00|Added Female 120 Top with 26 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\91\mp_f_freemode_01^jbib_091_u.ydd.
+2024-12-20T18:53:00.0830514-05:00|Added Female 121 Top with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\92\mp_f_freemode_01^jbib_092_u.ydd.
+2024-12-20T18:53:00.1493487-05:00|Added Female 122 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\93\mp_f_freemode_01^jbib_093_u.ydd.
+2024-12-20T18:53:00.2060508-05:00|Added Female 123 Top with 12 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\94\mp_f_freemode_01^jbib_094_u.ydd.
+2024-12-20T18:53:00.2389309-05:00|Added Female 124 Top with 3 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\95\mp_f_freemode_01^jbib_095_u.ydd.
+2024-12-20T18:53:00.3113316-05:00|Added Female 125 Top with 11 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\96\mp_f_freemode_01^jbib_096_u.ydd.
+2024-12-20T18:53:00.3764740-05:00|Added Female 126 Top with 13 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\97\mp_f_freemode_01^jbib_097_u.ydd.
+2024-12-20T18:53:00.4511537-05:00|Added Female 127 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\98\mp_f_freemode_01^jbib_098_u.ydd.
+2024-12-20T18:53:02.4938284-05:00|Added Female 128 Top with 15 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\99\mp_f_freemode_01^jbib_099_u.ydd.
+2024-12-20T18:53:03.1093949-05:00|Added Female 129 Top with 21 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\100\mp_f_freemode_01^jbib_100_u.ydd.
+2024-12-20T18:53:03.1096572-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T18:53:26.9410326-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 100 new items and 0 new textures.
+2024-12-20T18:53:26.9766052-05:00|Found 100 Female cloth models
+2024-12-20T18:53:57.7262912-05:00|Removed 'Top' (See logs for full details). Total items: 614
+2024-12-20T18:54:03.8388109-05:00|Removed 'Top' (See logs for full details). Total items: 613
+2024-12-20T18:54:13.5699048-05:00|Successfully backed up project 2024-12-20 18:54:13.
+2024-12-20T18:54:19.2180837-05:00|Removed 'Top' (See logs for full details). Total items: 612
+2024-12-20T18:54:23.9851455-05:00|Removed 'Top' (See logs for full details). Total items: 611
+2024-12-20T18:54:30.4949385-05:00|Removed 'Top' (See logs for full details). Total items: 610
+2024-12-20T18:54:34.0528223-05:00|Removed 'Top' (See logs for full details). Total items: 609
+2024-12-20T18:54:49.4584631-05:00|Removed 'Top' (See logs for full details). Total items: 608
+2024-12-20T18:55:13.5731377-05:00|Successfully backed up project 2024-12-20 18:55:13.
+2024-12-20T18:56:13.5628818-05:00|Successfully backed up project 2024-12-20 18:56:13.
+2024-12-20T18:57:13.5593087-05:00|Successfully backed up project 2024-12-20 18:57:13.
+2024-12-20T18:58:13.5648091-05:00|Successfully backed up project 2024-12-20 18:58:13.
+2024-12-20T18:58:57.8933537-05:00|Removed 'Top' (See logs for full details). Total items: 607
+2024-12-20T18:59:13.5582037-05:00|Successfully backed up project 2024-12-20 18:59:13.
+2024-12-20T19:00:13.5621888-05:00|Successfully backed up project 2024-12-20 19:00:13.
+2024-12-20T19:01:13.5595260-05:00|Successfully backed up project 2024-12-20 19:01:13.
+2024-12-20T19:02:13.5638162-05:00|Successfully backed up project 2024-12-20 19:02:13.
+2024-12-20T19:03:13.5806244-05:00|Successfully backed up project 2024-12-20 19:03:13.
+2024-12-20T19:04:13.5541475-05:00|Successfully backed up project 2024-12-20 19:04:13.
+2024-12-20T19:04:26.0285552-05:00|Successfully exported cloth texture ''a'' as PNG to D:\hihip\Downloads.
+2024-12-20T19:05:13.5683422-05:00|Successfully backed up project 2024-12-20 19:05:13.
+2024-12-20T19:06:13.5646840-05:00|Successfully backed up project 2024-12-20 19:06:13.
+2024-12-20T19:07:13.5696965-05:00|Successfully backed up project 2024-12-20 19:07:13.
+2024-12-20T19:08:13.5647611-05:00|Successfully backed up project 2024-12-20 19:08:13.
+2024-12-20T19:09:13.5590863-05:00|Successfully backed up project 2024-12-20 19:09:13.
+2024-12-20T19:10:13.5583439-05:00|Successfully backed up project 2024-12-20 19:10:13.
+2024-12-20T19:11:13.5670212-05:00|Successfully backed up project 2024-12-20 19:11:13.
+2024-12-20T19:12:13.5658420-05:00|Successfully backed up project 2024-12-20 19:12:13.
+2024-12-20T19:13:13.5706420-05:00|Successfully backed up project 2024-12-20 19:13:13.
+2024-12-20T19:14:13.5584836-05:00|Successfully backed up project 2024-12-20 19:14:13.
+2024-12-20T19:15:13.5577229-05:00|Successfully backed up project 2024-12-20 19:15:13.
+2024-12-20T19:16:13.5610459-05:00|Successfully backed up project 2024-12-20 19:16:13.
+2024-12-20T19:17:13.5623517-05:00|Successfully backed up project 2024-12-20 19:17:13.
+2024-12-20T19:18:11.4884504-05:00|Successfully backed up project 2024-12-20 19:18:11.
+2024-12-20T19:19:11.4923944-05:00|Successfully backed up project 2024-12-20 19:19:11.
+2024-12-20T19:20:11.5060223-05:00|Successfully backed up project 2024-12-20 19:20:11.
+2024-12-20T19:21:11.4958399-05:00|Successfully backed up project 2024-12-20 19:21:11.
+2024-12-20T19:22:11.4887443-05:00|Successfully backed up project 2024-12-20 19:22:11.
+2024-12-20T19:23:11.4914350-05:00|Successfully backed up project 2024-12-20 19:23:11.
+2024-12-20T19:24:11.4947163-05:00|Successfully backed up project 2024-12-20 19:24:11.
+2024-12-20T19:25:11.4915456-05:00|Successfully backed up project 2024-12-20 19:25:11.
+2024-12-20T19:26:11.4899757-05:00|Successfully backed up project 2024-12-20 19:26:11.
+2024-12-20T19:27:11.4923426-05:00|Successfully backed up project 2024-12-20 19:27:11.
+2024-12-20T19:28:11.4928403-05:00|Successfully backed up project 2024-12-20 19:28:11.
+2024-12-20T19:29:11.5184890-05:00|Successfully backed up project 2024-12-20 19:29:11.
+2024-12-20T19:30:11.4961178-05:00|Successfully backed up project 2024-12-20 19:30:11.
+2024-12-20T19:30:34.8593514-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T19:30:35.3214080-05:00|Added texture 1_Copy2.ytd to 'Female 55 Top' (Top) at pos 55
+2024-12-20T19:30:39.7203900-05:00|Trying to optimize texture 'i' of 'Female 55 Top' (Top) at pos 55 ...
+2024-12-20T19:30:40.5084880-05:00|Texture 'i' (5e8dbd7c-512f-46a6-b3f5-721dcacc1392.ytd) file got successfully updated to 3117ac92-6fad-4050-9552-c0b5f5b23d96.ytd.
+2024-12-20T19:30:40.5456282-05:00|Texture 1_Copy2 optimized from 683 KB to 212 KB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 1024px/2048px => 1024px/2048px, mip maps 12 => 12
+2024-12-20T19:30:40.5683291-05:00|Successfully optimized drawable texture 'i' of 'Female 55 Top' (Top) at pos 55
+2024-12-20T19:31:11.4956864-05:00|Successfully backed up project 2024-12-20 19:31:11.
+2024-12-20T19:32:11.4923948-05:00|Successfully backed up project 2024-12-20 19:32:11.
+2024-12-20T19:32:32.6966970-05:00|Successfully exported cloth texture ''n'' as PNG to D:\hihip\Downloads.
+2024-12-20T19:33:11.4934740-05:00|Successfully backed up project 2024-12-20 19:33:11.
+2024-12-20T19:34:11.4958570-05:00|Successfully backed up project 2024-12-20 19:34:11.
+2024-12-20T19:34:44.5320893-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T19:34:45.1270629-05:00|Added texture 13.ytd to 'Female 56 Top' (Top) at pos 56
+2024-12-20T19:34:48.8538511-05:00|Trying to optimize texture 'o' of 'Female 56 Top' (Top) at pos 56 ...
+2024-12-20T19:34:49.6103564-05:00|Texture 'o' (2713be59-a57a-499f-b2e2-5aead8b6aaf8.ytd) file got successfully updated to 83ea463b-5f12-4f69-b025-46bb801849b5.ytd.
+2024-12-20T19:34:49.6346010-05:00|Texture 13 optimized from 391 KB to 179 KB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 1024px/2048px => 1024px/2048px, mip maps 12 => 12
+2024-12-20T19:34:49.6416678-05:00|Successfully optimized drawable texture 'o' of 'Female 56 Top' (Top) at pos 56
+2024-12-20T19:35:11.5024497-05:00|Successfully backed up project 2024-12-20 19:35:11.
+2024-12-20T19:36:11.4959789-05:00|Successfully backed up project 2024-12-20 19:36:11.
+2024-12-20T19:37:11.4918604-05:00|Successfully backed up project 2024-12-20 19:37:11.
+2024-12-20T19:37:58.3539634-05:00|Successfully exported cloth texture ''g'' as PNG to D:\hihip\Downloads.
+2024-12-20T19:38:11.4937228-05:00|Successfully backed up project 2024-12-20 19:38:11.
+2024-12-20T19:39:11.4978053-05:00|Successfully backed up project 2024-12-20 19:39:11.
+2024-12-20T19:40:11.4896766-05:00|Successfully backed up project 2024-12-20 19:40:11.
+2024-12-20T19:41:11.4929879-05:00|Successfully backed up project 2024-12-20 19:41:11.
+2024-12-20T19:41:35.1270447-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T19:41:35.1990609-05:00|Added texture jbib_diff_012_g_uni.ytd to 'Female 59 Top' (Top) at pos 59
+2024-12-20T19:41:41.7089880-05:00|Trying to optimize texture 'i' of 'Female 59 Top' (Top) at pos 59 ...
+2024-12-20T19:41:41.8317827-05:00|Texture 'i' (a0318c22-37bc-4900-8005-a03128566578.ytd) file got successfully updated to 8241e621-3220-4dc3-abf2-b8b0c1aed618.ytd.
+2024-12-20T19:41:41.8429907-05:00|Texture jbib_diff_012_g_uni optimized from 117 KB to 46 KB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 512px/1024px => 512px/1024px, mip maps 11 => 11
+2024-12-20T19:41:41.8454992-05:00|Successfully optimized drawable texture 'i' of 'Female 59 Top' (Top) at pos 59
+2024-12-20T19:42:11.5552194-05:00|Successfully backed up project 2024-12-20 19:42:11.
+2024-12-20T19:43:11.4974544-05:00|Successfully backed up project 2024-12-20 19:43:11.
+2024-12-20T19:44:11.4954725-05:00|Successfully backed up project 2024-12-20 19:44:11.
+2024-12-20T19:44:42.8007745-05:00|Successfully exported cloth texture ''a'' as PNG to D:\hihip\Downloads\New folder (2).
+2024-12-20T19:45:11.4981910-05:00|Successfully backed up project 2024-12-20 19:45:11.
+2024-12-20T19:45:20.9709907-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T19:45:26.2439062-05:00|Added texture S4_3453CF95_80000000_0B7AA943EFF4CF3B%%+RLE2.ytd to 'Female 67 Top' (Top) at pos 67
+2024-12-20T19:45:33.8435375-05:00|Trying to optimize texture 'a' of 'Female 67 Top' (Top) at pos 67 ...
+2024-12-20T19:45:39.7847752-05:00|Texture 'a' (5a4d62b7-fd3d-4a92-9e5f-9965989b77db.ytd) file got successfully updated to 2764bcb9-379b-46cf-956b-51fe874886ba.ytd.
+2024-12-20T19:45:39.9852714-05:00|Texture S4_3453CF95_80000000_0B7AA943EFF4CF3B%%+RLE2 optimized from 3 MB to 1 MB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 4268px/8536px => 4268px/8536px, mip maps 14 => 14
+2024-12-20T19:45:39.9872060-05:00|Successfully optimized drawable texture 'a' of 'Female 67 Top' (Top) at pos 67
+2024-12-20T19:45:40.1361829-05:00|Trying to optimize texture 'a' of 'Female 67 Top' (Top) at pos 67 ...
+2024-12-20T19:45:44.9993515-05:00|Texture 'a' (2764bcb9-379b-46cf-956b-51fe874886ba.ytd) file got successfully updated to b16473ed-a807-4b9d-84f8-b18ed5f28c35.ytd.
+2024-12-20T19:45:45.1920052-05:00|Texture S4_3453CF95_80000000_0B7AA943EFF4CF3B%%+RLE2 optimized from 1 MB to 1 MB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 4268px/8536px => 4268px/8536px, mip maps 14 => 14
+2024-12-20T19:45:45.1947783-05:00|Successfully optimized drawable texture 'a' of 'Female 67 Top' (Top) at pos 67
+2024-12-20T19:46:11.4975505-05:00|Successfully backed up project 2024-12-20 19:46:11.
+2024-12-20T19:47:11.4894110-05:00|Successfully backed up project 2024-12-20 19:47:11.
+2024-12-20T19:48:11.5140451-05:00|Successfully backed up project 2024-12-20 19:48:11.
+2024-12-20T19:49:11.4979855-05:00|Successfully backed up project 2024-12-20 19:49:11.
+2024-12-20T19:50:11.4949256-05:00|Successfully backed up project 2024-12-20 19:50:11.
+2024-12-20T19:51:11.4990763-05:00|Successfully backed up project 2024-12-20 19:51:11.
+2024-12-20T19:52:11.4944889-05:00|Successfully backed up project 2024-12-20 19:52:11.
+2024-12-20T19:53:11.4900365-05:00|Successfully backed up project 2024-12-20 19:53:11.
+2024-12-20T19:54:11.4918469-05:00|Successfully backed up project 2024-12-20 19:54:11.
+2024-12-20T19:55:11.4932835-05:00|Successfully backed up project 2024-12-20 19:55:11.
+2024-12-20T19:55:32.3984542-05:00|Successfully exported cloth texture ''i'' as PNG to D:\hihip\Downloads\New folder (2).
+2024-12-20T19:56:11.5097003-05:00|Successfully backed up project 2024-12-20 19:56:11.
+2024-12-20T19:56:15.5208193-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T19:56:16.3186619-05:00|Added texture Swatch_9_Diffuse_1.ytd to 'Female 71 Top' (Top) at pos 71
+2024-12-20T19:56:22.6130034-05:00|Trying to optimize texture 'a' of 'Female 71 Top' (Top) at pos 71 ...
+2024-12-20T19:56:23.7318209-05:00|Texture 'a' (ca29d575-4a0c-4af9-b9ec-ee61d7364b37.ytd) file got successfully updated to ce8708b1-cd82-4d70-b4b5-d177fdd0830c.ytd.
+2024-12-20T19:56:23.8031412-05:00|Texture Swatch_9_Diffuse_1 optimized from 278 KB to 147 KB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 1024px/2048px => 1024px/2048px, mip maps 12 => 12
+2024-12-20T19:56:23.8131263-05:00|Successfully optimized drawable texture 'a' of 'Female 71 Top' (Top) at pos 71
+2024-12-20T19:56:23.8218600-05:00|Trying to optimize texture 'a' of 'Female 71 Top' (Top) at pos 71 ...
+2024-12-20T19:56:24.5540070-05:00|Texture 'a' (ce8708b1-cd82-4d70-b4b5-d177fdd0830c.ytd) file got successfully updated to 4d55e486-4752-41f3-9854-8e10be04123d.ytd.
+2024-12-20T19:56:24.5703094-05:00|Texture Swatch_9_Diffuse_1 optimized from 147 KB to 148 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 1024px/2048px => 1024px/2048px, mip maps 12 => 12
+2024-12-20T19:56:24.5722193-05:00|Successfully optimized drawable texture 'a' of 'Female 71 Top' (Top) at pos 71
+2024-12-20T19:57:09.8770574-05:00|Successfully exported cloth texture ''i'' as PNG to D:\hihip\Downloads\New folder (2).
+2024-12-20T19:57:11.4955234-05:00|Successfully backed up project 2024-12-20 19:57:11.
+2024-12-20T19:58:11.4932823-05:00|Successfully backed up project 2024-12-20 19:58:11.
+2024-12-20T19:58:25.8169384-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T19:58:29.3653307-05:00|Added texture S4_3453CF95_80000000_0B7AA943EFF4CF3B%%+RLE2.ytd to 'Female 73 Top' (Top) at pos 73
+2024-12-20T19:58:31.8492643-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T19:58:33.9726275-05:00|(Auto) Skipped adding possible duplicate texture of 'k' from 'Female 73 Top' (Top) at pos 73
+2024-12-20T19:58:42.2653080-05:00|Trying to optimize texture 'k' of 'Female 73 Top' (Top) at pos 73 ...
+2024-12-20T19:58:47.1088802-05:00|Texture 'k' (167e1f13-23b4-492b-b6ae-d6a7dfe5acbf.ytd) file got successfully updated to 7176ce93-0ea3-450c-8590-d214a93b1855.ytd.
+2024-12-20T19:58:47.2242235-05:00|Texture S4_3453CF95_80000000_0B7AA943EFF4CF3B%%+RLE2 optimized from 3 MB to 1 MB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 4268px/8536px => 4268px/8536px, mip maps 14 => 14
+2024-12-20T19:58:47.2357988-05:00|Successfully optimized drawable texture 'k' of 'Female 73 Top' (Top) at pos 73
+2024-12-20T19:59:01.1115980-05:00|Removed texture 'k' from 'Female 73 Top' (Top) at pos 73
+2024-12-20T19:59:01.3700711-05:00|1 texture(s) deleted.
+2024-12-20T19:59:07.4265050-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T19:59:08.8134577-05:00|Added texture jbib_diff_023_j_uni.ytd to 'Female 73 Top' (Top) at pos 73
+2024-12-20T19:59:11.5288328-05:00|Successfully backed up project 2024-12-20 19:59:11.
+2024-12-20T19:59:14.7849112-05:00|Trying to optimize texture 'k' of 'Female 73 Top' (Top) at pos 73 ...
+2024-12-20T19:59:16.4442965-05:00|Texture 'k' (bb7c0554-8741-4c5f-b51e-81431d76b835.ytd) file got successfully updated to a5496fef-b5b8-492e-881c-0e3309f31bb0.ytd.
+2024-12-20T19:59:16.6229658-05:00|Texture jbib_diff_023_j_uni optimized from 1 MB to 534 KB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 2048px/4096px => 2048px/4096px, mip maps 13 => 13
+2024-12-20T19:59:16.6416167-05:00|Successfully optimized drawable texture 'k' of 'Female 73 Top' (Top) at pos 73
+2024-12-20T19:59:43.3501103-05:00|Successfully exported cloth texture ''j'' as PNG to D:\hihip\Downloads\New folder (2).
+2024-12-20T20:00:11.4942762-05:00|Successfully backed up project 2024-12-20 20:00:11.
+2024-12-20T20:00:14.2752449-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T20:00:15.2558904-05:00|Added texture S4_3453CF95_80000000_F2EC97B713948152%%+RLE2.ytd to 'Female 75 Top' (Top) at pos 75
+2024-12-20T20:00:21.0490786-05:00|Trying to optimize texture 'k' of 'Female 75 Top' (Top) at pos 75 ...
+2024-12-20T20:00:22.7546356-05:00|Texture 'k' (395da0b5-dab3-4b71-bba0-7cbeead0a7bc.ytd) file got successfully updated to d50a77e7-4438-4d88-b8be-7819afaa90b5.ytd.
+2024-12-20T20:00:22.8221789-05:00|Texture S4_3453CF95_80000000_F2EC97B713948152%%+RLE2 optimized from 263 KB to 202 KB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 2048px/4096px => 2048px/4096px, mip maps 13 => 13
+2024-12-20T20:00:22.8279455-05:00|Successfully optimized drawable texture 'k' of 'Female 75 Top' (Top) at pos 75
+2024-12-20T20:00:50.1144244-05:00|Successfully exported cloth texture ''b'' as PNG to D:\hihip\Downloads\New folder (2).
+2024-12-20T20:01:06.7199420-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T20:01:06.8117095-05:00|Added texture jbib_diff_014_b_uni.ytd to 'Female 77 Top' (Top) at pos 77
+2024-12-20T20:01:09.5981314-05:00|Removed texture 'b' from 'Female 77 Top' (Top) at pos 77
+2024-12-20T20:01:09.8163337-05:00|1 texture(s) deleted.
+2024-12-20T20:01:11.4978340-05:00|Successfully backed up project 2024-12-20 20:01:11.
+2024-12-20T20:01:12.9174250-05:00|Trying to optimize texture 'c' of 'Female 77 Top' (Top) at pos 77 ...
+2024-12-20T20:01:13.1317821-05:00|Texture 'c' (913f44f6-249c-45f3-a8f6-bc2e1ab68dff.ytd) file got successfully updated to a79b714e-d283-461a-bbdc-723094c8dd79.ytd.
+2024-12-20T20:01:13.1448270-05:00|Texture jbib_diff_014_b_uni optimized from 78 KB to 40 KB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 512px/1024px => 512px/1024px, mip maps 11 => 11
+2024-12-20T20:01:13.1468609-05:00|Successfully optimized drawable texture 'c' of 'Female 77 Top' (Top) at pos 77
+2024-12-20T20:01:36.9609912-05:00|Removed 'Top' (See logs for full details). Total items: 606
+2024-12-20T20:02:11.5036985-05:00|Successfully backed up project 2024-12-20 20:02:11.
+2024-12-20T20:02:57.2737544-05:00|Removed 'Top' (See logs for full details). Total items: 605
+2024-12-20T20:03:11.5042593-05:00|Successfully backed up project 2024-12-20 20:03:11.
+2024-12-20T20:03:23.0178968-05:00|Removed 'Top' (See logs for full details). Total items: 604
+2024-12-20T20:03:32.5139876-05:00|Removed texture 'v' from 'Female 96 Top' (Top) at pos 96
+2024-12-20T20:03:32.6641225-05:00|Removed texture 'w' from 'Female 96 Top' (Top) at pos 96
+2024-12-20T20:03:33.4682044-05:00|Removed texture 'x' from 'Female 96 Top' (Top) at pos 96
+2024-12-20T20:03:33.6744892-05:00|3 texture(s) deleted.
+2024-12-20T20:03:40.9142227-05:00|Removed texture 'q' from 'Female 96 Top' (Top) at pos 96
+2024-12-20T20:03:41.0673948-05:00|1 texture(s) deleted.
+2024-12-20T20:03:45.8360285-05:00|Removed texture 'p' from 'Female 96 Top' (Top) at pos 96
+2024-12-20T20:03:46.0878722-05:00|1 texture(s) deleted.
+2024-12-20T20:03:51.4444229-05:00|Removed texture 'm' from 'Female 96 Top' (Top) at pos 96
+2024-12-20T20:03:51.5931921-05:00|1 texture(s) deleted.
+2024-12-20T20:04:02.8324372-05:00|Removed texture 'g' from 'Female 96 Top' (Top) at pos 96
+2024-12-20T20:04:02.8652198-05:00|Removed texture 'h' from 'Female 96 Top' (Top) at pos 96
+2024-12-20T20:04:02.8975675-05:00|Removed texture 'i' from 'Female 96 Top' (Top) at pos 96
+2024-12-20T20:04:03.3801937-05:00|Removed texture 'j' from 'Female 96 Top' (Top) at pos 96
+2024-12-20T20:04:03.5636855-05:00|4 texture(s) deleted.
+2024-12-20T20:04:11.4938121-05:00|Successfully backed up project 2024-12-20 20:04:11.
+2024-12-20T20:05:11.4979570-05:00|Successfully backed up project 2024-12-20 20:05:11.
+2024-12-20T20:05:39.6957828-05:00|Successfully exported cloth texture ''a'' as PNG to D:\hihip\Downloads\New folder (2).
+2024-12-20T20:05:59.0978019-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T20:05:59.3262366-05:00|Added texture jbib_diff_005_a_uni.ytd to 'Female 109 Top' (Top) at pos 109
+2024-12-20T20:06:03.7410141-05:00|Trying to optimize texture 'o' of 'Female 109 Top' (Top) at pos 109 ...
+2024-12-20T20:06:04.1298398-05:00|Texture 'o' (d4dd8cef-590a-4085-aae3-e04efd0f349c.ytd) file got successfully updated to 938a7134-7c5d-43ec-af82-dffcfb326ce6.ytd.
+2024-12-20T20:06:04.1573601-05:00|Texture jbib_diff_005_a_uni optimized from 153 KB to 92 KB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 1024px/2048px => 1024px/2048px, mip maps 12 => 12
+2024-12-20T20:06:04.1624576-05:00|Successfully optimized drawable texture 'o' of 'Female 109 Top' (Top) at pos 109
+2024-12-20T20:06:11.5020699-05:00|Successfully backed up project 2024-12-20 20:06:11.
+2024-12-20T20:07:11.5011256-05:00|Successfully backed up project 2024-12-20 20:07:11.
+2024-12-20T20:08:11.4938757-05:00|Successfully backed up project 2024-12-20 20:08:11.
+2024-12-20T20:08:34.1522815-05:00|Removed 'Top' (See logs for full details). Total items: 603
+2024-12-20T20:08:48.9098932-05:00|Changed position of 'Female 32 Top' (Top) at pos 32 to 31.
+2024-12-20T20:08:48.9781420-05:00|Changed position of 'Female 34 Top' (Top) at pos 34 to 32.
+2024-12-20T20:08:49.0060796-05:00|Changed position of 'Female 35 Top' (Top) at pos 35 to 33.
+2024-12-20T20:08:49.0292722-05:00|Changed position of 'Female 36 Top' (Top) at pos 36 to 34.
+2024-12-20T20:08:49.0570658-05:00|Changed position of 'Female 39 Top' (Top) at pos 39 to 35.
+2024-12-20T20:08:49.0806369-05:00|Changed position of 'Female 42 Top' (Top) at pos 42 to 36.
+2024-12-20T20:08:49.1018999-05:00|Changed position of 'Female 43 Top' (Top) at pos 43 to 37.
+2024-12-20T20:08:49.1256658-05:00|Changed position of 'Female 45 Top' (Top) at pos 45 to 38.
+2024-12-20T20:08:49.1503194-05:00|Changed position of 'Female 46 Top' (Top) at pos 46 to 39.
+2024-12-20T20:08:49.1739747-05:00|Changed position of 'Female 47 Top' (Top) at pos 47 to 40.
+2024-12-20T20:08:49.1957838-05:00|Changed position of 'Female 48 Top' (Top) at pos 48 to 41.
+2024-12-20T20:08:49.2130960-05:00|Changed position of 'Female 49 Top' (Top) at pos 49 to 42.
+2024-12-20T20:08:49.2364707-05:00|Changed position of 'Female 51 Top' (Top) at pos 51 to 43.
+2024-12-20T20:08:49.2635940-05:00|Changed position of 'Female 52 Top' (Top) at pos 52 to 44.
+2024-12-20T20:08:49.2880812-05:00|Changed position of 'Female 53 Top' (Top) at pos 53 to 45.
+2024-12-20T20:08:49.3059790-05:00|Changed position of 'Female 54 Top' (Top) at pos 54 to 46.
+2024-12-20T20:08:49.3266958-05:00|Changed position of 'Female 55 Top' (Top) at pos 55 to 47.
+2024-12-20T20:08:49.3475447-05:00|Changed position of 'Female 56 Top' (Top) at pos 56 to 48.
+2024-12-20T20:08:49.3887226-05:00|Changed position of 'Female 57 Top' (Top) at pos 57 to 49.
+2024-12-20T20:08:49.4139259-05:00|Changed position of 'Female 58 Top' (Top) at pos 58 to 50.
+2024-12-20T20:08:49.4341630-05:00|Changed position of 'Female 59 Top' (Top) at pos 59 to 51.
+2024-12-20T20:08:49.4565598-05:00|Changed position of 'Female 60 Top' (Top) at pos 60 to 52.
+2024-12-20T20:08:49.4804780-05:00|Changed position of 'Female 61 Top' (Top) at pos 61 to 53.
+2024-12-20T20:08:49.5030193-05:00|Changed position of 'Female 62 Top' (Top) at pos 62 to 54.
+2024-12-20T20:08:49.5246063-05:00|Changed position of 'Female 63 Top' (Top) at pos 63 to 55.
+2024-12-20T20:08:49.5456710-05:00|Changed position of 'Female 64 Top' (Top) at pos 64 to 56.
+2024-12-20T20:08:49.5678985-05:00|Changed position of 'Female 65 Top' (Top) at pos 65 to 57.
+2024-12-20T20:08:49.5899914-05:00|Changed position of 'Female 66 Top' (Top) at pos 66 to 58.
+2024-12-20T20:08:49.6144591-05:00|Changed position of 'Female 67 Top' (Top) at pos 67 to 59.
+2024-12-20T20:08:49.6372770-05:00|Changed position of 'Female 68 Top' (Top) at pos 68 to 60.
+2024-12-20T20:08:49.6704016-05:00|Changed position of 'Female 69 Top' (Top) at pos 69 to 61.
+2024-12-20T20:08:49.6937868-05:00|Changed position of 'Female 70 Top' (Top) at pos 70 to 62.
+2024-12-20T20:08:49.7165714-05:00|Changed position of 'Female 71 Top' (Top) at pos 71 to 63.
+2024-12-20T20:08:49.7383724-05:00|Changed position of 'Female 72 Top' (Top) at pos 72 to 64.
+2024-12-20T20:08:49.7607286-05:00|Changed position of 'Female 73 Top' (Top) at pos 73 to 65.
+2024-12-20T20:08:49.7778252-05:00|Changed position of 'Female 74 Top' (Top) at pos 74 to 66.
+2024-12-20T20:08:49.7991431-05:00|Changed position of 'Female 75 Top' (Top) at pos 75 to 67.
+2024-12-20T20:08:49.8203073-05:00|Changed position of 'Female 76 Top' (Top) at pos 76 to 68.
+2024-12-20T20:08:49.8426750-05:00|Changed position of 'Female 77 Top' (Top) at pos 77 to 69.
+2024-12-20T20:08:49.8651828-05:00|Changed position of 'Female 78 Top' (Top) at pos 78 to 70.
+2024-12-20T20:08:49.8869987-05:00|Changed position of 'Female 79 Top' (Top) at pos 79 to 71.
+2024-12-20T20:08:49.9117997-05:00|Changed position of 'Female 80 Top' (Top) at pos 80 to 72.
+2024-12-20T20:08:49.9311302-05:00|Changed position of 'Female 81 Top' (Top) at pos 81 to 73.
+2024-12-20T20:08:49.9577432-05:00|Changed position of 'Female 83 Top' (Top) at pos 83 to 74.
+2024-12-20T20:08:49.9762318-05:00|Changed position of 'Female 84 Top' (Top) at pos 84 to 75.
+2024-12-20T20:08:49.9967162-05:00|Changed position of 'Female 85 Top' (Top) at pos 85 to 76.
+2024-12-20T20:08:50.0165209-05:00|Changed position of 'Female 86 Top' (Top) at pos 86 to 77.
+2024-12-20T20:08:50.0378816-05:00|Changed position of 'Female 87 Top' (Top) at pos 87 to 78.
+2024-12-20T20:08:50.0614887-05:00|Changed position of 'Female 88 Top' (Top) at pos 88 to 79.
+2024-12-20T20:08:50.0914393-05:00|Changed position of 'Female 89 Top' (Top) at pos 89 to 80.
+2024-12-20T20:08:50.1121351-05:00|Changed position of 'Female 90 Top' (Top) at pos 90 to 81.
+2024-12-20T20:08:50.1344695-05:00|Changed position of 'Female 91 Top' (Top) at pos 91 to 82.
+2024-12-20T20:08:50.1641462-05:00|Changed position of 'Female 92 Top' (Top) at pos 92 to 83.
+2024-12-20T20:08:50.1898669-05:00|Changed position of 'Female 93 Top' (Top) at pos 93 to 84.
+2024-12-20T20:08:50.2252051-05:00|Changed position of 'Female 95 Top' (Top) at pos 95 to 85.
+2024-12-20T20:08:50.2486690-05:00|Changed position of 'Female 96 Top' (Top) at pos 96 to 86.
+2024-12-20T20:08:50.2794892-05:00|Changed position of 'Female 98 Top' (Top) at pos 98 to 87.
+2024-12-20T20:08:50.3078793-05:00|Changed position of 'Female 99 Top' (Top) at pos 99 to 88.
+2024-12-20T20:08:50.3339446-05:00|Changed position of 'Female 100 Top' (Top) at pos 100 to 89.
+2024-12-20T20:08:50.3593516-05:00|Changed position of 'Female 101 Top' (Top) at pos 101 to 90.
+2024-12-20T20:08:50.3929849-05:00|Changed position of 'Female 102 Top' (Top) at pos 102 to 91.
+2024-12-20T20:08:50.4301742-05:00|Changed position of 'Female 103 Top' (Top) at pos 103 to 92.
+2024-12-20T20:08:50.4768124-05:00|Changed position of 'Female 104 Top' (Top) at pos 104 to 93.
+2024-12-20T20:08:50.5087853-05:00|Changed position of 'Female 105 Top' (Top) at pos 105 to 94.
+2024-12-20T20:08:50.5364471-05:00|Changed position of 'Female 106 Top' (Top) at pos 106 to 95.
+2024-12-20T20:08:50.5630876-05:00|Changed position of 'Female 107 Top' (Top) at pos 107 to 96.
+2024-12-20T20:08:50.5952876-05:00|Changed position of 'Female 108 Top' (Top) at pos 108 to 97.
+2024-12-20T20:08:50.6220499-05:00|Changed position of 'Female 109 Top' (Top) at pos 109 to 98.
+2024-12-20T20:08:50.6506149-05:00|Changed position of 'Female 110 Top' (Top) at pos 110 to 99.
+2024-12-20T20:08:50.6862303-05:00|Changed position of 'Female 111 Top' (Top) at pos 111 to 100.
+2024-12-20T20:08:50.7224411-05:00|Changed position of 'Female 112 Top' (Top) at pos 112 to 101.
+2024-12-20T20:08:50.7482181-05:00|Changed position of 'Female 113 Top' (Top) at pos 113 to 102.
+2024-12-20T20:08:50.7727083-05:00|Changed position of 'Female 114 Top' (Top) at pos 114 to 103.
+2024-12-20T20:08:50.7940347-05:00|Changed position of 'Female 115 Top' (Top) at pos 115 to 104.
+2024-12-20T20:08:50.8145876-05:00|Changed position of 'Female 116 Top' (Top) at pos 116 to 105.
+2024-12-20T20:08:50.8405987-05:00|Changed position of 'Female 117 Top' (Top) at pos 117 to 106.
+2024-12-20T20:08:50.8578266-05:00|Changed position of 'Female 118 Top' (Top) at pos 118 to 107.
+2024-12-20T20:08:50.8786782-05:00|Changed position of 'Female 119 Top' (Top) at pos 119 to 108.
+2024-12-20T20:08:50.8988311-05:00|Changed position of 'Female 120 Top' (Top) at pos 120 to 109.
+2024-12-20T20:08:50.9201223-05:00|Changed position of 'Female 121 Top' (Top) at pos 121 to 110.
+2024-12-20T20:08:50.9474024-05:00|Changed position of 'Female 122 Top' (Top) at pos 122 to 111.
+2024-12-20T20:08:50.9673740-05:00|Changed position of 'Female 123 Top' (Top) at pos 123 to 112.
+2024-12-20T20:08:50.9885242-05:00|Changed position of 'Female 124 Top' (Top) at pos 124 to 113.
+2024-12-20T20:08:51.0103570-05:00|Changed position of 'Female 125 Top' (Top) at pos 125 to 114.
+2024-12-20T20:08:51.0336815-05:00|Changed position of 'Female 126 Top' (Top) at pos 126 to 115.
+2024-12-20T20:08:51.0540606-05:00|Changed position of 'Female 127 Top' (Top) at pos 127 to 116.
+2024-12-20T20:08:51.0703976-05:00|Changed position of 'Female 129 Top' (Top) at pos 129 to 117.
+2024-12-20T20:08:51.0905533-05:00|Successfully resorted 87 from 603 total item positions.
+2024-12-20T20:09:11.5242568-05:00|Successfully backed up project 2024-12-20 20:09:11.
+2024-12-20T20:09:27.7141816-05:00|Added Female 118 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\8\mp_f_freemode_01_azura^jbib_008_u.ydd.
+2024-12-20T20:09:28.5212811-05:00|Added Female 119 Top with 10 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\7\mp_f_freemode_01_azura^jbib_007_u.ydd.
+2024-12-20T20:09:29.1032662-05:00|Added Female 120 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\6\mp_f_freemode_01_azura^jbib_006_u.ydd.
+2024-12-20T20:09:29.6306147-05:00|Added Female 121 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\5\mp_f_freemode_01_azura^jbib_005_u.ydd.
+2024-12-20T20:09:29.9057383-05:00|Added Female 122 Top with 5 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\4\mp_f_freemode_01_azura^jbib_004_u.ydd.
+2024-12-20T20:09:30.1872134-05:00|Added Female 123 Top with 4 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\3\mp_f_freemode_01_azura^jbib_003_u.ydd.
+2024-12-20T20:09:30.5890552-05:00|Added Female 124 Top with 6 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\2\mp_f_freemode_01_azura^jbib_002_u.ydd.
+2024-12-20T20:09:31.1026640-05:00|Added Female 125 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\1\mp_f_freemode_01_azura^jbib_001_u.ydd.
+2024-12-20T20:09:31.5444253-05:00|Added Female 126 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\0\mp_f_freemode_01_azura^jbib_000_u.ydd.
+2024-12-20T20:09:31.5672737-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-20T20:09:33.3096731-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 9 new items and 0 new textures.
+2024-12-20T20:09:33.3287835-05:00|Found 9 Female cloth models
+2024-12-20T20:09:38.3874696-05:00|Project with 612 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T20:09:41.8469060-05:00|612 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (612 clothes/0 decorations/0 facial overlays) ...
+2024-12-20T20:09:42.1288759-05:00|Loading all 4977 items, this can take a moment...
+2024-12-20T20:09:51.1020325-05:00|Finished loading all 4977 items.
+2024-12-20T20:09:51.1420389-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 4977 items and ready to rock (in 12.7021383 seconds).
+2024-12-20T20:10:11.5148536-05:00|Successfully backed up project 2024-12-20 20:10:11.
+2024-12-20T20:10:24.5164131-05:00|Successfully exported cloth texture ''a'' as PNG to D:\hihip\Downloads\New folder (2).
+2024-12-20T20:10:53.0113238-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-20T20:10:53.3102852-05:00|Added texture jbib_diff_005_a_uni_Copy1.ytd to 'Female 121 Top' (Top) at pos 121
+2024-12-20T20:11:02.1016691-05:00|Trying to optimize texture 'a' of 'Female 121 Top' (Top) at pos 121 ...
+2024-12-20T20:11:02.4918967-05:00|Texture 'a' (7238dee8-cb6a-4f3b-8db4-9d13a2986f99.ytd) file got successfully updated to 0f810c13-828f-406b-8887-9401024ba953.ytd.
+2024-12-20T20:11:02.5188671-05:00|Texture jbib_diff_005_a_uni_Copy1 optimized from 66 KB to 37 KB, format D3DFMT_A8B8G8R8 => D3DFMT_DXT5, width/height 1024px/2048px => 1024px/2048px, mip maps 12 => 12
+2024-12-20T20:11:02.5220921-05:00|Successfully optimized drawable texture 'a' of 'Female 121 Top' (Top) at pos 121
+2024-12-20T20:11:02.5376616-05:00|Trying to optimize texture 'a' of 'Female 121 Top' (Top) at pos 121 ...
+2024-12-20T20:11:02.8689157-05:00|Texture 'a' (0f810c13-828f-406b-8887-9401024ba953.ytd) file got successfully updated to 82a94b72-603e-49a0-afdc-8d3a9122175a.ytd.
+2024-12-20T20:11:02.9414345-05:00|Texture jbib_diff_005_a_uni_Copy1 optimized from 37 KB to 37 KB, format D3DFMT_DXT5 => D3DFMT_DXT5, width/height 1024px/2048px => 1024px/2048px, mip maps 12 => 12
+2024-12-20T20:11:02.9455587-05:00|Successfully optimized drawable texture 'a' of 'Female 121 Top' (Top) at pos 121
+2024-12-20T20:11:12.4330621-05:00|Successfully backed up project 2024-12-20 20:11:12.
+2024-12-20T20:11:22.8645641-05:00|Removed texture 'f' from 'Female 120 Top' (Top) at pos 120
+2024-12-20T20:11:23.1476464-05:00|1 texture(s) deleted.
+2024-12-20T20:11:27.7858749-05:00|Removed texture 'c' from 'Female 120 Top' (Top) at pos 120
+2024-12-20T20:11:28.0011596-05:00|1 texture(s) deleted.
+2024-12-20T20:11:45.5496607-05:00|Removed 'Top' (See logs for full details). Total items: 611
+2024-12-20T20:11:51.7250189-05:00|Changed position of 'Female 119 Top' (Top) at pos 119 to 118.
+2024-12-20T20:11:51.7825747-05:00|Changed position of 'Female 120 Top' (Top) at pos 120 to 119.
+2024-12-20T20:11:51.8142468-05:00|Changed position of 'Female 121 Top' (Top) at pos 121 to 120.
+2024-12-20T20:11:51.8324795-05:00|Changed position of 'Female 122 Top' (Top) at pos 122 to 121.
+2024-12-20T20:11:51.8573967-05:00|Changed position of 'Female 123 Top' (Top) at pos 123 to 122.
+2024-12-20T20:11:51.8870253-05:00|Changed position of 'Female 124 Top' (Top) at pos 124 to 123.
+2024-12-20T20:11:51.9093076-05:00|Changed position of 'Female 125 Top' (Top) at pos 125 to 124.
+2024-12-20T20:11:51.9305194-05:00|Changed position of 'Female 126 Top' (Top) at pos 126 to 125.
+2024-12-20T20:11:51.9525549-05:00|Successfully resorted 8 from 611 total item positions.
+2024-12-20T20:12:11.4994436-05:00|Successfully backed up project 2024-12-20 20:12:11.
+2024-12-20T20:12:11.6601769-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01_azura^jbib_005_u.ydd 'Female 120 Top' (Top) at pos 120 => 20060e7b-3648-47ef-840a-4f3736a18955.ydd
+2024-12-20T20:12:11.7987704-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01_azura^jbib_006_u.ydd 'Female 119 Top' (Top) at pos 119 => 9aa89680-97ee-4333-b6d3-2b235d7e0a63.ydd
+2024-12-20T20:12:12.0896066-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01_azura^jbib_007_u.ydd 'Female 118 Top' (Top) at pos 118 => 68ca00a1-c272-4cb0-880c-c7d35e8fcdc2.ydd
+2024-12-20T20:12:12.6449263-05:00|Added Female 126 Top with 7 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\8\mp_f_freemode_01_azura^jbib_008_u.ydd.
+2024-12-20T20:12:14.1353156-05:00|Added Female 127 Top with 9 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\9\mp_f_freemode_01_azura^jbib_009_u.ydd.
+2024-12-20T20:12:14.1422708-05:00|Found 5 Female cloth models
+2024-12-20T20:12:26.9825625-05:00|Removed 'Top' (See logs for full details). Total items: 612
+2024-12-20T20:12:52.2194495-05:00|Added Female 127 Top with 16 found textures from D:\3D Models\GTA\Purchased Items\Azura\AzuraPlatV2non-branded\stream\jbib=jacket\addon-jbibs\10\mp_f_freemode_01_azura^jbib_010_u.ydd.
+2024-12-20T20:12:52.2213417-05:00|Found 1 Female cloth models
+2024-12-20T20:13:01.9306389-05:00|Changed position of 'Female 127 Top' (Top) at pos 127 to 126.
+2024-12-20T20:13:01.9891859-05:00|Successfully resorted 1 from 613 total item positions.
+2024-12-20T20:13:08.0701325-05:00|Project with 613 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-20T20:13:47.6657758-05:00|Project with 613 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
