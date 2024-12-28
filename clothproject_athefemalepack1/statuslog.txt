@@ -1,3 +1,4 @@
+2024-12-27T17:59:21.6098861-05:00|Created output parent folder: D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1
 2024-12-23T02:39:31.7411383-05:00|Previous log file exceeded maximum size. Backed it up to statuslog-24-12-23.txt and started new status log.
 2024-12-23T02:39:31.8773419-05:00|1290 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (1290 clothes/0 decorations/0 facial overlays) ...
 2024-12-23T02:39:32.7592757-05:00|Loading all 10970 items, this can take a moment...
@@ -519,3 +520,796 @@
 2024-12-23T02:58:47.6047013-05:00|Project with 1366 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
 2024-12-23T02:59:44.2042438-05:00|Project with 1366 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
 2024-12-23T02:59:46.7776766-05:00|Project with 1366 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-23T03:11:55.5564296-05:00|Project with 1366 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-23T03:11:57.9392041-05:00|Project with 1366 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-23T03:12:55.3072470-05:00|Project with 1366 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-27T15:59:17.4430512-05:00|1366 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (1366 clothes/0 decorations/0 facial overlays) ...
+2024-12-27T15:59:18.3165701-05:00|Loading all 11534 items, this can take a moment...
+2024-12-27T16:04:55.6714925-05:00|Finished loading all 11534 items.
+2024-12-27T16:04:55.7020898-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 11534 items and ready to rock (in 345.6999878 seconds).
+2024-12-27T17:37:00.9043667-05:00|Removed 'Undershirt' (See logs for full details). Total items: 1365
+2024-12-27T17:37:41.0636130-05:00|Successfully backed up project 2024-12-27 17:37:41.
+2024-12-27T17:38:40.9930169-05:00|Successfully backed up project 2024-12-27 17:38:40.
+2024-12-27T17:38:51.5750671-05:00|Project with 1365 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-27T17:38:55.1235525-05:00|Project with 1365 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-27T17:59:27.7587244-05:00|1365 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (1365 clothes/0 decorations/0 facial overlays) ...
+2024-12-27T17:59:28.7170958-05:00|Loading all 11524 items, this can take a moment...
+2024-12-27T17:59:55.4551503-05:00|Finished loading all 11524 items.
+2024-12-27T17:59:55.4899117-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 11524 items and ready to rock (in 36.0690855 seconds).
+2024-12-27T18:05:55.3536490-05:00|Changed position of 'Female 126 Undershirt' (Undershirt) at pos 126 to 125.
+2024-12-27T18:05:55.4762438-05:00|Successfully resorted 1 from 1365 total item positions.
+2024-12-27T18:06:00.0296530-05:00|Project with 1365 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-27T18:09:49.0520984-05:00|Added Female 126 Undershirt with 10 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\000\mp_f_freemode_01_femalelore^accs_000_u.ydd.
+2024-12-27T18:09:49.0590285-05:00|Found 1 Female cloth models
+2024-12-27T18:09:56.5699657-05:00|Removed 'Undershirt' (See logs for full details). Total items: 1365
+2024-12-27T18:10:05.0844415-05:00|Skipped adding possible duplicate item of mp_f_freemode_01_femalelore^accs_001_u.ydd 'Female 124 Undershirt' (Undershirt) at pos 124 => ad841f76-ff5b-4857-975e-d58006026975.ydd
+2024-12-27T18:10:05.1446357-05:00|Found 1 Female cloth models
+2024-12-27T18:10:21.1170886-05:00|Skipped adding possible duplicate item of mp_f_freemode_01_femalelore^accs_002_u.ydd 'Female 123 Undershirt' (Undershirt) at pos 123 => f1f2b9fd-2065-48a2-ad88-cac7fba95704.ydd
+2024-12-27T18:10:22.6506921-05:00|Skipped adding possible duplicate texture of 'a' from 'Female 83 Undershirt' (Undershirt) at pos 83
+2024-12-27T18:10:23.6852249-05:00|Skipped adding possible duplicate texture of 'b' from 'Female 83 Undershirt' (Undershirt) at pos 83
+2024-12-27T18:10:24.4668580-05:00|Skipped adding possible duplicate texture of 'c' from 'Female 83 Undershirt' (Undershirt) at pos 83
+2024-12-27T18:10:28.8141055-05:00|Set to not import any duplicates automatically for this session (restart app to reset)
+2024-12-27T18:10:28.9054278-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 83 Undershirt' (Undershirt) at pos 83
+2024-12-27T18:10:28.9380644-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 83 Undershirt' (Undershirt) at pos 83
+2024-12-27T18:10:28.9678700-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 83 Undershirt' (Undershirt) at pos 83
+2024-12-27T18:10:28.9849901-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 83 Undershirt' (Undershirt) at pos 83
+2024-12-27T18:10:29.1346572-05:00|Added Female 126 Undershirt with 2 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\003\mp_f_freemode_01_femalelore^accs_003_u.ydd.
+2024-12-27T18:10:30.6634660-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 6 Undershirt' (Undershirt) at pos 6
+2024-12-27T18:10:32.3469815-05:00|Added Female 127 Undershirt with 5 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\004\mp_f_freemode_01_femalelore^accs_004_u.ydd.
+2024-12-27T18:10:32.3499348-05:00|Found 3 Female cloth models
+2024-12-27T18:10:47.5030687-05:00|Removed 2 items (See logs for full details). Total items: 1365
+2024-12-27T18:10:58.5475510-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 5 Undershirt' (Undershirt) at pos 5
+2024-12-27T18:10:59.2716059-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 5 Undershirt' (Undershirt) at pos 5
+2024-12-27T18:10:59.3116674-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 5 Undershirt' (Undershirt) at pos 5
+2024-12-27T18:10:59.3459426-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 5 Undershirt' (Undershirt) at pos 5
+2024-12-27T18:10:59.3727299-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 5 Undershirt' (Undershirt) at pos 5
+2024-12-27T18:10:59.4055926-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 5 Undershirt' (Undershirt) at pos 5
+2024-12-27T18:10:59.4601079-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 5 Undershirt' (Undershirt) at pos 5
+2024-12-27T18:10:59.4948956-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 5 Undershirt' (Undershirt) at pos 5
+2024-12-27T18:10:59.5183999-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 5 Undershirt' (Undershirt) at pos 5
+2024-12-27T18:10:59.5262270-05:00|Added Female 126 Undershirt with 0 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\005\mp_f_freemode_01_femalelore^accs_005_u.ydd.
+2024-12-27T18:10:59.5614342-05:00|(Auto) Skipped adding possible duplicate item of mp_f_freemode_01_femalelore^accs_006_u.ydd 'Female 125 Undershirt' (Undershirt) at pos 125 => d4bac94e-3e4b-451b-92ba-4620b8247635.ydd
+2024-12-27T18:11:16.1810882-05:00|Added Female 127 Undershirt with 21 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\007\mp_f_freemode_01_femalelore^accs_007_u.ydd.
+2024-12-27T18:11:18.3085259-05:00|Added Female 128 Undershirt with 3 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\008\mp_f_freemode_01_femalelore^accs_008_u.ydd.
+2024-12-27T18:11:18.3111012-05:00|Found 4 Female cloth models
+2024-12-27T18:11:32.2537634-05:00|Removed 2 items (See logs for full details). Total items: 1366
+2024-12-27T18:11:59.1133693-05:00|Removed 'Undershirt' (See logs for full details). Total items: 1365
+2024-12-27T18:12:02.3922912-05:00|Successfully backed up project 2024-12-27 18:12:02.
+2024-12-27T18:12:37.0900397-05:00|Changed position of 'Female 20 Undershirt' (Undershirt) at pos 20 to 19.
+2024-12-27T18:12:37.1923292-05:00|Changed position of 'Female 21 Undershirt' (Undershirt) at pos 21 to 20.
+2024-12-27T18:12:37.2162833-05:00|Changed position of 'Female 22 Undershirt' (Undershirt) at pos 22 to 21.
+2024-12-27T18:12:37.2446878-05:00|Changed position of 'Female 23 Undershirt' (Undershirt) at pos 23 to 22.
+2024-12-27T18:12:37.2759343-05:00|Changed position of 'Female 24 Undershirt' (Undershirt) at pos 24 to 23.
+2024-12-27T18:12:37.3139486-05:00|Changed position of 'Female 25 Undershirt' (Undershirt) at pos 25 to 24.
+2024-12-27T18:12:37.3391073-05:00|Changed position of 'Female 26 Undershirt' (Undershirt) at pos 26 to 25.
+2024-12-27T18:12:37.3756222-05:00|Changed position of 'Female 27 Undershirt' (Undershirt) at pos 27 to 26.
+2024-12-27T18:12:37.4271450-05:00|Changed position of 'Female 28 Undershirt' (Undershirt) at pos 28 to 27.
+2024-12-27T18:12:37.4691651-05:00|Changed position of 'Female 29 Undershirt' (Undershirt) at pos 29 to 28.
+2024-12-27T18:12:37.5035249-05:00|Changed position of 'Female 30 Undershirt' (Undershirt) at pos 30 to 29.
+2024-12-27T18:12:37.5392490-05:00|Changed position of 'Female 31 Undershirt' (Undershirt) at pos 31 to 30.
+2024-12-27T18:12:37.5663260-05:00|Changed position of 'Female 32 Undershirt' (Undershirt) at pos 32 to 31.
+2024-12-27T18:12:37.6267706-05:00|Changed position of 'Female 33 Undershirt' (Undershirt) at pos 33 to 32.
+2024-12-27T18:12:37.6681621-05:00|Changed position of 'Female 34 Undershirt' (Undershirt) at pos 34 to 33.
+2024-12-27T18:12:37.6929228-05:00|Changed position of 'Female 35 Undershirt' (Undershirt) at pos 35 to 34.
+2024-12-27T18:12:37.7199488-05:00|Changed position of 'Female 36 Undershirt' (Undershirt) at pos 36 to 35.
+2024-12-27T18:12:37.7435455-05:00|Changed position of 'Female 37 Undershirt' (Undershirt) at pos 37 to 36.
+2024-12-27T18:12:37.7665592-05:00|Changed position of 'Female 38 Undershirt' (Undershirt) at pos 38 to 37.
+2024-12-27T18:12:37.7899764-05:00|Changed position of 'Female 39 Undershirt' (Undershirt) at pos 39 to 38.
+2024-12-27T18:12:37.8134796-05:00|Changed position of 'Female 40 Undershirt' (Undershirt) at pos 40 to 39.
+2024-12-27T18:12:37.8385930-05:00|Changed position of 'Female 41 Undershirt' (Undershirt) at pos 41 to 40.
+2024-12-27T18:12:37.8630321-05:00|Changed position of 'Female 42 Undershirt' (Undershirt) at pos 42 to 41.
+2024-12-27T18:12:37.8896546-05:00|Changed position of 'Female 43 Undershirt' (Undershirt) at pos 43 to 42.
+2024-12-27T18:12:37.9327752-05:00|Changed position of 'Female 44 Undershirt' (Undershirt) at pos 44 to 43.
+2024-12-27T18:12:37.9558235-05:00|Changed position of 'Female 45 Undershirt' (Undershirt) at pos 45 to 44.
+2024-12-27T18:12:37.9802018-05:00|Changed position of 'Female 46 Undershirt' (Undershirt) at pos 46 to 45.
+2024-12-27T18:12:38.0024191-05:00|Changed position of 'Female 47 Undershirt' (Undershirt) at pos 47 to 46.
+2024-12-27T18:12:38.0261040-05:00|Changed position of 'Female 48 Undershirt' (Undershirt) at pos 48 to 47.
+2024-12-27T18:12:38.0496899-05:00|Changed position of 'Female 49 Undershirt' (Undershirt) at pos 49 to 48.
+2024-12-27T18:12:38.0851404-05:00|Changed position of 'Female 50 Undershirt' (Undershirt) at pos 50 to 49.
+2024-12-27T18:12:38.1284918-05:00|Changed position of 'Female 51 Undershirt' (Undershirt) at pos 51 to 50.
+2024-12-27T18:12:38.1650006-05:00|Changed position of 'Female 52 Undershirt' (Undershirt) at pos 52 to 51.
+2024-12-27T18:12:38.1939030-05:00|Changed position of 'Female 53 Undershirt' (Undershirt) at pos 53 to 52.
+2024-12-27T18:12:38.2331210-05:00|Changed position of 'Female 54 Undershirt' (Undershirt) at pos 54 to 53.
+2024-12-27T18:12:38.2571797-05:00|Changed position of 'Female 55 Undershirt' (Undershirt) at pos 55 to 54.
+2024-12-27T18:12:38.2804303-05:00|Changed position of 'Female 56 Undershirt' (Undershirt) at pos 56 to 55.
+2024-12-27T18:12:38.3038560-05:00|Changed position of 'Female 57 Undershirt' (Undershirt) at pos 57 to 56.
+2024-12-27T18:12:38.3279139-05:00|Changed position of 'Female 58 Undershirt' (Undershirt) at pos 58 to 57.
+2024-12-27T18:12:38.3525789-05:00|Changed position of 'Female 59 Undershirt' (Undershirt) at pos 59 to 58.
+2024-12-27T18:12:38.3802366-05:00|Changed position of 'Female 60 Undershirt' (Undershirt) at pos 60 to 59.
+2024-12-27T18:12:38.4027708-05:00|Changed position of 'Female 61 Undershirt' (Undershirt) at pos 61 to 60.
+2024-12-27T18:12:38.4276004-05:00|Changed position of 'Female 62 Undershirt' (Undershirt) at pos 62 to 61.
+2024-12-27T18:12:38.4504855-05:00|Changed position of 'Female 63 Undershirt' (Undershirt) at pos 63 to 62.
+2024-12-27T18:12:38.4761734-05:00|Changed position of 'Female 64 Undershirt' (Undershirt) at pos 64 to 63.
+2024-12-27T18:12:38.5000527-05:00|Changed position of 'Female 65 Undershirt' (Undershirt) at pos 65 to 64.
+2024-12-27T18:12:38.5233824-05:00|Changed position of 'Female 66 Undershirt' (Undershirt) at pos 66 to 65.
+2024-12-27T18:12:38.5461997-05:00|Changed position of 'Female 67 Undershirt' (Undershirt) at pos 67 to 66.
+2024-12-27T18:12:38.5718959-05:00|Changed position of 'Female 68 Undershirt' (Undershirt) at pos 68 to 67.
+2024-12-27T18:12:38.5969696-05:00|Changed position of 'Female 69 Undershirt' (Undershirt) at pos 69 to 68.
+2024-12-27T18:12:38.6303259-05:00|Changed position of 'Female 70 Undershirt' (Undershirt) at pos 70 to 69.
+2024-12-27T18:12:38.6538676-05:00|Changed position of 'Female 71 Undershirt' (Undershirt) at pos 71 to 70.
+2024-12-27T18:12:38.6815134-05:00|Changed position of 'Female 72 Undershirt' (Undershirt) at pos 72 to 71.
+2024-12-27T18:12:38.7108012-05:00|Changed position of 'Female 73 Undershirt' (Undershirt) at pos 73 to 72.
+2024-12-27T18:12:38.7535970-05:00|Changed position of 'Female 74 Undershirt' (Undershirt) at pos 74 to 73.
+2024-12-27T18:12:38.7833921-05:00|Changed position of 'Female 75 Undershirt' (Undershirt) at pos 75 to 74.
+2024-12-27T18:12:38.8151541-05:00|Changed position of 'Female 76 Undershirt' (Undershirt) at pos 76 to 75.
+2024-12-27T18:12:38.8505706-05:00|Changed position of 'Female 77 Undershirt' (Undershirt) at pos 77 to 76.
+2024-12-27T18:12:38.8785774-05:00|Changed position of 'Female 78 Undershirt' (Undershirt) at pos 78 to 77.
+2024-12-27T18:12:38.9176468-05:00|Changed position of 'Female 79 Undershirt' (Undershirt) at pos 79 to 78.
+2024-12-27T18:12:38.9419957-05:00|Changed position of 'Female 80 Undershirt' (Undershirt) at pos 80 to 79.
+2024-12-27T18:12:38.9653722-05:00|Changed position of 'Female 81 Undershirt' (Undershirt) at pos 81 to 80.
+2024-12-27T18:12:39.0045364-05:00|Changed position of 'Female 82 Undershirt' (Undershirt) at pos 82 to 81.
+2024-12-27T18:12:39.0319309-05:00|Changed position of 'Female 83 Undershirt' (Undershirt) at pos 83 to 82.
+2024-12-27T18:12:39.0556922-05:00|Changed position of 'Female 84 Undershirt' (Undershirt) at pos 84 to 83.
+2024-12-27T18:12:39.0796471-05:00|Changed position of 'Female 85 Undershirt' (Undershirt) at pos 85 to 84.
+2024-12-27T18:12:39.1028990-05:00|Changed position of 'Female 86 Undershirt' (Undershirt) at pos 86 to 85.
+2024-12-27T18:12:39.1275268-05:00|Changed position of 'Female 87 Undershirt' (Undershirt) at pos 87 to 86.
+2024-12-27T18:12:39.1521227-05:00|Changed position of 'Female 88 Undershirt' (Undershirt) at pos 88 to 87.
+2024-12-27T18:12:39.1769101-05:00|Changed position of 'Female 89 Undershirt' (Undershirt) at pos 89 to 88.
+2024-12-27T18:12:39.2021425-05:00|Changed position of 'Female 90 Undershirt' (Undershirt) at pos 90 to 89.
+2024-12-27T18:12:39.2269090-05:00|Changed position of 'Female 91 Undershirt' (Undershirt) at pos 91 to 90.
+2024-12-27T18:12:39.2524544-05:00|Changed position of 'Female 92 Undershirt' (Undershirt) at pos 92 to 91.
+2024-12-27T18:12:39.2771945-05:00|Changed position of 'Female 93 Undershirt' (Undershirt) at pos 93 to 92.
+2024-12-27T18:12:39.3011576-05:00|Changed position of 'Female 94 Undershirt' (Undershirt) at pos 94 to 93.
+2024-12-27T18:12:39.3242844-05:00|Changed position of 'Female 95 Undershirt' (Undershirt) at pos 95 to 94.
+2024-12-27T18:12:39.3482861-05:00|Changed position of 'Female 96 Undershirt' (Undershirt) at pos 96 to 95.
+2024-12-27T18:12:39.3727760-05:00|Changed position of 'Female 97 Undershirt' (Undershirt) at pos 97 to 96.
+2024-12-27T18:12:39.3973933-05:00|Changed position of 'Female 98 Undershirt' (Undershirt) at pos 98 to 97.
+2024-12-27T18:12:39.4217406-05:00|Changed position of 'Female 99 Undershirt' (Undershirt) at pos 99 to 98.
+2024-12-27T18:12:39.4540400-05:00|Changed position of 'Female 100 Undershirt' (Undershirt) at pos 100 to 99.
+2024-12-27T18:12:39.4802188-05:00|Changed position of 'Female 101 Undershirt' (Undershirt) at pos 101 to 100.
+2024-12-27T18:12:39.5289670-05:00|Changed position of 'Female 102 Undershirt' (Undershirt) at pos 102 to 101.
+2024-12-27T18:12:39.5604402-05:00|Changed position of 'Female 103 Undershirt' (Undershirt) at pos 103 to 102.
+2024-12-27T18:12:39.5956119-05:00|Changed position of 'Female 104 Undershirt' (Undershirt) at pos 104 to 103.
+2024-12-27T18:12:39.6268885-05:00|Changed position of 'Female 105 Undershirt' (Undershirt) at pos 105 to 104.
+2024-12-27T18:12:39.6608169-05:00|Changed position of 'Female 106 Undershirt' (Undershirt) at pos 106 to 105.
+2024-12-27T18:12:39.6856334-05:00|Changed position of 'Female 107 Undershirt' (Undershirt) at pos 107 to 106.
+2024-12-27T18:12:39.7120137-05:00|Changed position of 'Female 108 Undershirt' (Undershirt) at pos 108 to 107.
+2024-12-27T18:12:39.7350684-05:00|Changed position of 'Female 109 Undershirt' (Undershirt) at pos 109 to 108.
+2024-12-27T18:12:39.7606218-05:00|Changed position of 'Female 110 Undershirt' (Undershirt) at pos 110 to 109.
+2024-12-27T18:12:39.7854977-05:00|Changed position of 'Female 111 Undershirt' (Undershirt) at pos 111 to 110.
+2024-12-27T18:12:39.8112217-05:00|Changed position of 'Female 112 Undershirt' (Undershirt) at pos 112 to 111.
+2024-12-27T18:12:39.8359638-05:00|Changed position of 'Female 113 Undershirt' (Undershirt) at pos 113 to 112.
+2024-12-27T18:12:39.8606721-05:00|Changed position of 'Female 114 Undershirt' (Undershirt) at pos 114 to 113.
+2024-12-27T18:12:39.8894014-05:00|Changed position of 'Female 115 Undershirt' (Undershirt) at pos 115 to 114.
+2024-12-27T18:12:39.9172170-05:00|Changed position of 'Female 116 Undershirt' (Undershirt) at pos 116 to 115.
+2024-12-27T18:12:39.9427800-05:00|Changed position of 'Female 117 Undershirt' (Undershirt) at pos 117 to 116.
+2024-12-27T18:12:39.9701571-05:00|Changed position of 'Female 118 Undershirt' (Undershirt) at pos 118 to 117.
+2024-12-27T18:12:39.9955608-05:00|Changed position of 'Female 119 Undershirt' (Undershirt) at pos 119 to 118.
+2024-12-27T18:12:40.0209089-05:00|Changed position of 'Female 120 Undershirt' (Undershirt) at pos 120 to 119.
+2024-12-27T18:12:40.0454445-05:00|Changed position of 'Female 121 Accessories' (Undershirt) at pos 121 to 120.
+2024-12-27T18:12:40.0716808-05:00|Changed position of 'Female 122 Undershirt' (Undershirt) at pos 122 to 121.
+2024-12-27T18:12:40.0984705-05:00|Changed position of 'Female 123 Undershirt' (Undershirt) at pos 123 to 122.
+2024-12-27T18:12:40.1261484-05:00|Changed position of 'Female 124 Undershirt' (Undershirt) at pos 124 to 123.
+2024-12-27T18:12:40.1500336-05:00|Changed position of 'Female 125 Undershirt' (Undershirt) at pos 125 to 124.
+2024-12-27T18:12:40.1775084-05:00|Changed position of 'Female 128 Undershirt' (Undershirt) at pos 128 to 125.
+2024-12-27T18:12:40.2005410-05:00|Successfully resorted 107 from 1365 total item positions.
+2024-12-27T18:13:01.3340272-05:00|Added Female 126 Undershirt with 10 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\009\mp_f_freemode_01_femalelore^accs_009_u.ydd.
+2024-12-27T18:13:01.5445218-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.5795244-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.6038151-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.6351940-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.6677337-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.6947216-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.7202504-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.7452981-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.7680447-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.8031816-05:00|(Auto) Skipped adding possible duplicate texture of 'j' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.8266630-05:00|(Auto) Skipped adding possible duplicate texture of 'k' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.8544679-05:00|(Auto) Skipped adding possible duplicate texture of 'l' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.8911506-05:00|(Auto) Skipped adding possible duplicate texture of 'm' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.9089483-05:00|(Auto) Skipped adding possible duplicate texture of 'n' from 'Female 25 Undershirt' (Undershirt) at pos 25
+2024-12-27T18:13:01.9176721-05:00|Added Female 127 Undershirt with 0 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\010\mp_f_freemode_01_femalelore^accs_010_u.ydd.
+2024-12-27T18:13:17.3644950-05:00|Added Female 128 Undershirt with 15 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\011\mp_f_freemode_01_femalelore^accs_011_u.ydd.
+2024-12-27T18:13:17.3668601-05:00|Found 3 Female cloth models
+2024-12-27T18:13:23.5910543-05:00|Removed 'Undershirt' (See logs for full details). Total items: 1367
+2024-12-27T18:13:28.9267446-05:00|Removed 2 items (See logs for full details). Total items: 1365
+2024-12-27T18:13:39.4843492-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 26 Undershirt' (Undershirt) at pos 26
+2024-12-27T18:13:40.0048523-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 26 Undershirt' (Undershirt) at pos 26
+2024-12-27T18:13:40.0281764-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 26 Undershirt' (Undershirt) at pos 26
+2024-12-27T18:13:40.0488176-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 26 Undershirt' (Undershirt) at pos 26
+2024-12-27T18:13:40.0716988-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 26 Undershirt' (Undershirt) at pos 26
+2024-12-27T18:13:40.0993518-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 26 Undershirt' (Undershirt) at pos 26
+2024-12-27T18:13:40.1232054-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 26 Undershirt' (Undershirt) at pos 26
+2024-12-27T18:13:40.1482652-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 26 Undershirt' (Undershirt) at pos 26
+2024-12-27T18:13:40.1699958-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 26 Undershirt' (Undershirt) at pos 26
+2024-12-27T18:13:40.2008338-05:00|(Auto) Skipped adding possible duplicate texture of 'j' from 'Female 26 Undershirt' (Undershirt) at pos 26
+2024-12-27T18:13:40.2027804-05:00|Added Female 126 Undershirt with 0 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\012\mp_f_freemode_01_femalelore^accs_012_u.ydd.
+2024-12-27T18:13:41.7047274-05:00|Added Female 127 Undershirt with 14 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\013\mp_f_freemode_01_femalelore^accs_013_u.ydd.
+2024-12-27T18:13:45.0658929-05:00|Added Female 128 Undershirt with 26 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\014\mp_f_freemode_01_femalelore^accs_014_u.ydd.
+2024-12-27T18:13:46.9739323-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:48.2226028-05:00|Added Female 129 Undershirt with 25 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\015\mp_f_freemode_01_femalelore^accs_015_u.ydd.
+2024-12-27T18:13:49.1749810-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.2200264-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.2469719-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.2992491-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.3384272-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.3705189-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.3968605-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.4205934-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.4370359-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.4600057-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.4879188-05:00|(Auto) Skipped adding possible duplicate texture of 'j' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.5046338-05:00|(Auto) Skipped adding possible duplicate texture of 'k' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.5416245-05:00|(Auto) Skipped adding possible duplicate texture of 'l' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.5652424-05:00|(Auto) Skipped adding possible duplicate texture of 'm' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.5936378-05:00|(Auto) Skipped adding possible duplicate texture of 'n' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.6157904-05:00|(Auto) Skipped adding possible duplicate texture of 'o' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.6334472-05:00|(Auto) Skipped adding possible duplicate texture of 'p' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.6554247-05:00|(Auto) Skipped adding possible duplicate texture of 'q' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.6756322-05:00|(Auto) Skipped adding possible duplicate texture of 'r' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.7010386-05:00|(Auto) Skipped adding possible duplicate texture of 's' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.7188310-05:00|(Auto) Skipped adding possible duplicate texture of 't' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.7399254-05:00|(Auto) Skipped adding possible duplicate texture of 'u' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.7627945-05:00|(Auto) Skipped adding possible duplicate texture of 'v' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.7903738-05:00|(Auto) Skipped adding possible duplicate texture of 'w' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.8640607-05:00|(Auto) Skipped adding possible duplicate texture of 'x' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.8840187-05:00|(Auto) Skipped adding possible duplicate texture of 'y' from 'Female 129 Undershirt' (Undershirt) at pos 129
+2024-12-27T18:13:49.8861191-05:00|Added Female 130 Undershirt with 0 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\016\mp_f_freemode_01_femalelore^accs_016_u.ydd.
+2024-12-27T18:13:51.6922031-05:00|Added Female 131 Undershirt with 3 found textures from D:\3D Models\GTA\Purchased Items\js_clothe_female\stream\accs\017\mp_f_freemode_01_femalelore^accs_017_u.ydd.
+2024-12-27T18:13:51.6956387-05:00|Found 6 Female cloth models
+2024-12-27T18:14:02.3817721-05:00|Successfully backed up project 2024-12-27 18:14:02.
+2024-12-27T18:14:05.7852105-05:00|Removed 2 items (See logs for full details). Total items: 1369
+2024-12-27T18:14:17.0371654-05:00|Removed 2 items (See logs for full details). Total items: 1367
+2024-12-27T18:14:22.3110161-05:00|Changed position of 'Female 128 Undershirt' (Undershirt) at pos 128 to 126.
+2024-12-27T18:14:22.4414026-05:00|Changed position of 'Female 129 Undershirt' (Undershirt) at pos 129 to 127.
+2024-12-27T18:14:22.5078790-05:00|Successfully resorted 2 from 1367 total item positions.
+2024-12-27T18:14:33.0132537-05:00|Removed 'Undershirt' (See logs for full details). Total items: 1366
+2024-12-27T18:14:41.3689185-05:00|Project with 1366 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-27T18:18:54.2917156-05:00|Trying to add 19 drawable files by drag & drop...
+2024-12-27T18:18:54.4591847-05:00|Added Female 50 PropEars with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_000.ydd.
+2024-12-27T18:18:55.5172240-05:00|Added Female 51 PropEars with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_001.ydd.
+2024-12-27T18:18:55.5432099-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 36 PropEars' (PropEars) at pos 36
+2024-12-27T18:18:55.5454290-05:00|Added Female 52 PropEars with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_002.ydd.
+2024-12-27T18:18:55.6029615-05:00|Added Female 53 PropEars with 3 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_003.ydd.
+2024-12-27T18:18:55.6600621-05:00|Added Female 54 PropEars with 3 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_004.ydd.
+2024-12-27T18:18:55.6971579-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 32 PropEars' (PropEars) at pos 32
+2024-12-27T18:18:55.7093479-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 32 PropEars' (PropEars) at pos 32
+2024-12-27T18:18:55.7113886-05:00|Added Female 55 PropEars with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_005.ydd.
+2024-12-27T18:18:55.7781538-05:00|Added Female 56 PropEars with 2 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_006.ydd.
+2024-12-27T18:18:55.8061118-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 2 PropEars' (PropEars) at pos 2
+2024-12-27T18:18:55.8252404-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 2 PropEars' (PropEars) at pos 2
+2024-12-27T18:18:55.8363829-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 2 PropEars' (PropEars) at pos 2
+2024-12-27T18:18:55.8481150-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 2 PropEars' (PropEars) at pos 2
+2024-12-27T18:18:55.8498539-05:00|Added Female 57 PropEars with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_007.ydd.
+2024-12-27T18:18:55.8768203-05:00|Added Female 58 PropEars with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_008.ydd.
+2024-12-27T18:18:55.9097560-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 28 PropEars' (PropEars) at pos 28
+2024-12-27T18:18:55.9208846-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 28 PropEars' (PropEars) at pos 28
+2024-12-27T18:18:55.9323582-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 28 PropEars' (PropEars) at pos 28
+2024-12-27T18:18:55.9353005-05:00|Added Female 59 PropEars with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_009.ydd.
+2024-12-27T18:18:55.9803360-05:00|Added Female 60 PropEars with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_010.ydd.
+2024-12-27T18:18:56.0286675-05:00|Added Female 61 PropEars with 2 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_011.ydd.
+2024-12-27T18:18:56.0563807-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 36 PropEars' (PropEars) at pos 36
+2024-12-27T18:18:56.0673694-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 36 PropEars' (PropEars) at pos 36
+2024-12-27T18:18:56.0787610-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 36 PropEars' (PropEars) at pos 36
+2024-12-27T18:18:56.0833958-05:00|Added Female 62 PropEars with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_012.ydd.
+2024-12-27T18:18:56.1147385-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 32 PropEars' (PropEars) at pos 32
+2024-12-27T18:18:56.1265573-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 32 PropEars' (PropEars) at pos 32
+2024-12-27T18:18:56.1281686-05:00|Added Female 63 PropEars with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_013.ydd.
+2024-12-27T18:18:56.1920498-05:00|Added Female 64 PropEars with 3 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_014.ydd.
+2024-12-27T18:18:56.2196850-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 2 PropEars' (PropEars) at pos 2
+2024-12-27T18:18:56.2285700-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 2 PropEars' (PropEars) at pos 2
+2024-12-27T18:18:56.2391638-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 2 PropEars' (PropEars) at pos 2
+2024-12-27T18:18:56.2510372-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 2 PropEars' (PropEars) at pos 2
+2024-12-27T18:18:56.2532081-05:00|Added Female 65 PropEars with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_015.ydd.
+2024-12-27T18:18:56.2796728-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 0 PropEars' (PropEars) at pos 0
+2024-12-27T18:18:56.2926114-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 0 PropEars' (PropEars) at pos 0
+2024-12-27T18:18:56.3054840-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 0 PropEars' (PropEars) at pos 0
+2024-12-27T18:18:56.3168341-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 64 Accessories' (Accessories) at pos 64
+2024-12-27T18:18:56.3262944-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 64 Accessories' (Accessories) at pos 64
+2024-12-27T18:18:56.3364538-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 64 Accessories' (Accessories) at pos 64
+2024-12-27T18:18:56.3456448-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 64 Accessories' (Accessories) at pos 64
+2024-12-27T18:18:56.3545064-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 64 Accessories' (Accessories) at pos 64
+2024-12-27T18:18:56.3643526-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 64 Accessories' (Accessories) at pos 64
+2024-12-27T18:18:56.3728650-05:00|(Auto) Skipped adding possible duplicate texture of 'j' from 'Female 64 Accessories' (Accessories) at pos 64
+2024-12-27T18:18:56.3827028-05:00|(Auto) Skipped adding possible duplicate texture of 'm' from 'Female 64 Accessories' (Accessories) at pos 64
+2024-12-27T18:18:56.3848310-05:00|Added Female 66 PropEars with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_016.ydd.
+2024-12-27T18:18:56.4108034-05:00|Added Female 67 PropEars with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_017.ydd.
+2024-12-27T18:18:56.4436517-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 24 PropEars' (PropEars) at pos 24
+2024-12-27T18:18:56.4545474-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 24 PropEars' (PropEars) at pos 24
+2024-12-27T18:18:56.4651427-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 24 PropEars' (PropEars) at pos 24
+2024-12-27T18:18:56.4668862-05:00|Added Female 68 PropEars with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_ears\mp_f_freemode_01_p_mp_f_districtfemale^p_ears_018.ydd.
+2024-12-27T18:18:56.4686187-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-27T18:18:57.7046660-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 19 new items and 0 new textures.
+2024-12-27T18:19:02.3726879-05:00|Successfully backed up project 2024-12-27 18:19:02.
+2024-12-27T18:19:09.3839043-05:00|Project with 1385 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-27T18:19:18.1708733-05:00|1385 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (1385 clothes/0 decorations/0 facial overlays) ...
+2024-12-27T18:19:18.9802850-05:00|Loading all 11565 items, this can take a moment...
+2024-12-27T18:19:26.1654354-05:00|Finished loading all 11565 items.
+2024-12-27T18:19:26.2068874-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 11565 items and ready to rock (in 16.7562931 seconds).
+2024-12-27T18:20:02.0513506-05:00|Removed 9 items (See logs for full details). Total items: 1376
+2024-12-27T18:20:02.3957380-05:00|Successfully backed up project 2024-12-27 18:20:02.
+2024-12-27T18:20:16.4101591-05:00|Removed 'PropEars' (See logs for full details). Total items: 1375
+2024-12-27T18:20:41.8427017-05:00|Removed 'PropEars' (See logs for full details). Total items: 1374
+2024-12-27T18:21:02.3706185-05:00|Successfully backed up project 2024-12-27 18:21:02.
+2024-12-27T18:21:18.7089494-05:00|Removed 'PropEars' (See logs for full details). Total items: 1373
+2024-12-27T18:21:25.5154069-05:00|Removed 'PropEars' (See logs for full details). Total items: 1372
+2024-12-27T18:21:32.9425175-05:00|Removed 'PropEars' (See logs for full details). Total items: 1371
+2024-12-27T18:21:49.0306441-05:00|Removed 'PropEars' (See logs for full details). Total items: 1370
+2024-12-27T18:21:57.8809745-05:00|Removed 'PropEars' (See logs for full details). Total items: 1369
+2024-12-27T18:22:02.3804136-05:00|Successfully backed up project 2024-12-27 18:22:02.
+2024-12-27T18:22:05.7802657-05:00|Removed 'PropEars' (See logs for full details). Total items: 1368
+2024-12-27T18:22:11.4308463-05:00|Removed 'PropEars' (See logs for full details). Total items: 1367
+2024-12-27T18:22:52.4528474-05:00|Removed 'PropEars' (See logs for full details). Total items: 1366
+2024-12-27T18:23:02.3690579-05:00|Successfully backed up project 2024-12-27 18:23:02.
+2024-12-27T18:23:43.6156902-05:00|Removed 'PropEars' (See logs for full details). Total items: 1365
+2024-12-27T18:23:50.7278139-05:00|Removed 'PropEars' (See logs for full details). Total items: 1364
+2024-12-27T18:24:02.3898026-05:00|Successfully backed up project 2024-12-27 18:24:02.
+2024-12-27T18:24:19.0172060-05:00|Removed 'PropEars' (See logs for full details). Total items: 1363
+2024-12-27T18:24:21.3965708-05:00|Changed position of 'Female 3 PropEars' (PropEars) at pos 3 to 1.
+2024-12-27T18:24:21.4500404-05:00|Changed position of 'Female 4 PropEars' (PropEars) at pos 4 to 2.
+2024-12-27T18:24:21.4901714-05:00|Changed position of 'Female 5 PropEars' (PropEars) at pos 5 to 3.
+2024-12-27T18:24:21.5075936-05:00|Changed position of 'Female 6 PropEars' (PropEars) at pos 6 to 4.
+2024-12-27T18:24:21.5279605-05:00|Changed position of 'Female 7 PropEars' (PropEars) at pos 7 to 5.
+2024-12-27T18:24:21.5765216-05:00|Changed position of 'Female 8 PropEars' (PropEars) at pos 8 to 6.
+2024-12-27T18:24:21.6184739-05:00|Changed position of 'Female 9 PropEars' (PropEars) at pos 9 to 7.
+2024-12-27T18:24:21.6478568-05:00|Changed position of 'Female 10 PropEars' (PropEars) at pos 10 to 8.
+2024-12-27T18:24:21.6643872-05:00|Changed position of 'Female 11 PropEars' (PropEars) at pos 11 to 9.
+2024-12-27T18:24:21.6836982-05:00|Changed position of 'Female 12 PropEars' (PropEars) at pos 12 to 10.
+2024-12-27T18:24:21.7143997-05:00|Changed position of 'Female 13 PropEars' (PropEars) at pos 13 to 11.
+2024-12-27T18:24:21.7377737-05:00|Changed position of 'Female 14 PropEars' (PropEars) at pos 14 to 12.
+2024-12-27T18:24:21.7616336-05:00|Changed position of 'Female 15 PropEars' (PropEars) at pos 15 to 13.
+2024-12-27T18:24:21.7818277-05:00|Changed position of 'Female 16 PropEars' (PropEars) at pos 16 to 14.
+2024-12-27T18:24:21.7967645-05:00|Changed position of 'Female 17 PropEars' (PropEars) at pos 17 to 15.
+2024-12-27T18:24:21.8189397-05:00|Changed position of 'Female 20 PropEars' (PropEars) at pos 20 to 16.
+2024-12-27T18:24:21.8379851-05:00|Changed position of 'Female 21 PropEars' (PropEars) at pos 21 to 17.
+2024-12-27T18:24:21.8528811-05:00|Changed position of 'Female 22 PropEars' (PropEars) at pos 22 to 18.
+2024-12-27T18:24:21.8665895-05:00|Changed position of 'Female 23 PropEars' (PropEars) at pos 23 to 19.
+2024-12-27T18:24:21.9952542-05:00|Changed position of 'Female 24 PropEars' (PropEars) at pos 24 to 20.
+2024-12-27T18:24:22.0063601-05:00|Changed position of 'Female 25 PropEars' (PropEars) at pos 25 to 21.
+2024-12-27T18:24:22.0192489-05:00|Changed position of 'Female 26 PropEars' (PropEars) at pos 26 to 22.
+2024-12-27T18:24:22.0287194-05:00|Changed position of 'Female 28 PropEars' (PropEars) at pos 28 to 23.
+2024-12-27T18:24:22.0412620-05:00|Changed position of 'Female 30 PropEars' (PropEars) at pos 30 to 24.
+2024-12-27T18:24:22.0503585-05:00|Changed position of 'Female 31 PropEars' (PropEars) at pos 31 to 25.
+2024-12-27T18:24:22.0621756-05:00|Changed position of 'Female 33 PropEars' (PropEars) at pos 33 to 26.
+2024-12-27T18:24:22.0729770-05:00|Changed position of 'Female 35 PropEars' (PropEars) at pos 35 to 27.
+2024-12-27T18:24:22.0850119-05:00|Changed position of 'Female 36 PropEars' (PropEars) at pos 36 to 28.
+2024-12-27T18:24:22.0950963-05:00|Changed position of 'Female 37 PropEars' (PropEars) at pos 37 to 29.
+2024-12-27T18:24:22.1066338-05:00|Changed position of 'Female 38 PropEars' (PropEars) at pos 38 to 30.
+2024-12-27T18:24:22.1191277-05:00|Changed position of 'Female 39 PropEars' (PropEars) at pos 39 to 31.
+2024-12-27T18:24:22.1280245-05:00|Changed position of 'Female 40 PropEars' (PropEars) at pos 40 to 32.
+2024-12-27T18:24:22.1396260-05:00|Changed position of 'Female 41 PropEars' (PropEars) at pos 41 to 33.
+2024-12-27T18:24:22.1484183-05:00|Changed position of 'Female 42 PropEars' (PropEars) at pos 42 to 34.
+2024-12-27T18:24:22.1613698-05:00|Changed position of 'Female 44 PropEars' (PropEars) at pos 44 to 35.
+2024-12-27T18:24:22.1730216-05:00|Changed position of 'Female 46 PropEars' (PropEars) at pos 46 to 36.
+2024-12-27T18:24:22.2112138-05:00|Changed position of 'Female 47 PropEars' (PropEars) at pos 47 to 37.
+2024-12-27T18:24:22.2311337-05:00|Changed position of 'Female 48 PropEars' (PropEars) at pos 48 to 38.
+2024-12-27T18:24:22.2446383-05:00|Changed position of 'Female 49 PropEars' (PropEars) at pos 49 to 39.
+2024-12-27T18:24:22.2542849-05:00|Changed position of 'Female 50 PropEars' (PropEars) at pos 50 to 40.
+2024-12-27T18:24:22.2661045-05:00|Changed position of 'Female 51 PropEars' (PropEars) at pos 51 to 41.
+2024-12-27T18:24:22.2767271-05:00|Changed position of 'Female 53 PropEars' (PropEars) at pos 53 to 42.
+2024-12-27T18:24:22.2894521-05:00|Changed position of 'Female 54 PropEars' (PropEars) at pos 54 to 43.
+2024-12-27T18:24:22.3038074-05:00|Changed position of 'Female 56 PropEars' (PropEars) at pos 56 to 44.
+2024-12-27T18:24:22.3160754-05:00|Changed position of 'Female 58 PropEars' (PropEars) at pos 58 to 45.
+2024-12-27T18:24:22.3291428-05:00|Changed position of 'Female 60 PropEars' (PropEars) at pos 60 to 46.
+2024-12-27T18:24:22.3972265-05:00|Successfully resorted 46 from 1363 total item positions.
+2024-12-27T18:24:26.2254049-05:00|Project with 1363 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-27T18:24:37.2410632-05:00|Project with 1363 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-27T18:35:28.8677345-05:00|Project with 1363 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-27T18:36:26.7660491-05:00|Project with 1363 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T00:04:32.5958721-05:00|Trying to add 16 drawable files by drag & drop...
+2024-12-28T00:04:32.6398356-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 30 PropEyes' (PropEyes) at pos 30
+2024-12-28T00:04:33.1060249-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 30 PropEyes' (PropEyes) at pos 30
+2024-12-28T00:04:33.1078879-05:00|Added Female 63 PropEyes with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_000.ydd.
+2024-12-28T00:04:33.2781643-05:00|Added Female 64 PropEyes with 7 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_001.ydd.
+2024-12-28T00:04:33.3245073-05:00|Added Female 65 PropEyes with 2 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_002.ydd.
+2024-12-28T00:04:33.3598909-05:00|Added Female 66 PropEyes with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_003.ydd.
+2024-12-28T00:04:33.3996032-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:33.4225156-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:33.4345104-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:33.4465497-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:33.4586139-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:33.4702875-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:33.4882224-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:33.5000554-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:33.5123727-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:33.5244913-05:00|(Auto) Skipped adding possible duplicate texture of 'j' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:33.5421065-05:00|(Auto) Skipped adding possible duplicate texture of 'k' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:33.5539947-05:00|(Auto) Skipped adding possible duplicate texture of 'l' from 'Female 5 PropEyes' (PropEyes) at pos 5
+2024-12-28T00:04:33.5556795-05:00|Added Female 67 PropEyes with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_004.ydd.
+2024-12-28T00:04:33.5892644-05:00|Added Female 68 PropEyes with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_005.ydd.
+2024-12-28T00:04:33.6231090-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 50 PropEyes' (PropEyes) at pos 50
+2024-12-28T00:04:33.6428931-05:00|Added Female 69 PropEyes with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_006.ydd.
+2024-12-28T00:04:33.6699336-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.6899225-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.7006771-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.7108375-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.7210184-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.7371868-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.7474085-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.7571147-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.7673925-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.7778823-05:00|(Auto) Skipped adding possible duplicate texture of 'j' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.7885914-05:00|(Auto) Skipped adding possible duplicate texture of 'k' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.8275916-05:00|(Auto) Skipped adding possible duplicate texture of 'l' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.8380833-05:00|(Auto) Skipped adding possible duplicate texture of 'm' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.8485484-05:00|(Auto) Skipped adding possible duplicate texture of 'n' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.8632766-05:00|(Auto) Skipped adding possible duplicate texture of 'o' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.8736556-05:00|(Auto) Skipped adding possible duplicate texture of 'p' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.8837795-05:00|(Auto) Skipped adding possible duplicate texture of 'q' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.8942274-05:00|(Auto) Skipped adding possible duplicate texture of 'r' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.9045762-05:00|(Auto) Skipped adding possible duplicate texture of 's' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.9153054-05:00|(Auto) Skipped adding possible duplicate texture of 't' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.9261691-05:00|(Auto) Skipped adding possible duplicate texture of 'u' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.9429331-05:00|(Auto) Skipped adding possible duplicate texture of 'v' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.9580163-05:00|(Auto) Skipped adding possible duplicate texture of 'w' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.9681126-05:00|(Auto) Skipped adding possible duplicate texture of 'x' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.9786970-05:00|(Auto) Skipped adding possible duplicate texture of 'y' from 'Female 51 PropEyes' (PropEyes) at pos 51
+2024-12-28T00:04:33.9802998-05:00|Added Female 70 PropEyes with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_007.ydd.
+2024-12-28T00:04:34.0107194-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:34.0340588-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:34.0460063-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:34.0586556-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:34.0758949-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:34.0921585-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:34.1040442-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:34.1163108-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:34.1279814-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:34.1428324-05:00|(Auto) Skipped adding possible duplicate texture of 'j' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:34.1559451-05:00|(Auto) Skipped adding possible duplicate texture of 'k' from 'Female 2 PropEyes' (PropEyes) at pos 2
+2024-12-28T00:04:34.1580898-05:00|Added Female 71 PropEyes with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_008.ydd.
+2024-12-28T00:04:34.1881698-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 52 PropEyes' (PropEyes) at pos 52
+2024-12-28T00:04:34.2078719-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 52 PropEyes' (PropEyes) at pos 52
+2024-12-28T00:04:34.4036576-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 52 PropEyes' (PropEyes) at pos 52
+2024-12-28T00:04:34.4158029-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 52 PropEyes' (PropEyes) at pos 52
+2024-12-28T00:04:34.4488563-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 52 PropEyes' (PropEyes) at pos 52
+2024-12-28T00:04:34.4597790-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 52 PropEyes' (PropEyes) at pos 52
+2024-12-28T00:04:34.4709739-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 52 PropEyes' (PropEyes) at pos 52
+2024-12-28T00:04:34.4859654-05:00|(Auto) Skipped adding possible duplicate texture of 'j' from 'Female 52 PropEyes' (PropEyes) at pos 52
+2024-12-28T00:04:34.4983827-05:00|(Auto) Skipped adding possible duplicate texture of 'k' from 'Female 52 PropEyes' (PropEyes) at pos 52
+2024-12-28T00:04:34.5090844-05:00|(Auto) Skipped adding possible duplicate texture of 'l' from 'Female 52 PropEyes' (PropEyes) at pos 52
+2024-12-28T00:04:34.5107011-05:00|Added Female 72 PropEyes with 2 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_009.ydd.
+2024-12-28T00:04:34.6129820-05:00|Added Female 73 PropEyes with 7 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_010.ydd.
+2024-12-28T00:04:34.6356251-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 42 PropEyes' (PropEyes) at pos 42
+2024-12-28T00:04:34.6585685-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 42 PropEyes' (PropEyes) at pos 42
+2024-12-28T00:04:34.6694206-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 42 PropEyes' (PropEyes) at pos 42
+2024-12-28T00:04:34.6722748-05:00|Added Female 74 PropEyes with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_011.ydd.
+2024-12-28T00:04:34.7379274-05:00|Added Female 75 PropEyes with 3 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_012.ydd.
+2024-12-28T00:04:34.7750237-05:00|Added Female 76 PropEyes with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_013.ydd.
+2024-12-28T00:04:34.8133095-05:00|Added Female 77 PropEyes with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_014.ydd.
+2024-12-28T00:04:34.8498955-05:00|Added Female 78 PropEyes with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_eyes\mp_f_freemode_01_p_mp_f_districtfemale^p_eyes_015.ydd.
+2024-12-28T00:04:34.8617434-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-28T00:04:35.6524645-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 16 new items and 0 new textures.
+2024-12-28T00:04:41.5242372-05:00|Project with 1379 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T00:04:48.9441363-05:00|1379 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (1379 clothes/0 decorations/0 facial overlays) ...
+2024-12-28T00:04:49.7451520-05:00|Loading all 11559 items, this can take a moment...
+2024-12-28T00:05:12.5286667-05:00|Finished loading all 11559 items.
+2024-12-28T00:05:12.5788169-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 11559 items and ready to rock (in 31.0232441 seconds).
+2024-12-28T00:05:40.8226816-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1378
+2024-12-28T00:05:43.8780628-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1377
+2024-12-28T00:05:52.8576008-05:00|Removed 5 items (See logs for full details). Total items: 1372
+2024-12-28T00:06:02.4045898-05:00|Successfully backed up project 2024-12-28 00:06:02.
+2024-12-28T00:06:04.3009495-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1371
+2024-12-28T00:06:07.9098682-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1370
+2024-12-28T00:06:38.5073719-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1369
+2024-12-28T00:06:42.9958056-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1368
+2024-12-28T00:06:48.5153524-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1367
+2024-12-28T00:06:53.3329829-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1366
+2024-12-28T00:07:02.4009642-05:00|Successfully backed up project 2024-12-28 00:07:02.
+2024-12-28T00:07:07.5655142-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1365
+2024-12-28T00:07:16.0594475-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1364
+2024-12-28T00:07:28.5759380-05:00|Trying to optimize texture 'g' of 'Female 49 PropEyes' (PropEyes) at pos 49 ...
+2024-12-28T00:07:31.0430680-05:00|Texture 'g' (0c1fba4b-d694-4d71-85fa-945d781f3bb1.ytd) file got successfully updated to 8f3210bd-ec1d-4039-a9b3-02db0a65b30e.ytd.
+2024-12-28T00:07:31.1005921-05:00|Texture Reds optimized from 4 MB to 1 MB, format D3DFMT_A8R8G8B8 => D3DFMT_DXT5, width/height 2048px/2048px => 2048px/2048px, mip maps 10 => 12
+2024-12-28T00:07:31.1028829-05:00|Successfully optimized drawable texture 'g' of 'Female 49 PropEyes' (PropEyes) at pos 49
+2024-12-28T00:07:40.9293247-05:00|Removed 2 items (See logs for full details). Total items: 1362
+2024-12-28T00:07:48.0246614-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1361
+2024-12-28T00:07:57.6603966-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1360
+2024-12-28T00:08:02.4036796-05:00|Successfully backed up project 2024-12-28 00:08:02.
+2024-12-28T00:08:08.1021001-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1359
+2024-12-28T00:08:23.8103547-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1358
+2024-12-28T00:08:41.8343054-05:00|Removed 2 items (See logs for full details). Total items: 1356
+2024-12-28T00:08:48.0332814-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1355
+2024-12-28T00:08:51.4917176-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1354
+2024-12-28T00:08:55.1589716-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1353
+2024-12-28T00:09:02.4087942-05:00|Successfully backed up project 2024-12-28 00:09:02.
+2024-12-28T00:09:08.0399485-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1352
+2024-12-28T00:09:21.7410396-05:00|Removed 2 items (See logs for full details). Total items: 1350
+2024-12-28T00:09:25.7143902-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1349
+2024-12-28T00:09:35.4137842-05:00|Removed 'PropEyes' (See logs for full details). Total items: 1348
+2024-12-28T00:09:39.2705381-05:00|Project with 1348 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T00:09:41.6245475-05:00|Changed position of 'Female 2 PropEyes' (PropEyes) at pos 2 to 1.
+2024-12-28T00:09:41.7055180-05:00|Changed position of 'Female 3 PropEyes' (PropEyes) at pos 3 to 2.
+2024-12-28T00:09:41.7195553-05:00|Changed position of 'Female 4 PropEyes' (PropEyes) at pos 4 to 3.
+2024-12-28T00:09:41.7327870-05:00|Changed position of 'Female 5 PropEyes' (PropEyes) at pos 5 to 4.
+2024-12-28T00:09:41.7498752-05:00|Changed position of 'Female 9 debadge' (PropEyes) at pos 9 to 5.
+2024-12-28T00:09:41.7616754-05:00|Changed position of 'Female 10 debadge' (PropEyes) at pos 10 to 6.
+2024-12-28T00:09:41.7761595-05:00|Changed position of 'Female 11 PropEyes' (PropEyes) at pos 11 to 7.
+2024-12-28T00:09:41.7984352-05:00|Changed position of 'Female 12 PropEyes' (PropEyes) at pos 12 to 8.
+2024-12-28T00:09:41.8260531-05:00|Changed position of 'Female 13 debadge' (PropEyes) at pos 13 to 9.
+2024-12-28T00:09:41.8884555-05:00|Changed position of 'Female 15 PropEyes' (PropEyes) at pos 15 to 10.
+2024-12-28T00:09:42.0918130-05:00|Changed position of 'Female 16 PropEyes' (PropEyes) at pos 16 to 11.
+2024-12-28T00:09:42.1024387-05:00|Changed position of 'Female 17 PropEyes' (PropEyes) at pos 17 to 12.
+2024-12-28T00:09:42.1171528-05:00|Changed position of 'Female 18 PropEyes' (PropEyes) at pos 18 to 13.
+2024-12-28T00:09:42.1432134-05:00|Changed position of 'Female 24 PropEyes' (PropEyes) at pos 24 to 14.
+2024-12-28T00:09:42.1702219-05:00|Changed position of 'Female 25 PropEyes' (PropEyes) at pos 25 to 15.
+2024-12-28T00:09:42.2036404-05:00|Changed position of 'Female 26 PropEyes' (PropEyes) at pos 26 to 16.
+2024-12-28T00:09:42.2329211-05:00|Changed position of 'Female 27 PropEyes' (PropEyes) at pos 27 to 17.
+2024-12-28T00:09:42.2675385-05:00|Changed position of 'Female 28 PropEyes' (PropEyes) at pos 28 to 18.
+2024-12-28T00:09:42.3018363-05:00|Changed position of 'Female 29 PropEyes' (PropEyes) at pos 29 to 19.
+2024-12-28T00:09:42.3242756-05:00|Changed position of 'Female 30 PropEyes' (PropEyes) at pos 30 to 20.
+2024-12-28T00:09:42.3372134-05:00|Changed position of 'Female 31 PropEyes' (PropEyes) at pos 31 to 21.
+2024-12-28T00:09:42.3516767-05:00|Changed position of 'Female 33 PropEyes' (PropEyes) at pos 33 to 22.
+2024-12-28T00:09:42.3690909-05:00|Changed position of 'Female 34 PropEyes' (PropEyes) at pos 34 to 23.
+2024-12-28T00:09:42.3854763-05:00|Changed position of 'Female 35 PropEyes' (PropEyes) at pos 35 to 24.
+2024-12-28T00:09:42.4013443-05:00|Changed position of 'Female 36 PropEyes' (PropEyes) at pos 36 to 25.
+2024-12-28T00:09:42.4219296-05:00|Changed position of 'Female 37 PropEyes' (PropEyes) at pos 37 to 26.
+2024-12-28T00:09:42.4355838-05:00|Changed position of 'Female 38 PropEyes' (PropEyes) at pos 38 to 27.
+2024-12-28T00:09:42.4464638-05:00|Changed position of 'Female 40 PropEyes' (PropEyes) at pos 40 to 28.
+2024-12-28T00:09:42.4606907-05:00|Changed position of 'Female 42 PropEyes' (PropEyes) at pos 42 to 29.
+2024-12-28T00:09:42.4734130-05:00|Changed position of 'Female 43 PropEyes' (PropEyes) at pos 43 to 30.
+2024-12-28T00:09:42.4876944-05:00|Changed position of 'Female 44 PropEyes' (PropEyes) at pos 44 to 31.
+2024-12-28T00:09:42.5034090-05:00|Changed position of 'Female 45 PropEyes' (PropEyes) at pos 45 to 32.
+2024-12-28T00:09:42.5180517-05:00|Changed position of 'Female 49 PropEyes' (PropEyes) at pos 49 to 33.
+2024-12-28T00:09:42.5331102-05:00|Changed position of 'Female 51 PropEyes' (PropEyes) at pos 51 to 34.
+2024-12-28T00:09:42.5430854-05:00|Changed position of 'Female 52 PropEyes' (PropEyes) at pos 52 to 35.
+2024-12-28T00:09:42.5585714-05:00|Changed position of 'Female 53 PropEyes' (PropEyes) at pos 53 to 36.
+2024-12-28T00:09:42.5746359-05:00|Changed position of 'Female 56 PropEyes' (PropEyes) at pos 56 to 37.
+2024-12-28T00:09:42.5916037-05:00|Changed position of 'Female 59 PropEyes' (PropEyes) at pos 59 to 38.
+2024-12-28T00:09:42.6219885-05:00|Changed position of 'Female 60 PropEyes' (PropEyes) at pos 60 to 39.
+2024-12-28T00:09:42.6362502-05:00|Changed position of 'Female 61 PropEyes' (PropEyes) at pos 61 to 40.
+2024-12-28T00:09:42.6498497-05:00|Changed position of 'Female 62 PropEyes' (PropEyes) at pos 62 to 41.
+2024-12-28T00:09:42.6603388-05:00|Changed position of 'Female 64 PropEyes' (PropEyes) at pos 64 to 42.
+2024-12-28T00:09:42.6762674-05:00|Changed position of 'Female 65 PropEyes' (PropEyes) at pos 65 to 43.
+2024-12-28T00:09:42.6917824-05:00|Changed position of 'Female 73 PropEyes' (PropEyes) at pos 73 to 44.
+2024-12-28T00:09:42.7084080-05:00|Changed position of 'Female 76 PropEyes' (PropEyes) at pos 76 to 45.
+2024-12-28T00:09:42.7206886-05:00|Changed position of 'Female 77 PropEyes' (PropEyes) at pos 77 to 46.
+2024-12-28T00:09:42.7358616-05:00|Changed position of 'Female 78 PropEyes' (PropEyes) at pos 78 to 47.
+2024-12-28T00:09:42.7988931-05:00|Successfully resorted 47 from 1348 total item positions.
+2024-12-28T00:09:56.0747883-05:00|Trying to add 4 drawable files by drag & drop...
+2024-12-28T00:09:56.1878811-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 36 PropHead' (PropHead) at pos 36
+2024-12-28T00:09:56.2713935-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 36 PropHead' (PropHead) at pos 36
+2024-12-28T00:09:56.2848097-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 36 PropHead' (PropHead) at pos 36
+2024-12-28T00:09:56.2963901-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 36 PropHead' (PropHead) at pos 36
+2024-12-28T00:09:56.3073846-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 36 PropHead' (PropHead) at pos 36
+2024-12-28T00:09:56.3358185-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 36 PropHead' (PropHead) at pos 36
+2024-12-28T00:09:56.3380385-05:00|Added Female 45 PropHead with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_head\mp_f_freemode_01_p_mp_f_districtfemale^p_head_000.ydd.
+2024-12-28T00:09:57.7465419-05:00|Added Female 46 PropHead with 4 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_head\mp_f_freemode_01_p_mp_f_districtfemale^p_head_001.ydd.
+2024-12-28T00:10:00.9935375-05:00|Added Female 47 PropHead with 8 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_head\mp_f_freemode_01_p_mp_f_districtfemale^p_head_002.ydd.
+2024-12-28T00:10:01.4275583-05:00|Added Female 48 PropHead with 10 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_head\mp_f_freemode_01_p_mp_f_districtfemale^p_head_003.ydd.
+2024-12-28T00:10:02.4777300-05:00|Successfully backed up project 2024-12-28 00:10:02.
+2024-12-28T00:10:18.7664422-05:00|Removed 4 items (See logs for full details). Total items: 1348
+2024-12-28T00:10:24.8718261-05:00|Removed 'PropHead' (See logs for full details). Total items: 1347
+2024-12-28T00:10:31.8325723-05:00|Removed 'PropHead' (See logs for full details). Total items: 1346
+2024-12-28T00:10:40.1131742-05:00|Removed 3 items (See logs for full details). Total items: 1343
+2024-12-28T00:11:02.4270861-05:00|Successfully backed up project 2024-12-28 00:11:02.
+2024-12-28T00:11:03.0280791-05:00|Changed position of 'Female 41 PropHead' (PropHead) at pos 41 to 37.
+2024-12-28T00:11:03.1276372-05:00|Changed position of 'Female 43 PropHead' (PropHead) at pos 43 to 38.
+2024-12-28T00:11:03.1514277-05:00|Changed position of 'Female 48 PropHead' (PropHead) at pos 48 to 39.
+2024-12-28T00:11:03.2502600-05:00|Successfully resorted 3 from 1343 total item positions.
+2024-12-28T00:11:07.5309776-05:00|Project with 1343 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T00:11:14.3681039-05:00|Trying to add 3 drawable files by drag & drop...
+2024-12-28T00:11:14.5186288-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 1 PropRWrist' (PropRWrist) at pos 1
+2024-12-28T00:11:14.8846051-05:00|Added Female 5 PropRWrist with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_rwrist\mp_f_freemode_01_p_mp_f_districtfemale^p_rwrist_000.ydd.
+2024-12-28T00:11:14.9376843-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 2 PropRWrist' (PropRWrist) at pos 2
+2024-12-28T00:11:14.9464305-05:00|Added Female 6 PropRWrist with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_rwrist\mp_f_freemode_01_p_mp_f_districtfemale^p_rwrist_001.ydd.
+2024-12-28T00:11:14.9837501-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 1 PropRWrist' (PropRWrist) at pos 1
+2024-12-28T00:11:14.9857436-05:00|Added Female 7 PropRWrist with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_p_mp_f_districtfemale\p_rwrist\mp_f_freemode_01_p_mp_f_districtfemale^p_rwrist_002.ydd.
+2024-12-28T00:11:26.2364475-05:00|Removed 3 items (See logs for full details). Total items: 1343
+2024-12-28T00:11:30.9238821-05:00|Project with 1343 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T00:11:58.1338788-05:00|Trying to add 19 drawable files by drag & drop...
+2024-12-28T00:11:58.2418499-05:00|Added Female 98 Mask with 4 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_000_u.ydd.
+2024-12-28T00:11:58.8923357-05:00|Added Female 99 Mask with 19 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_001_u.ydd.
+2024-12-28T00:11:59.0619093-05:00|Added Female 100 Mask with 10 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_002_u.ydd.
+2024-12-28T00:11:59.1679459-05:00|Added Female 101 Mask with 5 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_003_u.ydd.
+2024-12-28T00:11:59.2183269-05:00|Added Female 102 Mask with 2 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_004_u.ydd.
+2024-12-28T00:11:59.2539978-05:00|Added Female 103 Mask with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_005_u.ydd.
+2024-12-28T00:11:59.5326958-05:00|Added Female 104 Mask with 20 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_006_u.ydd.
+2024-12-28T00:11:59.6849675-05:00|Added Female 105 Mask with 11 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_007_u.ydd.
+2024-12-28T00:11:59.7588386-05:00|Added Female 106 Mask with 4 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_008_u.ydd.
+2024-12-28T00:12:00.1892258-05:00|Added Female 107 Mask with 18 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_009_u.ydd.
+2024-12-28T00:12:00.3354986-05:00|Added Female 108 Mask with 10 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_010_u.ydd.
+2024-12-28T00:12:00.6859404-05:00|Added Female 109 Mask with 25 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_011_u.ydd.
+2024-12-28T00:12:00.8622818-05:00|Added Female 110 Mask with 10 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_012_u.ydd.
+2024-12-28T00:12:01.0884337-05:00|Added Female 111 Mask with 15 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_013_u.ydd.
+2024-12-28T00:12:01.1846842-05:00|Added Female 112 Mask with 5 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_014_u.ydd.
+2024-12-28T00:12:01.2783411-05:00|Added Female 113 Mask with 6 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_015_u.ydd.
+2024-12-28T00:12:01.5359712-05:00|Added Female 114 Mask with 18 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_016_u.ydd.
+2024-12-28T00:12:01.5830548-05:00|Added Female 115 Mask with 2 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_017_u.ydd.
+2024-12-28T00:12:01.6196042-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 92 Mask' (Mask) at pos 92
+2024-12-28T00:12:01.6304287-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 92 Mask' (Mask) at pos 92
+2024-12-28T00:12:01.6421732-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 92 Mask' (Mask) at pos 92
+2024-12-28T00:12:01.6629572-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 92 Mask' (Mask) at pos 92
+2024-12-28T00:12:01.6747985-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 92 Mask' (Mask) at pos 92
+2024-12-28T00:12:01.6766948-05:00|Added Female 116 Mask with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_018_u.ydd.
+2024-12-28T00:12:01.6789228-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-28T00:12:04.9432879-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 19 new items and 0 new textures.
+2024-12-28T00:12:09.7821756-05:00|Project with 1362 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T00:12:18.6737143-05:00|1362 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (1362 clothes/0 decorations/0 facial overlays) ...
+2024-12-28T00:12:19.5237957-05:00|Loading all 11511 items, this can take a moment...
+2024-12-28T00:12:27.1058025-05:00|Finished loading all 11511 items.
+2024-12-28T00:12:27.1507696-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 11511 items and ready to rock (in 17.2863812 seconds).
+2024-12-28T00:12:35.8501006-05:00|Removed 'Mask' (See logs for full details). Total items: 1361
+2024-12-28T00:12:47.8304290-05:00|Removed 2 items (See logs for full details). Total items: 1359
+2024-12-28T00:13:02.4005344-05:00|Successfully backed up project 2024-12-28 00:13:02.
+2024-12-28T00:13:13.0273696-05:00|Removed texture 'a' from 'Female 105 Mask' (Mask) at pos 105
+2024-12-28T00:13:13.5605884-05:00|1 texture(s) deleted.
+2024-12-28T00:14:02.4220135-05:00|Successfully backed up project 2024-12-28 00:14:02.
+2024-12-28T00:15:02.4133872-05:00|Successfully backed up project 2024-12-28 00:15:02.
+2024-12-28T00:16:02.3990772-05:00|Successfully backed up project 2024-12-28 00:16:02.
+2024-12-28T00:16:44.8889472-05:00|Removed 'Mask' (See logs for full details). Total items: 1358
+2024-12-28T00:17:02.3986421-05:00|Successfully backed up project 2024-12-28 00:17:02.
+2024-12-28T00:17:06.4934721-05:00|Removed 'debadge' (See logs for full details). Total items: 1357
+2024-12-28T00:18:02.4310787-05:00|Successfully backed up project 2024-12-28 00:18:02.
+2024-12-28T00:18:06.7140300-05:00|Project with 1357 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T00:18:11.4148630-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 1.
+2024-12-28T00:18:11.6245217-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 2.
+2024-12-28T00:18:11.8070740-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 3.
+2024-12-28T00:18:11.9733405-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 4.
+2024-12-28T00:18:12.1469995-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 5.
+2024-12-28T00:18:12.3255799-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 6.
+2024-12-28T00:18:12.5447823-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 7.
+2024-12-28T00:18:12.7614450-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 8.
+2024-12-28T00:18:13.0226787-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 9.
+2024-12-28T00:18:13.2266848-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 10.
+2024-12-28T00:18:13.4778379-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 11.
+2024-12-28T00:18:13.7217746-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 12.
+2024-12-28T00:18:13.9245642-05:00|Changed position of 'Female 0 Mask' (Mask) at pos 0 to 13.
+2024-12-28T00:18:14.0918632-05:00|Changed position of 'Female 0 UWU Cat Cafe' (Mask) at pos 0 to 14.
+2024-12-28T00:18:14.5485179-05:00|Changed position of 'Female 1 Gang Mask' (Mask) at pos 1 to 15.
+2024-12-28T00:18:14.7909429-05:00|Changed position of 'Female 2 Mask' (Mask) at pos 2 to 16.
+2024-12-28T00:18:15.0056708-05:00|Changed position of 'Female 3 Mask' (Mask) at pos 3 to 17.
+2024-12-28T00:18:15.1940368-05:00|Changed position of 'Female 4 Mask' (Mask) at pos 4 to 18.
+2024-12-28T00:18:15.3761333-05:00|Changed position of 'Female 5 Mask' (Mask) at pos 5 to 19.
+2024-12-28T00:18:15.6171622-05:00|Changed position of 'Female 6 Mask' (Mask) at pos 6 to 20.
+2024-12-28T00:18:15.7983371-05:00|Changed position of 'Female 7 Mask' (Mask) at pos 7 to 21.
+2024-12-28T00:18:15.9652028-05:00|Changed position of 'Female 8 Mask' (Mask) at pos 8 to 22.
+2024-12-28T00:18:16.1360961-05:00|Changed position of 'Female 24 Decal' (Mask) at pos 24 to 23.
+2024-12-28T00:18:16.1659211-05:00|Changed position of 'Female 26 Mask' (Mask) at pos 26 to 24.
+2024-12-28T00:18:16.1903233-05:00|Changed position of 'Female 27 Mask' (Mask) at pos 27 to 25.
+2024-12-28T00:18:16.2056978-05:00|Changed position of 'Female 28 Mask' (Mask) at pos 28 to 26.
+2024-12-28T00:18:16.2332266-05:00|Changed position of 'Female 29 Mask' (Mask) at pos 29 to 27.
+2024-12-28T00:18:16.2564874-05:00|Changed position of 'Female 30 Mask' (Mask) at pos 30 to 28.
+2024-12-28T00:18:16.2742049-05:00|Changed position of 'Female 30 Mask' (Mask) at pos 30 to 29.
+2024-12-28T00:18:16.2950435-05:00|Changed position of 'Female 30 Mask' (Mask) at pos 30 to 31.
+2024-12-28T00:18:16.3135404-05:00|Changed position of 'Female 30 Mask' (Mask) at pos 30 to 32.
+2024-12-28T00:18:16.3488632-05:00|Changed position of 'Female 31 Mask' (Mask) at pos 31 to 33.
+2024-12-28T00:18:16.3895672-05:00|Changed position of 'Female 32 Mask' (Mask) at pos 32 to 34.
+2024-12-28T00:18:16.4290024-05:00|Changed position of 'Female 33 Mask' (Mask) at pos 33 to 35.
+2024-12-28T00:18:16.4705802-05:00|Changed position of 'Female 34 Mask' (Mask) at pos 34 to 36.
+2024-12-28T00:18:16.5182271-05:00|Changed position of 'Female 35 Mask' (Mask) at pos 35 to 37.
+2024-12-28T00:18:16.5586325-05:00|Changed position of 'Female 36 Mask' (Mask) at pos 36 to 38.
+2024-12-28T00:18:16.5979816-05:00|Changed position of 'Female 37 Mask' (Mask) at pos 37 to 39.
+2024-12-28T00:18:16.6397655-05:00|Changed position of 'Female 39 Mask' (Mask) at pos 39 to 40.
+2024-12-28T00:18:16.6723375-05:00|Changed position of 'Female 40 Mask' (Mask) at pos 40 to 41.
+2024-12-28T00:18:16.7016794-05:00|Changed position of 'Female 40 Mask' (Mask) at pos 40 to 42.
+2024-12-28T00:18:16.7349421-05:00|Changed position of 'Female 41 Mask' (Mask) at pos 41 to 43.
+2024-12-28T00:18:16.7741162-05:00|Changed position of 'Female 42 Mask' (Mask) at pos 42 to 44.
+2024-12-28T00:18:16.8245558-05:00|Changed position of 'Female 43 Mask' (Mask) at pos 43 to 45.
+2024-12-28T00:18:16.8649315-05:00|Changed position of 'Female 44 Mask' (Mask) at pos 44 to 46.
+2024-12-28T00:18:16.9060130-05:00|Changed position of 'Female 46 Mask' (Mask) at pos 46 to 47.
+2024-12-28T00:18:16.9405262-05:00|Changed position of 'Female 47 Mask' (Mask) at pos 47 to 48.
+2024-12-28T00:18:16.9647314-05:00|Changed position of 'Female 48 Mask' (Mask) at pos 48 to 49.
+2024-12-28T00:18:16.9846871-05:00|Changed position of 'Female 49 Mask' (Mask) at pos 49 to 50.
+2024-12-28T00:18:17.0084303-05:00|Changed position of 'Female 50 Mask' (Mask) at pos 50 to 51.
+2024-12-28T00:18:17.0287838-05:00|Changed position of 'Female 51 Mask' (Mask) at pos 51 to 52.
+2024-12-28T00:18:17.0429542-05:00|Changed position of 'Female 52 Mask' (Mask) at pos 52 to 53.
+2024-12-28T00:18:17.0625858-05:00|Changed position of 'Female 53 Mask' (Mask) at pos 53 to 54.
+2024-12-28T00:18:17.0814589-05:00|Changed position of 'Female 54 Mask' (Mask) at pos 54 to 55.
+2024-12-28T00:18:17.0988569-05:00|Changed position of 'Female 55 Mask' (Mask) at pos 55 to 56.
+2024-12-28T00:18:17.1194881-05:00|Changed position of 'Female 56 Mask' (Mask) at pos 56 to 57.
+2024-12-28T00:18:17.1415814-05:00|Changed position of 'Female 57 Mask' (Mask) at pos 57 to 58.
+2024-12-28T00:18:17.1566736-05:00|Changed position of 'Female 58 Accessories' (Mask) at pos 58 to 59.
+2024-12-28T00:18:17.1954233-05:00|Changed position of 'Female 59 Accessories' (Mask) at pos 59 to 60.
+2024-12-28T00:18:17.2276216-05:00|Changed position of 'Female 60 Accessories' (Mask) at pos 60 to 61.
+2024-12-28T00:18:17.2491580-05:00|Changed position of 'Female 61 Accessories' (Mask) at pos 61 to 62.
+2024-12-28T00:18:17.2639732-05:00|Changed position of 'Female 62 Accessories' (Mask) at pos 62 to 63.
+2024-12-28T00:18:17.2870167-05:00|Changed position of 'Female 63 Accessories' (Mask) at pos 63 to 64.
+2024-12-28T00:18:17.3042748-05:00|Changed position of 'Female 64 Accessories' (Mask) at pos 64 to 65.
+2024-12-28T00:18:17.3246079-05:00|Changed position of 'Female 65 Accessories' (Mask) at pos 65 to 66.
+2024-12-28T00:18:17.3438060-05:00|Changed position of 'Female 66 Accessories' (Mask) at pos 66 to 67.
+2024-12-28T00:18:17.3615281-05:00|Changed position of 'Female 67 Accessories' (Mask) at pos 67 to 68.
+2024-12-28T00:18:17.3759905-05:00|Changed position of 'Female 68 Accessories' (Mask) at pos 68 to 69.
+2024-12-28T00:18:17.3966591-05:00|Changed position of 'Female 69 Accessories' (Mask) at pos 69 to 70.
+2024-12-28T00:18:17.4204698-05:00|Changed position of 'Female 70 Accessories' (Mask) at pos 70 to 71.
+2024-12-28T00:18:17.4388875-05:00|Changed position of 'Female 71 Accessories' (Mask) at pos 71 to 72.
+2024-12-28T00:18:17.4596958-05:00|Changed position of 'Female 72 Accessories' (Mask) at pos 72 to 73.
+2024-12-28T00:18:17.4789575-05:00|Changed position of 'Female 73 Accessories' (Mask) at pos 73 to 74.
+2024-12-28T00:18:17.4985654-05:00|Changed position of 'Female 74 Accessories' (Mask) at pos 74 to 75.
+2024-12-28T00:18:17.5137386-05:00|Changed position of 'Female 75 Accessories' (Mask) at pos 75 to 76.
+2024-12-28T00:18:17.5336405-05:00|Changed position of 'Female 76 Accessories' (Mask) at pos 76 to 77.
+2024-12-28T00:18:17.5559742-05:00|Changed position of 'Female 77 Accessories' (Mask) at pos 77 to 78.
+2024-12-28T00:18:17.5757754-05:00|Changed position of 'Female 78 Accessories' (Mask) at pos 78 to 79.
+2024-12-28T00:18:17.5961431-05:00|Changed position of 'Female 79 Accessories' (Mask) at pos 79 to 80.
+2024-12-28T00:18:17.6155042-05:00|Changed position of 'Female 80 Decal' (Mask) at pos 80 to 81.
+2024-12-28T00:18:17.6353728-05:00|Changed position of 'Female 81 Mask' (Mask) at pos 81 to 82.
+2024-12-28T00:18:17.6529610-05:00|Changed position of 'Female 82 Mask' (Mask) at pos 82 to 83.
+2024-12-28T00:18:17.6761516-05:00|Changed position of 'Female 83 Mask' (Mask) at pos 83 to 84.
+2024-12-28T00:18:17.6950604-05:00|Changed position of 'Female 84 Mask' (Mask) at pos 84 to 85.
+2024-12-28T00:18:17.7141631-05:00|Changed position of 'Female 85 Mask' (Mask) at pos 85 to 86.
+2024-12-28T00:18:17.7386567-05:00|Changed position of 'Female 86 Mask' (Mask) at pos 86 to 87.
+2024-12-28T00:18:17.7565706-05:00|Changed position of 'Female 87 Mask' (Mask) at pos 87 to 88.
+2024-12-28T00:18:17.7777489-05:00|Changed position of 'Female 88 Accessories' (Mask) at pos 88 to 89.
+2024-12-28T00:18:17.8142638-05:00|Changed position of 'Female 89 Bag' (Mask) at pos 89 to 90.
+2024-12-28T00:18:17.8466609-05:00|Changed position of 'Female 90 Bag' (Mask) at pos 90 to 91.
+2024-12-28T00:18:17.8689258-05:00|Changed position of 'Female 91 Mask' (Mask) at pos 91 to 92.
+2024-12-28T00:18:17.8944544-05:00|Changed position of 'Female 92 Mask' (Mask) at pos 92 to 93.
+2024-12-28T00:18:17.9084705-05:00|Changed position of 'Female 93 Mask' (Mask) at pos 93 to 94.
+2024-12-28T00:18:17.9280139-05:00|Changed position of 'Female 94 Mask' (Mask) at pos 94 to 95.
+2024-12-28T00:18:17.9486522-05:00|Changed position of 'Female 95 Mask' (Mask) at pos 95 to 96.
+2024-12-28T00:18:17.9732921-05:00|Changed position of 'Female 96 Mask' (Mask) at pos 96 to 97.
+2024-12-28T00:18:17.9949436-05:00|Changed position of 'Female 97 Mask' (Mask) at pos 97 to 98.
+2024-12-28T00:18:18.0273023-05:00|Changed position of 'Female 109 Mask' (Mask) at pos 109 to 108.
+2024-12-28T00:18:18.0498718-05:00|Changed position of 'Female 111 Mask' (Mask) at pos 111 to 109.
+2024-12-28T00:18:18.0704340-05:00|Changed position of 'Female 112 Mask' (Mask) at pos 112 to 110.
+2024-12-28T00:18:18.0853736-05:00|Changed position of 'Female 113 Mask' (Mask) at pos 113 to 111.
+2024-12-28T00:18:18.1235303-05:00|Successfully resorted 101 from 1357 total item positions.
+2024-12-28T00:18:20.4815545-05:00|Project with 1357 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T00:18:45.9411449-05:00|Trying to add 6 drawable files by drag & drop...
+2024-12-28T00:18:46.1465537-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 94 Mask' (Mask) at pos 94
+2024-12-28T00:18:46.3819833-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 94 Mask' (Mask) at pos 94
+2024-12-28T00:18:46.3856505-05:00|Added Female 112 Mask with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_019_u.ydd.
+2024-12-28T00:18:46.5417899-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.5594207-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.5797989-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.5999548-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.6134975-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.6248052-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.6356312-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.6469024-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.6604244-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.6724872-05:00|(Auto) Skipped adding possible duplicate texture of 'j' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.6834548-05:00|(Auto) Skipped adding possible duplicate texture of 'k' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.6947194-05:00|(Auto) Skipped adding possible duplicate texture of 'l' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.7110639-05:00|(Auto) Skipped adding possible duplicate texture of 'm' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.7234853-05:00|(Auto) Skipped adding possible duplicate texture of 'n' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.7336969-05:00|(Auto) Skipped adding possible duplicate texture of 'o' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.7483710-05:00|(Auto) Skipped adding possible duplicate texture of 'p' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.7601085-05:00|(Auto) Skipped adding possible duplicate texture of 'q' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.7821517-05:00|(Auto) Skipped adding possible duplicate texture of 'r' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.7949311-05:00|(Auto) Skipped adding possible duplicate texture of 's' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.8298869-05:00|(Auto) Skipped adding possible duplicate texture of 't' from 'Female 95 Mask' (Mask) at pos 95
+2024-12-28T00:18:46.8317798-05:00|Added Female 113 Mask with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_020_u.ydd.
+2024-12-28T00:18:46.8936379-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:46.9216812-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:46.9343728-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:46.9582910-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:46.9953943-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:47.0230590-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:47.0560742-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:47.0847162-05:00|(Auto) Skipped adding possible duplicate texture of 'h' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:47.1134593-05:00|(Auto) Skipped adding possible duplicate texture of 'i' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:47.2976791-05:00|(Auto) Skipped adding possible duplicate texture of 'j' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:47.3086008-05:00|(Auto) Skipped adding possible duplicate texture of 'k' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:47.3243983-05:00|(Auto) Skipped adding possible duplicate texture of 'l' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:47.3347909-05:00|(Auto) Skipped adding possible duplicate texture of 'm' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:47.3474009-05:00|(Auto) Skipped adding possible duplicate texture of 'n' from 'Female 96 Mask' (Mask) at pos 96
+2024-12-28T00:18:47.3494536-05:00|Added Female 114 Mask with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_021_u.ydd.
+2024-12-28T00:18:47.7485357-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 15 Gang Mask' (Mask) at pos 15
+2024-12-28T00:18:47.7595050-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 15 Gang Mask' (Mask) at pos 15
+2024-12-28T00:18:47.7597275-05:00|Added Female 115 Mask with 7 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_022_u.ydd.
+2024-12-28T00:18:48.3109257-05:00|Added Female 116 Mask with 4 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_023_u.ydd.
+2024-12-28T00:18:53.7060443-05:00|Added Female 117 Mask with 17 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_024_u.ydd.
+2024-12-28T00:18:59.7414353-05:00|Removed 3 items (See logs for full details). Total items: 1360
+2024-12-28T00:19:02.4262974-05:00|Successfully backed up project 2024-12-28 00:19:02.
+2024-12-28T00:19:08.1121588-05:00|Removed 'Mask' (See logs for full details). Total items: 1359
+2024-12-28T00:19:19.6967788-05:00|Changed position of 'Female 115 Mask' (Mask) at pos 115 to 112.
+2024-12-28T00:19:19.9166671-05:00|Changed position of 'Female 116 Mask' (Mask) at pos 116 to 113.
+2024-12-28T00:19:19.9554111-05:00|Successfully resorted 2 from 1359 total item positions.
+2024-12-28T00:19:28.5590969-05:00|Trying to add 12 drawable files by drag & drop...
+2024-12-28T00:19:28.7773633-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 97 Mask' (Mask) at pos 97
+2024-12-28T00:19:28.8980824-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 97 Mask' (Mask) at pos 97
+2024-12-28T00:19:28.9010344-05:00|Added Female 114 Mask with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_025_u.ydd.
+2024-12-28T00:19:28.9337595-05:00|Added Female 115 Mask with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_026_u.ydd.
+2024-12-28T00:19:28.9971181-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 98 Mask' (Mask) at pos 98
+2024-12-28T00:19:29.0326830-05:00|(Auto) Skipped adding possible duplicate texture of 'b' from 'Female 98 Mask' (Mask) at pos 98
+2024-12-28T00:19:29.0561544-05:00|(Auto) Skipped adding possible duplicate texture of 'c' from 'Female 98 Mask' (Mask) at pos 98
+2024-12-28T00:19:29.0844376-05:00|(Auto) Skipped adding possible duplicate texture of 'd' from 'Female 98 Mask' (Mask) at pos 98
+2024-12-28T00:19:29.0951916-05:00|(Auto) Skipped adding possible duplicate texture of 'e' from 'Female 98 Mask' (Mask) at pos 98
+2024-12-28T00:19:29.1064821-05:00|(Auto) Skipped adding possible duplicate texture of 'f' from 'Female 98 Mask' (Mask) at pos 98
+2024-12-28T00:19:29.1238807-05:00|(Auto) Skipped adding possible duplicate texture of 'g' from 'Female 98 Mask' (Mask) at pos 98
+2024-12-28T00:19:29.1260713-05:00|Added Female 116 Mask with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_027_u.ydd.
+2024-12-28T00:19:29.1655233-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 42 Decal' (Decal) at pos 42
+2024-12-28T00:19:29.1759184-05:00|Added Female 117 Mask with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_028_u.ydd.
+2024-12-28T00:19:29.2264463-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 42 Decal' (Decal) at pos 42
+2024-12-28T00:19:29.2441561-05:00|Added Female 118 Mask with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_029_u.ydd.
+2024-12-28T00:19:29.2757519-05:00|(Auto) Skipped adding possible duplicate texture of 'a' from 'Female 42 Decal' (Decal) at pos 42
+2024-12-28T00:19:29.2959672-05:00|Added Female 119 Mask with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_030_u.ydd.
+2024-12-28T00:19:29.3923004-05:00|Added Female 120 Mask with 4 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_031_u.ydd.
+2024-12-28T00:19:29.4347285-05:00|Added Female 121 Mask with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_032_u.ydd.
+2024-12-28T00:19:29.4828504-05:00|Added Female 122 Mask with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_033_u.ydd.
+2024-12-28T00:19:29.7978848-05:00|Added Female 123 Mask with 18 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_034_u.ydd.
+2024-12-28T00:19:29.8673786-05:00|Added Female 124 Mask with 3 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_035_u.ydd.
+2024-12-28T00:19:29.9738933-05:00|Added Female 125 Mask with 4 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\berd\mp_f_freemode_01_mp_f_districtfemale^berd_036_u.ydd.
+2024-12-28T00:19:29.9761457-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-28T00:19:31.0452433-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 12 new items and 0 new textures.
+2024-12-28T00:19:36.4700702-05:00|Project with 1371 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
