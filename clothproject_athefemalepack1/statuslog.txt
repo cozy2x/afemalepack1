@@ -283,3 +283,37 @@
 2024-12-28T20:06:57.9451869-05:00|Changed position of 'Female 82 Body' (Body) at pos 82 to 78.
 2024-12-28T20:06:58.0138605-05:00|Successfully resorted 13 from 1454 total item positions.
 2024-12-28T20:07:01.3838724-05:00|Project with 1454 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T20:07:44.0478312-05:00|Project with 1454 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T20:22:35.9840313-05:00|Project with 1454 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T20:26:57.6759001-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-28T20:26:57.8216737-05:00|Failed to auto resolve options for p_head_004.ydd.
+2024-12-28T20:27:02.3457580-05:00|Added Female 40 PropHead with 1 found textures from D:\hihip\Downloads\cowgirlhats\Chats\Trevor\CowboyHat\p_head_004.ydd.
+2024-12-28T20:27:20.0605930-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-28T20:27:20.2081495-05:00|Failed to auto resolve options for p_head_000.ydd.
+2024-12-28T20:27:23.9927050-05:00|Added Female 41 PropHead with 1 found textures from D:\hihip\Downloads\cowgirlhats\Chats\Michael\CowboyHat\p_head_000.ydd.
+2024-12-28T20:27:32.7016041-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-28T20:27:32.7222123-05:00|Failed to auto resolve options for p_head_007.ydd.
+2024-12-28T20:27:36.6797411-05:00|Added Female 42 PropHead with 1 found textures from D:\hihip\Downloads\cowgirlhats\Chats\Franklin\CowboyHat\p_head_007.ydd.
+2024-12-28T20:27:43.9820126-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-28T20:27:44.2976346-05:00|Added Male 0 PropHead with 1 found textures from D:\hihip\Downloads\cowgirlhats\Cowboy Hat\mp_m_freemode_01_p_mp_m_smuggler_01^p_head_001.ydd.
+2024-12-28T20:27:49.0913516-05:00|Successfully backed up project 2024-12-28 20:27:49.
+2024-12-28T20:27:49.6920054-05:00|Removed 'PropHead' (See logs for full details). Total items: 1457
+2024-12-28T20:27:53.9464507-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-28T20:27:53.9788365-05:00|Failed to auto resolve options for p_head_000.ydd.
+2024-12-28T20:27:56.8735931-05:00|Added Female 43 PropHead with 1 found textures from D:\hihip\Downloads\cowgirlhats\V1\p_head_000.ydd.
+2024-12-28T20:28:03.7242772-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-28T20:28:03.7454415-05:00|Failed to auto resolve options for p_head_000.ydd.
+2024-12-28T20:28:06.9590092-05:00|Added Female 44 PropHead with 1 found textures from D:\hihip\Downloads\cowgirlhats\V2Franklin\p_head_000.ydd.
+2024-12-28T20:28:12.7489106-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-28T20:28:12.7717524-05:00|Failed to auto resolve options for p_head_000.ydd.
+2024-12-28T20:28:16.0091772-05:00|Added Female 45 PropHead with 1 found textures from D:\hihip\Downloads\cowgirlhats\V2Michael\p_head_000.ydd.
+2024-12-28T20:28:20.9871043-05:00|Trying to add 1 drawable files by drag & drop...
+2024-12-28T20:28:21.0194157-05:00|Failed to auto resolve options for p_head_000.ydd.
+2024-12-28T20:28:24.8896440-05:00|Continue adding possible duplicate texture of 'a' from 'Female 45 PropHead' (PropHead) at pos 45
+2024-12-28T20:28:25.0197006-05:00|Added Female 46 PropHead with 1 found textures from D:\hihip\Downloads\cowgirlhats\V2Trevor\p_head_000.ydd.
+2024-12-28T20:28:28.9450823-05:00|Removed 'PropHead' (See logs for full details). Total items: 1460
+2024-12-28T20:28:49.0889798-05:00|Successfully backed up project 2024-12-28 20:28:49.
+2024-12-28T20:29:49.1118381-05:00|Successfully backed up project 2024-12-28 20:29:49.
+2024-12-28T20:30:49.1418595-05:00|Successfully backed up project 2024-12-28 20:30:49.
+2024-12-28T20:31:49.1409945-05:00|Successfully backed up project 2024-12-28 20:31:49.
+2024-12-28T20:32:25.3590762-05:00|Project with 1460 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
