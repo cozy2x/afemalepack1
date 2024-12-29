@@ -335,3 +335,10 @@
 2024-12-28T20:36:35.6296611-05:00|Added texture Bunny 4.ytd to 'Female 90 Armor' (Armor) at pos 90
 2024-12-28T20:36:45.3427752-05:00|Project with 1461 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
 2024-12-28T20:36:47.6746040-05:00|Project with 1461 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T20:37:36.4249639-05:00|Project with 1461 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T20:38:31.5497357-05:00|Changed create sub folder for cloth drawable types setting to: Yes
+2024-12-28T20:38:49.1068604-05:00|Successfully backed up project 2024-12-28 20:38:49.
+2024-12-28T20:42:28.0032778-05:00|Successfully built FiveM resource (1461 clothes / 0 tattoos / 0 facial overlays) to D:\3D Models\GTA\District LA\github\clothproject_athefemalepack1\athefemalepack1
+2024-12-28T20:42:49.0924061-05:00|Successfully backed up project 2024-12-28 20:42:49.
+2024-12-28T20:43:49.1094441-05:00|Successfully backed up project 2024-12-28 20:43:49.
+2024-12-28T20:44:49.0945505-05:00|Successfully backed up project 2024-12-28 20:44:49.
