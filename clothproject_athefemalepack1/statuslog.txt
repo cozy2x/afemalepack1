@@ -54,3 +54,232 @@
 2024-12-28T19:00:45.5904731-05:00|Successfully resorted 39 from 1441 total item positions.
 2024-12-28T19:00:49.1343156-05:00|Successfully backed up project 2024-12-28 19:00:49.
 2024-12-28T19:00:53.7760540-05:00|Project with 1441 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T19:02:18.4119888-05:00|Project with 1441 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T19:02:28.3105310-05:00|Project with 1441 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T19:58:24.3155201-05:00|Trying to add 22 drawable files by drag & drop...
+2024-12-28T19:58:27.8889609-05:00|Skipped adding possible duplicate texture of 'a' from 'Female 24 Skinny Legendary V2' (Body) at pos 24
+2024-12-28T19:58:27.9756503-05:00|Added Female 66 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_000_r.ydd.
+2024-12-28T19:58:28.1084298-05:00|Added Female 67 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_001_r.ydd.
+2024-12-28T19:58:28.3839300-05:00|Added Female 68 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_002_r.ydd.
+2024-12-28T19:58:28.4835532-05:00|Added Female 69 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_003_r.ydd.
+2024-12-28T19:58:28.7029917-05:00|Added Female 70 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_004_r.ydd.
+2024-12-28T19:58:28.8093557-05:00|Added Female 71 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_005_r.ydd.
+2024-12-28T19:58:30.3323465-05:00|Skipped adding possible duplicate texture of 'a' from 'Female 12 MBody' (Body) at pos 12
+2024-12-28T19:58:30.3988042-05:00|Added Female 72 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_006_r.ydd.
+2024-12-28T19:58:30.4767524-05:00|Added Female 73 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_007_r.ydd.
+2024-12-28T19:58:30.5550628-05:00|Added Female 74 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_008_r.ydd.
+2024-12-28T19:58:30.8258826-05:00|Added Female 75 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_009_r.ydd.
+2024-12-28T19:58:30.8976573-05:00|Added Female 76 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_010_r.ydd.
+2024-12-28T19:58:31.1280647-05:00|Added Female 77 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_011_r.ydd.
+2024-12-28T19:58:31.3594256-05:00|Added Female 78 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_012_r.ydd.
+2024-12-28T19:58:31.5525879-05:00|Added Female 79 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_013_r.ydd.
+2024-12-28T19:58:33.0492476-05:00|Skipped adding possible duplicate texture of 'a' from 'Female 24 Skinny Legendary V2' (Body) at pos 24
+2024-12-28T19:58:33.1001579-05:00|Added Female 80 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_014_r.ydd.
+2024-12-28T19:58:34.0210613-05:00|Skipped adding possible duplicate texture of 'a' from 'Female 24 Skinny Legendary V2' (Body) at pos 24
+2024-12-28T19:58:34.0869623-05:00|Added Female 81 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_015_r.ydd.
+2024-12-28T19:58:34.2498685-05:00|Added Female 82 Body with 1 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_016_r.ydd.
+2024-12-28T19:58:34.9667230-05:00|Skipped adding possible duplicate texture of 'a' from 'Female 12 MBody' (Body) at pos 12
+2024-12-28T19:58:35.1334616-05:00|Added Female 83 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_017_r.ydd.
+2024-12-28T19:58:35.9646061-05:00|Skipped adding possible duplicate texture of 'a' from 'Female 12 MBody' (Body) at pos 12
+2024-12-28T19:58:36.0265514-05:00|Added Female 84 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_018_r.ydd.
+2024-12-28T19:58:36.6328224-05:00|Skipped adding possible duplicate texture of 'a' from 'Female 12 MBody' (Body) at pos 12
+2024-12-28T19:58:36.7007091-05:00|Added Female 85 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_019_r.ydd.
+2024-12-28T19:58:37.0496268-05:00|Skipped adding possible duplicate texture of 'a' from 'Female 12 MBody' (Body) at pos 12
+2024-12-28T19:58:37.1028206-05:00|Added Female 86 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_020_r.ydd.
+2024-12-28T19:58:37.5647851-05:00|Skipped adding possible duplicate texture of 'a' from 'Female 12 MBody' (Body) at pos 12
+2024-12-28T19:58:37.6189708-05:00|Added Female 87 Body with 0 found textures from D:\3D Models\GTA\Purchased Items\districtfemale\clothproject_districtfemale\districtfemale\stream\mp_f_freemode_01_mp_f_districtfemale\uppr\mp_f_freemode_01_mp_f_districtfemale^uppr_021_r.ydd.
+2024-12-28T19:58:37.6205581-05:00|Validating all added items to provide more insights, this can take a moment ...
+2024-12-28T19:58:38.1127314-05:00|Validated project cache. Removed 0 outdated items and 0 outdated textures. Added 22 new items and 0 new textures.
+2024-12-28T19:58:42.6548600-05:00|Project with 1463 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T19:58:52.7082727-05:00|1463 items in total loading from Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj (1463 clothes/0 decorations/0 facial overlays) ...
+2024-12-28T19:58:53.6544347-05:00|Loading all 12239 items, this can take a moment...
+2024-12-28T19:58:58.4718211-05:00|Finished loading all 12239 items.
+2024-12-28T19:58:58.5177712-05:00|Project D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj completely loaded 12239 items and ready to rock (in 15.7635675 seconds).
+2024-12-28T19:59:25.3580183-05:00|Removed 9 items (See logs for full details). Total items: 1454
+2024-12-28T19:59:49.1230199-05:00|Successfully backed up project 2024-12-28 19:59:49.
+2024-12-28T20:00:06.2697389-05:00|Successfully exported cloth texture ''a'' as PNG to D:\hihip\Downloads\fbody textures.
+2024-12-28T20:00:49.0975243-05:00|Successfully backed up project 2024-12-28 20:00:49.
+2024-12-28T20:01:05.7833671-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:01:05.9970707-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:01:12.3146664-05:00|Removed texture 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:01:12.6036149-05:00|1 texture(s) deleted.
+2024-12-28T20:01:21.8494312-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:01:23.5108296-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:01:23.6636454-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 68 Body' (Body) at pos 68
+2024-12-28T20:01:32.4259507-05:00|Removed texture 'a' from 'Female 68 Body' (Body) at pos 68
+2024-12-28T20:01:32.7325667-05:00|1 texture(s) deleted.
+2024-12-28T20:01:35.4273279-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:01:36.9937521-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:01:37.2878143-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 69 Body' (Body) at pos 69
+2024-12-28T20:01:39.9046633-05:00|Removed texture 'a' from 'Female 69 Body' (Body) at pos 69
+2024-12-28T20:01:40.0462764-05:00|1 texture(s) deleted.
+2024-12-28T20:01:42.9166964-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:01:44.7110804-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:01:44.9185862-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 70 Body' (Body) at pos 70
+2024-12-28T20:01:46.9827625-05:00|Removed texture 'a' from 'Female 70 Body' (Body) at pos 70
+2024-12-28T20:01:47.1513069-05:00|1 texture(s) deleted.
+2024-12-28T20:01:49.0924502-05:00|Successfully backed up project 2024-12-28 20:01:49.
+2024-12-28T20:01:49.9247362-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:01:51.6622179-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:01:52.0000998-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 71 Body' (Body) at pos 71
+2024-12-28T20:01:54.2520202-05:00|Removed texture 'a' from 'Female 71 Body' (Body) at pos 71
+2024-12-28T20:01:54.4542752-05:00|1 texture(s) deleted.
+2024-12-28T20:01:58.9071715-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:02:00.4463428-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:02:00.7247921-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 73 Body' (Body) at pos 73
+2024-12-28T20:02:14.2741530-05:00|Removed texture 'a' from 'Female 73 Body' (Body) at pos 73
+2024-12-28T20:02:14.5002820-05:00|1 texture(s) deleted.
+2024-12-28T20:02:17.7967128-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:02:19.1791591-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:02:19.3071375-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 74 Body' (Body) at pos 74
+2024-12-28T20:02:22.4725989-05:00|Removed texture 'a' from 'Female 74 Body' (Body) at pos 74
+2024-12-28T20:02:22.6733030-05:00|1 texture(s) deleted.
+2024-12-28T20:02:27.4968690-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:02:28.8304010-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:02:28.9466264-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 75 Body' (Body) at pos 75
+2024-12-28T20:02:33.2712546-05:00|Removed texture 'a' from 'Female 75 Body' (Body) at pos 75
+2024-12-28T20:02:33.4678807-05:00|1 texture(s) deleted.
+2024-12-28T20:02:38.4212647-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:02:39.7592966-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:02:39.9223212-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 76 Body' (Body) at pos 76
+2024-12-28T20:02:43.2227220-05:00|Removed texture 'a' from 'Female 76 Body' (Body) at pos 76
+2024-12-28T20:02:43.3702844-05:00|1 texture(s) deleted.
+2024-12-28T20:02:45.5945238-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:02:46.9630953-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:02:47.1069846-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 77 Body' (Body) at pos 77
+2024-12-28T20:02:49.1066768-05:00|Successfully backed up project 2024-12-28 20:02:49.
+2024-12-28T20:02:49.2753353-05:00|Removed texture 'a' from 'Female 77 Body' (Body) at pos 77
+2024-12-28T20:02:49.5134713-05:00|1 texture(s) deleted.
+2024-12-28T20:02:53.1569643-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:02:54.7787820-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:02:54.9197941-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 78 Body' (Body) at pos 78
+2024-12-28T20:02:59.2208440-05:00|Removed texture 'a' from 'Female 78 Body' (Body) at pos 78
+2024-12-28T20:02:59.5176787-05:00|1 texture(s) deleted.
+2024-12-28T20:03:03.7937308-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:03:05.2609269-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:03:05.4085129-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 79 Body' (Body) at pos 79
+2024-12-28T20:03:08.9544866-05:00|Removed texture 'a' from 'Female 79 Body' (Body) at pos 79
+2024-12-28T20:03:09.1730173-05:00|1 texture(s) deleted.
+2024-12-28T20:03:13.1814882-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:03:14.3021079-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:03:14.4991815-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 82 Body' (Body) at pos 82
+2024-12-28T20:03:17.7328857-05:00|Removed texture 'a' from 'Female 82 Body' (Body) at pos 82
+2024-12-28T20:03:17.9128608-05:00|1 texture(s) deleted.
+2024-12-28T20:03:31.7375489-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:03:33.4729824-05:00|Continue adding possible duplicate texture of 'a' from 'Female 67 Body' (Body) at pos 67
+2024-12-28T20:03:33.6087084-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:03:37.6344647-05:00|Removed texture 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:03:37.7826692-05:00|1 texture(s) deleted.
+2024-12-28T20:03:41.1010716-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:03:42.1460623-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:03:42.2466478-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 2 Dainty V2' (Body) at pos 2
+2024-12-28T20:03:44.3334116-05:00|Removed texture 'a' from 'Female 2 Dainty V2' (Body) at pos 2
+2024-12-28T20:03:44.6376118-05:00|1 texture(s) deleted.
+2024-12-28T20:03:47.1649462-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:03:48.3804409-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:03:48.7791388-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 3 Dainty V3' (Body) at pos 3
+2024-12-28T20:03:49.0923413-05:00|Successfully backed up project 2024-12-28 20:03:49.
+2024-12-28T20:03:52.5180635-05:00|Removed texture 'a' from 'Female 3 Dainty V3' (Body) at pos 3
+2024-12-28T20:03:52.6193007-05:00|1 texture(s) deleted.
+2024-12-28T20:04:00.2623277-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:04:01.7127629-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:04:01.8312541-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 7 FBody' (Body) at pos 7
+2024-12-28T20:04:05.0058270-05:00|Removed texture 'a' from 'Female 7 FBody' (Body) at pos 7
+2024-12-28T20:04:05.3106514-05:00|1 texture(s) deleted.
+2024-12-28T20:04:07.9944581-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:04:09.4121368-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:04:09.5632075-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 8 FBody' (Body) at pos 8
+2024-12-28T20:04:12.0034748-05:00|Removed texture 'a' from 'Female 8 FBody' (Body) at pos 8
+2024-12-28T20:04:12.2750249-05:00|1 texture(s) deleted.
+2024-12-28T20:04:14.9381210-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:04:16.1763040-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:04:16.3760534-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 9 FBody' (Body) at pos 9
+2024-12-28T20:04:18.3707879-05:00|Removed texture 'a' from 'Female 9 FBody' (Body) at pos 9
+2024-12-28T20:04:18.5850597-05:00|1 texture(s) deleted.
+2024-12-28T20:04:22.6580122-05:00|Project with 1454 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
+2024-12-28T20:04:25.9549828-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:04:27.1317269-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:04:27.2634931-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 10 FBody' (Body) at pos 10
+2024-12-28T20:04:30.8363037-05:00|Removed texture 'a' from 'Female 10 FBody' (Body) at pos 10
+2024-12-28T20:04:31.1377935-05:00|1 texture(s) deleted.
+2024-12-28T20:04:33.4340555-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:04:34.4952648-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:04:34.6615264-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 11 MBody' (Body) at pos 11
+2024-12-28T20:04:37.6169168-05:00|Removed texture 'a' from 'Female 11 MBody' (Body) at pos 11
+2024-12-28T20:04:37.8510561-05:00|1 texture(s) deleted.
+2024-12-28T20:04:40.3964547-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:04:41.5299481-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:04:41.6724315-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 12 MBody' (Body) at pos 12
+2024-12-28T20:04:44.8882014-05:00|Removed texture 'a' from 'Female 12 MBody' (Body) at pos 12
+2024-12-28T20:04:45.0253224-05:00|1 texture(s) deleted.
+2024-12-28T20:04:48.5569051-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:04:49.1052220-05:00|Successfully backed up project 2024-12-28 20:04:49.
+2024-12-28T20:04:49.7298995-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:04:49.8624945-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 13 MBody' (Body) at pos 13
+2024-12-28T20:04:52.0225945-05:00|Removed texture 'a' from 'Female 13 MBody' (Body) at pos 13
+2024-12-28T20:04:52.1797286-05:00|1 texture(s) deleted.
+2024-12-28T20:04:55.4821569-05:00|Removed texture 'a' from 'Female 14 MBody' (Body) at pos 14
+2024-12-28T20:04:55.5976546-05:00|1 texture(s) deleted.
+2024-12-28T20:04:56.8760222-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:04:58.1540428-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:04:58.2619541-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 14 MBody' (Body) at pos 14
+2024-12-28T20:05:04.1503142-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:05:05.3658411-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:05:05.5350191-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 15 MBody' (Body) at pos 15
+2024-12-28T20:05:07.7884437-05:00|Removed texture 'a' from 'Female 15 MBody' (Body) at pos 15
+2024-12-28T20:05:07.9780045-05:00|1 texture(s) deleted.
+2024-12-28T20:05:10.2363784-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:05:11.3789727-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:05:11.4922277-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 16 MBody' (Body) at pos 16
+2024-12-28T20:05:14.8531093-05:00|Removed texture 'a' from 'Female 16 MBody' (Body) at pos 16
+2024-12-28T20:05:15.1983690-05:00|1 texture(s) deleted.
+2024-12-28T20:05:18.5044999-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:05:19.5968738-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:05:19.7752608-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 17 Juicy' (Body) at pos 17
+2024-12-28T20:05:23.2181115-05:00|Removed texture 'a' from 'Female 17 Juicy' (Body) at pos 17
+2024-12-28T20:05:23.4542039-05:00|1 texture(s) deleted.
+2024-12-28T20:05:26.0047866-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:05:27.1819886-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:05:27.5592534-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 18 Juicy' (Body) at pos 18
+2024-12-28T20:05:29.8213504-05:00|Removed texture 'a' from 'Female 18 Juicy' (Body) at pos 18
+2024-12-28T20:05:29.9529801-05:00|1 texture(s) deleted.
+2024-12-28T20:05:33.4564865-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:05:34.5483743-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:05:34.7616390-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 19 KS' (Body) at pos 19
+2024-12-28T20:05:36.9937608-05:00|Removed texture 'a' from 'Female 19 KS' (Body) at pos 19
+2024-12-28T20:05:37.0930848-05:00|1 texture(s) deleted.
+2024-12-28T20:05:41.6914830-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:05:42.8449968-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:05:43.0380328-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 20 KS' (Body) at pos 20
+2024-12-28T20:05:45.2447202-05:00|Removed texture 'a' from 'Female 20 KS' (Body) at pos 20
+2024-12-28T20:05:45.4679564-05:00|1 texture(s) deleted.
+2024-12-28T20:05:48.0902398-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:05:49.0823295-05:00|Successfully backed up project 2024-12-28 20:05:49.
+2024-12-28T20:05:49.1840081-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:05:49.4612921-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 21 KS' (Body) at pos 21
+2024-12-28T20:05:52.4939166-05:00|Removed texture 'a' from 'Female 21 KS' (Body) at pos 21
+2024-12-28T20:05:52.6566477-05:00|1 texture(s) deleted.
+2024-12-28T20:06:03.2193960-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:06:04.4325533-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:06:04.5417811-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 23 Surreal' (Body) at pos 23
+2024-12-28T20:06:13.1124278-05:00|Trying to add 1 texture files to selected drawable by drag & drop...
+2024-12-28T20:06:14.4139231-05:00|Continue adding possible duplicate texture of 'a' from 'Female 1 Dainty V1' (Body) at pos 1
+2024-12-28T20:06:14.6304254-05:00|Added texture mp_fm_skin_f_up_whi.ytd to 'Female 24 Skinny Legendary V2' (Body) at pos 24
+2024-12-28T20:06:16.9864871-05:00|Removed texture 'a' from 'Female 24 Skinny Legendary V2' (Body) at pos 24
+2024-12-28T20:06:17.0861764-05:00|1 texture(s) deleted.
+2024-12-28T20:06:49.0843684-05:00|Successfully backed up project 2024-12-28 20:06:49.
+2024-12-28T20:06:57.5319099-05:00|Changed position of 'Female 67 Body' (Body) at pos 67 to 66.
+2024-12-28T20:06:57.7373167-05:00|Changed position of 'Female 68 Body' (Body) at pos 68 to 67.
+2024-12-28T20:06:57.7544784-05:00|Changed position of 'Female 69 Body' (Body) at pos 69 to 68.
+2024-12-28T20:06:57.7757773-05:00|Changed position of 'Female 70 Body' (Body) at pos 70 to 69.
+2024-12-28T20:06:57.7949341-05:00|Changed position of 'Female 71 Body' (Body) at pos 71 to 70.
+2024-12-28T20:06:57.8134722-05:00|Changed position of 'Female 73 Body' (Body) at pos 73 to 71.
+2024-12-28T20:06:57.8291610-05:00|Changed position of 'Female 74 Body' (Body) at pos 74 to 72.
+2024-12-28T20:06:57.8572944-05:00|Changed position of 'Female 75 Body' (Body) at pos 75 to 73.
+2024-12-28T20:06:57.8750654-05:00|Changed position of 'Female 76 Body' (Body) at pos 76 to 74.
+2024-12-28T20:06:57.8926054-05:00|Changed position of 'Female 77 Body' (Body) at pos 77 to 75.
+2024-12-28T20:06:57.9099984-05:00|Changed position of 'Female 78 Body' (Body) at pos 78 to 76.
+2024-12-28T20:06:57.9254707-05:00|Changed position of 'Female 79 Body' (Body) at pos 79 to 77.
+2024-12-28T20:06:57.9451869-05:00|Changed position of 'Female 82 Body' (Body) at pos 82 to 78.
+2024-12-28T20:06:58.0138605-05:00|Successfully resorted 13 from 1454 total item positions.
+2024-12-28T20:07:01.3838724-05:00|Project with 1454 clothes/decorations saved (D:\3D Models\GTA\District LA\github\afemalepack1\AFemalePack1.dctproj).
